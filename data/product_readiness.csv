@@ -1,0 +1,29 @@
+issue_id,campus_id,campus_name,source_domain,issue,affected_stage,severity,estimated_impacted_users,fix_hours,readiness_score,status,owner,recommendation
+RDY016,CMP029,Maple Bridge University,Product,First deposit setup confusion,approval to funding,High,1599,53,37.9,Open,Product,Add onboarding copy and checklist to the activation step.
+RDY006,CMP024,Prairie Data University,KYC,Passport image rework,application to KYC,High,1195,74,35.6,Ready to fix,Operations,Publish document examples before application handoff.
+RDY026,CMP014,Canyon State University,KYC,Passport image rework,application to KYC,High,1100,17,55.7,Ready to fix,Operations,Publish document examples before application handoff.
+RDY017,CMP005,Northern Engineering School,Product,Virtual card education gap,funding to card activation,High,607,30,49.6,Blocked,Product,Add onboarding copy and checklist to the activation step.
+RDY008,CMP015,Hudson Applied Sciences,Product,Virtual card education gap,funding to card activation,High,540,37,55.2,Blocked,Product,Add onboarding copy and checklist to the activation step.
+RDY021,CMP011,South Coast University,Product,Virtual card education gap,funding to card activation,Medium,1093,48,62.2,Ready to fix,Product,Add onboarding copy and checklist to the activation step.
+RDY028,CMP017,Riverbend University,Product,Virtual card education gap,funding to card activation,Medium,765,46,53.6,Ready to fix,Product,Add onboarding copy and checklist to the activation step.
+RDY004,CMP031,Twin Cities Applied College,KYC,Address proof mismatch,KYC to approval,Medium,734,48,55.8,Blocked,Compliance,Publish document examples before application handoff.
+RDY015,CMP027,Front Range Institute,Risk,Thin-file review queue,KYC to approval,Medium,716,42,55.0,Ready to fix,Risk,Route thin-file reviews into a named operating queue.
+RDY013,CMP022,Harbor Analytics Institute,Product,First deposit setup confusion,approval to funding,Medium,611,18,58.4,In review,Product,Add onboarding copy and checklist to the activation step.
+RDY019,CMP026,Magnolia Technical University,KYC,Passport image rework,application to KYC,Medium,577,26,60.4,Open,Operations,Publish document examples before application handoff.
+RDY010,CMP002,Metro Tech Institute,KYC,Passport image rework,application to KYC,Medium,544,51,60.3,Ready to fix,Operations,Publish document examples before application handoff.
+RDY025,CMP023,Keystone International College,KYC,Passport image rework,application to KYC,Watch,473,30,72.3,Open,Operations,Publish document examples before application handoff.
+RDY018,CMP025,Redwood Professional School,Product,First deposit setup confusion,approval to funding,Watch,413,35,65.7,Ready to fix,Product,Add onboarding copy and checklist to the activation step.
+RDY014,CMP019,Queen City College,Product,Virtual card education gap,funding to card activation,Watch,410,32,74.0,Open,Product,Add onboarding copy and checklist to the activation step.
+RDY027,CMP010,Central Research University,Data,Referral source missing,lead to application,Medium,376,65,48.9,Open,Data,Add required referral source validation before weekly readout.
+RDY023,CMP021,Union Graduate School,Product,First deposit setup confusion,approval to funding,Watch,347,30,70.1,In review,Product,Add onboarding copy and checklist to the activation step.
+RDY001,CMP032,Sunrise Engineering University,Data,Referral source missing,lead to application,Watch,344,18,84.9,Blocked,Data,Add required referral source validation before weekly readout.
+RDY007,CMP009,Bay Area Graduate Institute,KYC,Address proof mismatch,KYC to approval,Watch,332,16,68.9,Blocked,Compliance,Publish document examples before application handoff.
+RDY011,CMP016,Lone Star Polytechnic,Product,First deposit setup confusion,approval to funding,Watch,311,21,67.2,Open,Product,Add onboarding copy and checklist to the activation step.
+RDY005,CMP028,Gulf Coast Business School,Risk,Thin-file review queue,KYC to approval,Watch,294,23,76.6,Blocked,Risk,Route thin-file reviews into a named operating queue.
+RDY024,CMP008,Summit Business School,Product,First deposit setup confusion,approval to funding,Watch,291,30,70.0,Blocked,Product,Add onboarding copy and checklist to the activation step.
+RDY009,CMP007,Great Plains Tech,Data,Referral source missing,lead to application,Medium,269,23,58.2,Ready to fix,Data,Add required referral source validation before weekly readout.
+RDY002,CMP006,Capital City University,Product,First deposit setup confusion,approval to funding,Medium,239,27,65.6,In review,Product,Add onboarding copy and checklist to the activation step.
+RDY012,CMP003,Lakeview State,RevOps,Campus partner attribution gap,lead to application,Medium,201,42,65.3,Open,RevOps,Standardize partner and campaign source fields.
+RDY020,CMP001,Atlantic Gateway University,Product,First deposit setup confusion,approval to funding,Watch,179,41,75.8,In review,Product,Add onboarding copy and checklist to the activation step.
+RDY003,CMP012,Pioneer STEM College,Data,Referral source missing,lead to application,Watch,166,59,72.2,Open,Data,Add required referral source validation before weekly readout.
+RDY022,CMP018,Northwest Innovation School,Support,Arrival week support spike,application to activation,Watch,123,70,63.2,In review,Operations,Pre-staff arrival week macro coverage and escalation paths.

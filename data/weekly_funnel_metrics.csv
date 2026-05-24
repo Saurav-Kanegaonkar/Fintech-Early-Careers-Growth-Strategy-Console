@@ -1,0 +1,1729 @@
+week_start,campus_id,channel_id,channel_name,impressions,leads,applications,kyc_started,approved_accounts,funded_accounts,activated_users,spend,support_tickets,kyc_rework_cases
+2026-06-15,CMP001,campus_ambassador,Campus ambassadors,684,62,14,11,5,2,1,1100.39,0,1
+2026-06-15,CMP001,partner_webinar,Partner webinars,1136,150,38,27,14,7,5,4342.23,0,0
+2026-06-15,CMP001,referral,Student referral loops,1085,114,31,24,12,6,4,1962.24,2,0
+2026-06-15,CMP001,creator_content,Creator content,1108,70,16,13,7,3,1,1437.52,1,0
+2026-06-15,CMP001,paid_social,Paid social,825,44,11,8,4,1,0,1364.51,0,2
+2026-06-15,CMP001,search_content,Search and explainer content,955,79,13,10,5,2,1,1912.67,0,0
+2026-06-15,CMP002,campus_ambassador,Campus ambassadors,895,81,15,12,6,2,1,1494.33,6,0
+2026-06-15,CMP002,partner_webinar,Partner webinars,731,96,20,14,8,3,2,2192.14,0,0
+2026-06-15,CMP002,referral,Student referral loops,1357,142,33,24,14,6,4,1826.81,0,0
+2026-06-15,CMP002,creator_content,Creator content,1107,70,17,14,8,3,1,1595.39,0,3
+2026-06-15,CMP002,paid_social,Paid social,880,47,12,10,6,2,1,1915.33,1,0
+2026-06-15,CMP002,search_content,Search and explainer content,1220,101,18,14,9,4,2,2396.71,0,0
+2026-06-15,CMP003,campus_ambassador,Campus ambassadors,164,14,2,1,0,0,0,303.62,2,0
+2026-06-15,CMP003,partner_webinar,Partner webinars,267,33,6,5,1,0,0,999.45,0,0
+2026-06-15,CMP003,referral,Student referral loops,199,19,2,1,0,0,0,257.07,7,0
+2026-06-15,CMP003,creator_content,Creator content,186,11,1,0,0,0,0,304.67,0,0
+2026-06-15,CMP003,paid_social,Paid social,219,11,2,1,0,0,0,436.77,1,7
+2026-06-15,CMP003,search_content,Search and explainer content,186,14,1,0,0,0,0,285.54,3,0
+2026-06-15,CMP004,campus_ambassador,Campus ambassadors,335,26,4,3,1,0,0,424.8,0,1
+2026-06-15,CMP004,partner_webinar,Partner webinars,240,27,5,4,2,0,0,679.12,0,0
+2026-06-15,CMP004,referral,Student referral loops,255,23,3,2,0,0,0,405.56,1,0
+2026-06-15,CMP004,creator_content,Creator content,355,19,2,1,0,0,0,523.13,0,0
+2026-06-15,CMP004,paid_social,Paid social,252,11,2,1,0,0,0,425.93,0,0
+2026-06-15,CMP004,search_content,Search and explainer content,523,38,7,5,2,0,0,731.39,0,0
+2026-06-15,CMP005,campus_ambassador,Campus ambassadors,524,43,12,10,4,2,1,1191.29,1,3
+2026-06-15,CMP005,partner_webinar,Partner webinars,710,85,19,15,7,2,1,3216.33,2,0
+2026-06-15,CMP005,referral,Student referral loops,276,26,6,4,1,0,0,418.67,0,4
+2026-06-15,CMP005,creator_content,Creator content,319,18,3,2,0,0,0,456.04,0,0
+2026-06-15,CMP005,paid_social,Paid social,451,22,5,4,1,0,0,1231.85,0,0
+2026-06-15,CMP005,search_content,Search and explainer content,750,56,12,9,4,1,0,1759.14,2,0
+2026-06-15,CMP006,campus_ambassador,Campus ambassadors,561,47,11,9,4,1,0,1062.49,0,3
+2026-06-15,CMP006,partner_webinar,Partner webinars,329,39,6,4,1,0,0,1442.53,6,1
+2026-06-15,CMP006,referral,Student referral loops,620,59,8,6,2,1,0,1092.73,0,0
+2026-06-15,CMP006,creator_content,Creator content,624,36,8,5,2,1,0,1230.71,0,0
+2026-06-15,CMP006,paid_social,Paid social,696,34,7,6,2,0,0,1655.37,0,2
+2026-06-15,CMP006,search_content,Search and explainer content,388,29,4,3,1,0,0,964.18,3,0
+2026-06-15,CMP007,campus_ambassador,Campus ambassadors,857,80,14,11,5,2,1,1644.63,0,0
+2026-06-15,CMP007,partner_webinar,Partner webinars,1649,223,39,33,14,7,4,6791.69,1,2
+2026-06-15,CMP007,referral,Student referral loops,1537,165,40,31,15,6,3,2392.37,0,0
+2026-06-15,CMP007,creator_content,Creator content,1009,65,15,11,5,2,1,1841.52,0,0
+2026-06-15,CMP007,paid_social,Paid social,936,51,7,5,2,1,0,2213.79,3,0
+2026-06-15,CMP007,search_content,Search and explainer content,1444,123,26,20,10,3,1,2426.79,3,1
+2026-06-15,CMP008,campus_ambassador,Campus ambassadors,593,52,11,8,4,1,0,1407.69,6,0
+2026-06-15,CMP008,partner_webinar,Partner webinars,1917,243,80,61,30,16,11,7704.15,12,0
+2026-06-15,CMP008,referral,Student referral loops,1085,109,36,31,17,8,5,2470.49,5,0
+2026-06-15,CMP008,creator_content,Creator content,1348,82,26,19,10,6,2,2626.57,6,0
+2026-06-15,CMP008,paid_social,Paid social,1586,82,17,12,6,2,1,4608.43,2,0
+2026-06-15,CMP008,search_content,Search and explainer content,1065,85,24,18,8,4,2,2043.55,0,0
+2026-06-15,CMP009,campus_ambassador,Campus ambassadors,746,63,12,10,4,1,0,1124.35,0,0
+2026-06-15,CMP009,partner_webinar,Partner webinars,581,70,10,7,4,1,0,1719.15,0,0
+2026-06-15,CMP009,referral,Student referral loops,405,39,4,3,1,0,0,515.95,0,2
+2026-06-15,CMP009,creator_content,Creator content,914,53,8,6,3,0,0,1648.42,3,0
+2026-06-15,CMP009,paid_social,Paid social,305,15,2,1,0,0,0,575.87,0,2
+2026-06-15,CMP009,search_content,Search and explainer content,481,36,5,3,1,0,0,1070.81,5,1
+2026-06-15,CMP010,campus_ambassador,Campus ambassadors,310,27,8,6,2,1,0,678.05,0,0
+2026-06-15,CMP010,partner_webinar,Partner webinars,306,38,10,8,3,1,0,1225.74,0,0
+2026-06-15,CMP010,referral,Student referral loops,510,50,14,11,5,2,1,1018.77,0,0
+2026-06-15,CMP010,creator_content,Creator content,291,17,3,2,0,0,0,669.52,0,0
+2026-06-15,CMP010,paid_social,Paid social,257,13,3,2,1,0,0,578.26,5,2
+2026-06-15,CMP010,search_content,Search and explainer content,258,20,4,3,1,0,0,621.34,1,1
+2026-06-15,CMP011,campus_ambassador,Campus ambassadors,715,63,20,16,8,3,1,1553.78,0,0
+2026-06-15,CMP011,partner_webinar,Partner webinars,898,114,43,32,20,9,6,3261.13,3,0
+2026-06-15,CMP011,referral,Student referral loops,889,90,31,23,12,6,4,1763.14,0,0
+2026-06-15,CMP011,creator_content,Creator content,902,55,18,13,7,3,1,1524.23,3,0
+2026-06-15,CMP011,paid_social,Paid social,891,46,11,8,4,2,0,2192.44,0,3
+2026-06-15,CMP011,search_content,Search and explainer content,1129,90,36,29,18,7,4,2359.7,0,0
+2026-06-15,CMP012,campus_ambassador,Campus ambassadors,670,55,12,9,5,2,1,1377.68,1,0
+2026-06-15,CMP012,partner_webinar,Partner webinars,765,90,16,13,7,3,1,3390.14,0,3
+2026-06-15,CMP012,referral,Student referral loops,351,33,10,7,4,1,0,477.87,0,1
+2026-06-15,CMP012,creator_content,Creator content,713,40,8,6,4,1,0,1284.8,0,0
+2026-06-15,CMP012,paid_social,Paid social,337,16,3,2,1,0,0,608.44,3,4
+2026-06-15,CMP012,search_content,Search and explainer content,768,57,17,13,9,4,2,1207.81,0,0
+2026-06-15,CMP013,campus_ambassador,Campus ambassadors,230,23,8,6,3,1,0,610.79,2,1
+2026-06-15,CMP013,partner_webinar,Partner webinars,356,51,13,10,6,3,1,1561.2,0,0
+2026-06-15,CMP013,referral,Student referral loops,273,31,10,8,3,1,0,489.3,1,3
+2026-06-15,CMP013,creator_content,Creator content,604,41,13,9,5,3,1,1178.22,0,4
+2026-06-15,CMP013,paid_social,Paid social,378,22,8,6,3,1,0,867.62,4,2
+2026-06-15,CMP013,search_content,Search and explainer content,488,44,17,13,7,3,1,1400.58,8,0
+2026-06-15,CMP014,campus_ambassador,Campus ambassadors,2101,194,59,51,34,20,11,4163.28,0,0
+2026-06-15,CMP014,partner_webinar,Partner webinars,933,124,31,24,16,9,5,4461.48,0,3
+2026-06-15,CMP014,referral,Student referral loops,994,105,22,17,9,4,2,2067.93,0,0
+2026-06-15,CMP014,creator_content,Creator content,1577,101,20,16,8,5,2,3826.18,0,0
+2026-06-15,CMP014,paid_social,Paid social,1067,57,11,8,4,2,0,3234.79,0,4
+2026-06-15,CMP014,search_content,Search and explainer content,826,69,14,11,6,3,1,2048.41,6,0
+2026-06-15,CMP015,campus_ambassador,Campus ambassadors,782,64,13,9,5,2,1,996.47,3,1
+2026-06-15,CMP015,partner_webinar,Partner webinars,950,113,27,22,13,7,4,3347.32,5,1
+2026-06-15,CMP015,referral,Student referral loops,587,55,12,10,4,2,1,932.65,0,0
+2026-06-15,CMP015,creator_content,Creator content,664,38,6,5,2,1,0,934.2,2,3
+2026-06-15,CMP015,paid_social,Paid social,521,25,4,3,1,0,0,961.86,0,0
+2026-06-15,CMP015,search_content,Search and explainer content,420,31,4,3,1,0,0,636.58,0,0
+2026-06-15,CMP016,campus_ambassador,Campus ambassadors,761,68,16,14,5,2,1,1459.92,0,0
+2026-06-15,CMP016,partner_webinar,Partner webinars,450,58,10,8,3,1,0,2326.6,0,5
+2026-06-15,CMP016,referral,Student referral loops,524,53,14,11,4,1,0,1005.46,4,0
+2026-06-15,CMP016,creator_content,Creator content,512,31,6,5,2,0,0,1033.01,0,0
+2026-06-15,CMP016,paid_social,Paid social,436,22,3,2,1,0,0,821.91,1,1
+2026-06-15,CMP016,search_content,Search and explainer content,447,36,7,5,2,0,0,895.09,0,6
+2026-06-15,CMP017,campus_ambassador,Campus ambassadors,1670,153,32,23,15,6,3,3036.37,0,3
+2026-06-15,CMP017,partner_webinar,Partner webinars,1844,243,74,58,38,19,13,7729.77,3,4
+2026-06-15,CMP017,referral,Student referral loops,705,74,15,12,8,3,1,1429.89,0,6
+2026-06-15,CMP017,creator_content,Creator content,689,43,9,7,4,2,1,987.2,1,0
+2026-06-15,CMP017,paid_social,Paid social,770,41,13,11,6,2,0,1838.23,1,1
+2026-06-15,CMP017,search_content,Search and explainer content,1268,105,20,16,9,4,2,2891.19,0,0
+2026-06-15,CMP018,campus_ambassador,Campus ambassadors,178,16,3,2,1,0,0,264.84,0,0
+2026-06-15,CMP018,partner_webinar,Partner webinars,209,27,5,3,1,0,0,871.03,0,0
+2026-06-15,CMP018,referral,Student referral loops,519,54,12,9,4,1,0,711.16,0,1
+2026-06-15,CMP018,creator_content,Creator content,326,20,3,2,1,0,0,419.99,3,0
+2026-06-15,CMP018,paid_social,Paid social,344,18,3,2,1,0,0,543.95,0,0
+2026-06-15,CMP018,search_content,Search and explainer content,400,32,6,4,2,0,0,557.25,5,0
+2026-06-15,CMP019,campus_ambassador,Campus ambassadors,1081,99,25,18,11,5,2,1837.53,3,0
+2026-06-15,CMP019,partner_webinar,Partner webinars,1446,190,33,27,15,5,3,4073.91,2,0
+2026-06-15,CMP019,referral,Student referral loops,1515,159,34,28,16,6,4,1880.14,0,2
+2026-06-15,CMP019,creator_content,Creator content,915,58,15,11,6,2,0,1332.93,0,0
+2026-06-15,CMP019,paid_social,Paid social,639,34,7,5,3,1,0,1126.63,0,1
+2026-06-15,CMP019,search_content,Search and explainer content,945,78,12,9,5,2,1,1735.67,3,6
+2026-06-15,CMP020,campus_ambassador,Campus ambassadors,634,60,14,10,5,2,1,1022.41,3,0
+2026-06-15,CMP020,partner_webinar,Partner webinars,745,101,19,14,7,4,2,2279.42,0,0
+2026-06-15,CMP020,referral,Student referral loops,683,74,18,14,7,4,2,1018.81,0,0
+2026-06-15,CMP020,creator_content,Creator content,748,49,11,9,4,2,1,1341.16,0,0
+2026-06-15,CMP020,paid_social,Paid social,986,54,13,10,5,3,1,1558.12,0,0
+2026-06-15,CMP020,search_content,Search and explainer content,1487,127,35,27,13,8,4,3258.65,5,1
+2026-06-15,CMP021,campus_ambassador,Campus ambassadors,748,59,17,13,6,2,1,1411.33,0,0
+2026-06-15,CMP021,partner_webinar,Partner webinars,485,55,13,9,5,2,1,1383.69,0,4
+2026-06-15,CMP021,referral,Student referral loops,661,59,16,13,7,2,1,1228.25,0,3
+2026-06-15,CMP021,creator_content,Creator content,912,49,11,8,3,1,0,1270.53,9,0
+2026-06-15,CMP021,paid_social,Paid social,656,30,7,5,2,0,0,1659.04,0,0
+2026-06-15,CMP021,search_content,Search and explainer content,764,54,14,10,4,1,0,1306.64,3,3
+2026-06-15,CMP022,campus_ambassador,Campus ambassadors,790,69,11,8,4,1,0,1185.24,1,0
+2026-06-15,CMP022,partner_webinar,Partner webinars,922,116,14,10,6,2,1,2774.24,0,2
+2026-06-15,CMP022,referral,Student referral loops,1148,115,20,16,8,3,2,1696.28,5,0
+2026-06-15,CMP022,creator_content,Creator content,673,40,5,4,2,0,0,1043.21,3,3
+2026-06-15,CMP022,paid_social,Paid social,516,26,2,1,0,0,0,719.01,0,0
+2026-06-15,CMP022,search_content,Search and explainer content,838,66,9,6,3,1,0,1361.55,0,0
+2026-06-15,CMP023,campus_ambassador,Campus ambassadors,851,82,26,18,10,5,2,1955.96,2,0
+2026-06-15,CMP023,partner_webinar,Partner webinars,328,45,14,10,5,2,1,1489.95,8,1
+2026-06-15,CMP023,referral,Student referral loops,720,79,21,18,11,5,3,1565.0,0,0
+2026-06-15,CMP023,creator_content,Creator content,573,38,8,6,3,1,0,845.46,0,0
+2026-06-15,CMP023,paid_social,Paid social,583,33,8,6,3,1,0,1540.65,0,0
+2026-06-15,CMP023,search_content,Search and explainer content,727,63,16,13,6,3,1,1411.65,0,5
+2026-06-15,CMP024,campus_ambassador,Campus ambassadors,868,78,22,17,8,3,1,1903.29,3,0
+2026-06-15,CMP024,partner_webinar,Partner webinars,927,121,33,23,12,4,2,5051.01,3,0
+2026-06-15,CMP024,referral,Student referral loops,1406,146,27,23,13,5,3,3010.94,0,4
+2026-06-15,CMP024,creator_content,Creator content,707,44,8,6,3,1,0,1030.44,4,1
+2026-06-15,CMP024,paid_social,Paid social,979,52,12,9,4,1,0,2345.93,7,5
+2026-06-15,CMP024,search_content,Search and explainer content,720,59,14,11,5,2,1,1218.83,0,0
+2026-06-15,CMP025,campus_ambassador,Campus ambassadors,1003,96,27,20,9,5,3,1945.48,0,0
+2026-06-15,CMP025,partner_webinar,Partner webinars,584,80,26,20,9,4,2,3422.36,0,0
+2026-06-15,CMP025,referral,Student referral loops,745,81,20,14,7,3,2,1789.57,0,4
+2026-06-15,CMP025,creator_content,Creator content,731,48,16,12,6,3,1,1464.5,0,5
+2026-06-15,CMP025,paid_social,Paid social,613,34,9,7,3,1,0,2004.97,0,2
+2026-06-15,CMP025,search_content,Search and explainer content,518,45,13,9,4,2,1,1232.94,9,0
+2026-06-15,CMP026,campus_ambassador,Campus ambassadors,1766,145,35,30,12,5,3,2589.11,0,0
+2026-06-15,CMP026,partner_webinar,Partner webinars,2109,251,52,40,17,7,4,7423.55,0,0
+2026-06-15,CMP026,referral,Student referral loops,1218,115,22,18,9,5,3,1957.35,1,0
+2026-06-15,CMP026,creator_content,Creator content,1620,92,19,16,7,3,1,2997.14,4,0
+2026-06-15,CMP026,paid_social,Paid social,1328,64,14,10,4,1,0,2497.5,5,0
+2026-06-15,CMP026,search_content,Search and explainer content,2024,151,23,17,9,4,2,3333.42,0,1
+2026-06-15,CMP027,campus_ambassador,Campus ambassadors,709,59,15,12,5,2,1,1206.02,0,2
+2026-06-15,CMP027,partner_webinar,Partner webinars,537,64,15,12,5,2,1,1730.28,0,0
+2026-06-15,CMP027,referral,Student referral loops,756,72,21,17,9,4,2,888.22,3,1
+2026-06-15,CMP027,creator_content,Creator content,957,55,17,14,6,2,1,1365.95,6,0
+2026-06-15,CMP027,paid_social,Paid social,663,32,8,6,3,1,0,1119.47,0,0
+2026-06-15,CMP027,search_content,Search and explainer content,714,54,17,14,6,2,1,1080.47,0,0
+2026-06-15,CMP028,campus_ambassador,Campus ambassadors,328,26,9,7,4,1,0,464.44,1,3
+2026-06-15,CMP028,partner_webinar,Partner webinars,480,55,13,10,6,2,1,2202.8,0,0
+2026-06-15,CMP028,referral,Student referral loops,358,32,7,5,3,1,0,512.89,0,2
+2026-06-15,CMP028,creator_content,Creator content,505,27,6,4,2,0,0,773.09,0,0
+2026-06-15,CMP028,paid_social,Paid social,206,9,3,2,1,0,0,393.68,6,0
+2026-06-15,CMP028,search_content,Search and explainer content,191,13,3,2,1,0,0,339.8,2,0
+2026-06-15,CMP029,campus_ambassador,Campus ambassadors,1559,142,48,40,19,7,4,3730.09,2,6
+2026-06-15,CMP029,partner_webinar,Partner webinars,1291,169,65,49,25,12,8,5068.47,0,7
+2026-06-15,CMP029,referral,Student referral loops,1369,143,37,28,14,6,4,2959.15,9,1
+2026-06-15,CMP029,creator_content,Creator content,1823,115,28,23,12,4,1,3287.9,4,2
+2026-06-15,CMP029,paid_social,Paid social,1620,86,32,27,16,8,3,3263.86,2,1
+2026-06-15,CMP029,search_content,Search and explainer content,1942,160,52,43,20,10,6,4101.87,2,4
+2026-06-15,CMP030,campus_ambassador,Campus ambassadors,625,55,12,10,4,1,0,1820.72,2,2
+2026-06-15,CMP030,partner_webinar,Partner webinars,219,27,4,2,1,0,0,1058.65,6,0
+2026-06-15,CMP030,referral,Student referral loops,601,61,11,8,3,1,0,1659.97,0,5
+2026-06-15,CMP030,creator_content,Creator content,521,32,7,5,2,1,0,1123.09,7,0
+2026-06-15,CMP030,paid_social,Paid social,619,32,8,5,2,1,0,2264.2,2,0
+2026-06-15,CMP030,search_content,Search and explainer content,507,40,8,6,3,1,0,1294.13,0,0
+2026-06-15,CMP031,campus_ambassador,Campus ambassadors,1316,122,36,29,19,9,5,2682.62,3,2
+2026-06-15,CMP031,partner_webinar,Partner webinars,931,124,36,29,17,8,5,3775.94,0,0
+2026-06-15,CMP031,referral,Student referral loops,1280,136,39,29,19,10,7,2109.12,3,0
+2026-06-15,CMP031,creator_content,Creator content,1009,64,13,10,5,3,1,1533.32,0,3
+2026-06-15,CMP031,paid_social,Paid social,667,36,10,8,4,1,0,1163.11,0,0
+2026-06-15,CMP031,search_content,Search and explainer content,1103,92,26,21,12,7,4,2413.51,2,0
+2026-06-15,CMP032,campus_ambassador,Campus ambassadors,806,78,20,14,8,4,2,1699.46,0,0
+2026-06-15,CMP032,partner_webinar,Partner webinars,751,105,26,22,11,6,4,2264.21,1,0
+2026-06-15,CMP032,referral,Student referral loops,868,97,21,16,7,3,2,1453.51,2,0
+2026-06-15,CMP032,creator_content,Creator content,1573,106,34,27,14,8,4,2796.63,0,3
+2026-06-15,CMP032,paid_social,Paid social,1023,58,14,10,5,2,0,2207.34,0,0
+2026-06-15,CMP032,search_content,Search and explainer content,1159,102,24,19,11,6,3,2720.04,3,0
+2026-06-22,CMP001,campus_ambassador,Campus ambassadors,475,43,11,8,4,1,0,651.09,2,4
+2026-06-22,CMP001,partner_webinar,Partner webinars,528,69,16,13,8,3,1,2121.89,0,3
+2026-06-22,CMP001,referral,Student referral loops,864,91,23,19,11,5,3,1525.48,5,1
+2026-06-22,CMP001,creator_content,Creator content,1366,87,19,14,6,2,0,2491.6,5,1
+2026-06-22,CMP001,paid_social,Paid social,1341,72,14,11,5,1,0,3447.46,8,0
+2026-06-22,CMP001,search_content,Search and explainer content,794,66,16,12,5,2,1,1585.18,0,2
+2026-06-22,CMP002,campus_ambassador,Campus ambassadors,2012,184,37,28,16,7,4,3193.47,3,0
+2026-06-22,CMP002,partner_webinar,Partner webinars,1705,224,54,45,27,11,7,6657.56,3,0
+2026-06-22,CMP002,referral,Student referral loops,1321,138,27,22,12,4,2,2308.76,1,0
+2026-06-22,CMP002,creator_content,Creator content,1506,95,18,15,9,3,1,2814.27,0,1
+2026-06-22,CMP002,paid_social,Paid social,981,52,13,10,6,2,0,1910.87,0,1
+2026-06-22,CMP002,search_content,Search and explainer content,1640,136,27,20,11,4,2,3084.94,0,0
+2026-06-22,CMP003,campus_ambassador,Campus ambassadors,281,24,3,2,0,0,0,419.07,1,0
+2026-06-22,CMP003,partner_webinar,Partner webinars,244,30,5,3,1,0,0,718.02,0,0
+2026-06-22,CMP003,referral,Student referral loops,250,24,2,1,0,0,0,309.93,0,0
+2026-06-22,CMP003,creator_content,Creator content,144,8,0,0,0,0,0,179.22,0,0
+2026-06-22,CMP003,paid_social,Paid social,309,15,1,0,0,0,0,716.8,3,1
+2026-06-22,CMP003,search_content,Search and explainer content,169,13,1,0,0,0,0,283.87,0,0
+2026-06-22,CMP004,campus_ambassador,Campus ambassadors,261,21,3,2,0,0,0,395.05,0,4
+2026-06-22,CMP004,partner_webinar,Partner webinars,427,49,11,9,5,1,0,1281.77,0,0
+2026-06-22,CMP004,referral,Student referral loops,337,31,6,4,2,0,0,468.99,3,0
+2026-06-22,CMP004,creator_content,Creator content,443,24,5,3,1,0,0,551.31,8,2
+2026-06-22,CMP004,paid_social,Paid social,417,19,3,2,1,0,0,793.29,0,1
+2026-06-22,CMP004,search_content,Search and explainer content,200,14,2,1,0,0,0,290.71,7,7
+2026-06-22,CMP005,campus_ambassador,Campus ambassadors,600,50,14,11,5,2,1,919.45,5,0
+2026-06-22,CMP005,partner_webinar,Partner webinars,570,68,17,12,4,1,0,2643.47,0,3
+2026-06-22,CMP005,referral,Student referral loops,353,33,6,5,2,0,0,612.81,8,6
+2026-06-22,CMP005,creator_content,Creator content,476,27,5,3,1,0,0,744.45,0,2
+2026-06-22,CMP005,paid_social,Paid social,752,36,9,6,2,0,0,1798.14,0,4
+2026-06-22,CMP005,search_content,Search and explainer content,657,49,10,7,3,1,0,1194.1,0,0
+2026-06-22,CMP006,campus_ambassador,Campus ambassadors,364,30,6,4,1,0,0,730.37,0,2
+2026-06-22,CMP006,partner_webinar,Partner webinars,610,74,13,10,4,1,0,2489.71,0,0
+2026-06-22,CMP006,referral,Student referral loops,256,24,4,3,1,0,0,575.7,0,1
+2026-06-22,CMP006,creator_content,Creator content,417,24,5,3,1,0,0,686.82,0,0
+2026-06-22,CMP006,paid_social,Paid social,449,22,3,2,0,0,0,857.79,1,0
+2026-06-22,CMP006,search_content,Search and explainer content,358,27,4,3,1,0,0,833.32,0,2
+2026-06-22,CMP007,campus_ambassador,Campus ambassadors,1765,165,32,25,11,4,2,3289.57,5,1
+2026-06-22,CMP007,partner_webinar,Partner webinars,780,105,18,13,6,2,1,3423.25,1,0
+2026-06-22,CMP007,referral,Student referral loops,1159,124,23,17,8,3,1,1360.98,1,3
+2026-06-22,CMP007,creator_content,Creator content,1271,82,15,11,5,2,0,1514.85,0,0
+2026-06-22,CMP007,paid_social,Paid social,1430,78,12,10,4,1,0,2673.65,1,4
+2026-06-22,CMP007,search_content,Search and explainer content,1556,132,25,21,10,3,1,2537.73,0,0
+2026-06-22,CMP008,campus_ambassador,Campus ambassadors,1415,124,34,26,12,7,4,2958.71,2,1
+2026-06-22,CMP008,partner_webinar,Partner webinars,706,89,19,13,7,3,2,3282.37,6,1
+2026-06-22,CMP008,referral,Student referral loops,1560,157,31,25,14,8,5,2466.5,6,0
+2026-06-22,CMP008,creator_content,Creator content,710,43,12,9,5,2,1,1487.5,1,0
+2026-06-22,CMP008,paid_social,Paid social,689,35,7,5,2,1,0,1664.87,0,3
+2026-06-22,CMP008,search_content,Search and explainer content,1211,96,27,21,10,6,3,2701.54,0,0
+2026-06-22,CMP009,campus_ambassador,Campus ambassadors,574,48,7,5,2,0,0,896.28,0,0
+2026-06-22,CMP009,partner_webinar,Partner webinars,800,97,12,9,4,1,0,2498.28,3,3
+2026-06-22,CMP009,referral,Student referral loops,1040,101,20,15,7,2,1,1889.5,0,1
+2026-06-22,CMP009,creator_content,Creator content,807,47,6,4,1,0,0,1103.01,5,0
+2026-06-22,CMP009,paid_social,Paid social,501,24,3,2,0,0,0,1186.75,1,3
+2026-06-22,CMP009,search_content,Search and explainer content,669,51,10,8,3,1,0,1269.11,6,2
+2026-06-22,CMP010,campus_ambassador,Campus ambassadors,386,33,8,6,2,0,0,736.31,0,4
+2026-06-22,CMP010,partner_webinar,Partner webinars,571,71,17,12,5,2,1,2045.45,0,0
+2026-06-22,CMP010,referral,Student referral loops,514,51,10,7,2,1,0,957.34,1,0
+2026-06-22,CMP010,creator_content,Creator content,439,26,5,3,1,0,0,884.2,0,0
+2026-06-22,CMP010,paid_social,Paid social,551,28,5,4,1,0,0,1109.71,0,0
+2026-06-22,CMP010,search_content,Search and explainer content,349,27,8,6,3,1,0,807.06,0,0
+2026-06-22,CMP011,campus_ambassador,Campus ambassadors,811,71,24,20,11,6,3,1799.74,0,0
+2026-06-22,CMP011,partner_webinar,Partner webinars,683,87,32,28,18,7,4,2391.49,6,0
+2026-06-22,CMP011,referral,Student referral loops,1192,121,49,35,21,10,7,2270.77,4,4
+2026-06-22,CMP011,creator_content,Creator content,682,41,12,9,5,2,0,1157.41,0,0
+2026-06-22,CMP011,paid_social,Paid social,1029,53,12,9,4,1,0,1877.83,0,1
+2026-06-22,CMP011,search_content,Search and explainer content,1027,82,30,23,12,6,3,1859.95,1,1
+2026-06-22,CMP012,campus_ambassador,Campus ambassadors,371,30,7,6,3,1,0,514.48,0,0
+2026-06-22,CMP012,partner_webinar,Partner webinars,670,79,23,18,10,4,2,2820.28,1,0
+2026-06-22,CMP012,referral,Student referral loops,542,51,10,7,4,2,1,710.62,8,2
+2026-06-22,CMP012,creator_content,Creator content,719,41,12,9,5,2,1,1453.04,0,0
+2026-06-22,CMP012,paid_social,Paid social,743,35,7,5,2,0,0,1539.36,0,0
+2026-06-22,CMP012,search_content,Search and explainer content,558,41,10,8,5,2,1,964.73,0,0
+2026-06-22,CMP013,campus_ambassador,Campus ambassadors,270,27,10,8,4,2,1,772.73,4,1
+2026-06-22,CMP013,partner_webinar,Partner webinars,295,42,15,12,7,4,2,1622.53,5,3
+2026-06-22,CMP013,referral,Student referral loops,598,68,16,11,6,3,1,1503.9,0,0
+2026-06-22,CMP013,creator_content,Creator content,588,40,11,8,3,1,0,1182.46,3,0
+2026-06-22,CMP013,paid_social,Paid social,449,26,10,8,4,2,1,999.77,5,0
+2026-06-22,CMP013,search_content,Search and explainer content,542,49,15,12,6,3,1,1425.93,0,1
+2026-06-22,CMP014,campus_ambassador,Campus ambassadors,1438,132,27,21,13,7,4,3020.3,0,0
+2026-06-22,CMP014,partner_webinar,Partner webinars,1752,233,59,47,27,13,8,10106.21,0,4
+2026-06-22,CMP014,referral,Student referral loops,1826,193,55,47,30,18,11,3930.46,5,0
+2026-06-22,CMP014,creator_content,Creator content,1442,92,21,17,9,5,2,3424.4,0,0
+2026-06-22,CMP014,paid_social,Paid social,1630,88,25,21,12,7,2,5111.88,6,0
+2026-06-22,CMP014,search_content,Search and explainer content,1391,116,33,24,14,8,4,2406.37,5,2
+2026-06-22,CMP015,campus_ambassador,Campus ambassadors,505,41,10,7,3,1,0,903.01,1,0
+2026-06-22,CMP015,partner_webinar,Partner webinars,594,70,11,8,3,1,0,2382.55,0,0
+2026-06-22,CMP015,referral,Student referral loops,1001,94,14,11,5,2,1,1279.32,0,0
+2026-06-22,CMP015,creator_content,Creator content,896,51,10,7,3,1,0,1335.19,3,0
+2026-06-22,CMP015,paid_social,Paid social,765,37,5,4,2,0,0,1234.04,0,0
+2026-06-22,CMP015,search_content,Search and explainer content,1030,77,13,9,5,2,0,1411.05,4,0
+2026-06-22,CMP016,campus_ambassador,Campus ambassadors,343,30,7,5,2,0,0,565.82,0,0
+2026-06-22,CMP016,partner_webinar,Partner webinars,585,75,13,11,5,2,1,2039.57,0,2
+2026-06-22,CMP016,referral,Student referral loops,429,44,8,6,3,1,0,950.03,0,2
+2026-06-22,CMP016,creator_content,Creator content,524,32,7,5,2,0,0,740.69,3,5
+2026-06-22,CMP016,paid_social,Paid social,778,40,8,6,2,0,0,2066.08,0,5
+2026-06-22,CMP016,search_content,Search and explainer content,682,55,14,11,4,1,0,1136.75,3,0
+2026-06-22,CMP017,campus_ambassador,Campus ambassadors,1235,113,24,18,10,4,2,1912.74,0,0
+2026-06-22,CMP017,partner_webinar,Partner webinars,1009,133,37,26,18,7,4,4528.73,8,2
+2026-06-22,CMP017,referral,Student referral loops,1475,155,43,35,23,8,5,2559.33,1,0
+2026-06-22,CMP017,creator_content,Creator content,2179,138,43,33,22,8,3,3996.48,4,0
+2026-06-22,CMP017,paid_social,Paid social,766,41,13,10,6,3,1,2046.78,0,2
+2026-06-22,CMP017,search_content,Search and explainer content,824,68,21,16,10,4,2,1772.48,2,0
+2026-06-22,CMP018,campus_ambassador,Campus ambassadors,319,29,6,5,2,0,0,641.85,0,0
+2026-06-22,CMP018,partner_webinar,Partner webinars,250,32,5,3,2,0,0,940.21,0,1
+2026-06-22,CMP018,referral,Student referral loops,301,31,7,5,3,1,0,544.04,0,0
+2026-06-22,CMP018,creator_content,Creator content,407,25,4,3,1,0,0,752.76,3,0
+2026-06-22,CMP018,paid_social,Paid social,276,14,2,1,0,0,0,596.91,0,0
+2026-06-22,CMP018,search_content,Search and explainer content,484,39,7,6,4,1,0,983.61,0,0
+2026-06-22,CMP019,campus_ambassador,Campus ambassadors,916,83,14,11,5,1,0,1547.0,0,0
+2026-06-22,CMP019,partner_webinar,Partner webinars,655,86,20,16,10,4,2,2432.02,4,0
+2026-06-22,CMP019,referral,Student referral loops,698,73,18,15,7,2,1,1150.91,0,6
+2026-06-22,CMP019,creator_content,Creator content,1658,105,19,14,7,2,1,2810.68,7,1
+2026-06-22,CMP019,paid_social,Paid social,1145,61,16,13,8,3,1,2591.7,5,1
+2026-06-22,CMP019,search_content,Search and explainer content,558,46,12,10,5,2,1,973.15,0,0
+2026-06-22,CMP020,campus_ambassador,Campus ambassadors,999,94,17,14,7,4,2,2060.51,7,0
+2026-06-22,CMP020,partner_webinar,Partner webinars,1054,143,25,19,9,4,2,3412.04,2,1
+2026-06-22,CMP020,referral,Student referral loops,797,86,14,11,5,2,1,1164.62,0,1
+2026-06-22,CMP020,creator_content,Creator content,1468,96,16,12,6,3,1,2410.98,0,4
+2026-06-22,CMP020,paid_social,Paid social,759,42,7,5,2,1,0,1457.42,0,0
+2026-06-22,CMP020,search_content,Search and explainer content,1431,122,34,24,12,5,2,2448.93,0,0
+2026-06-22,CMP021,campus_ambassador,Campus ambassadors,699,55,12,9,4,1,0,1033.31,0,0
+2026-06-22,CMP021,partner_webinar,Partner webinars,768,87,26,19,8,3,1,2180.23,0,1
+2026-06-22,CMP021,referral,Student referral loops,840,76,21,17,9,4,2,1620.11,0,0
+2026-06-22,CMP021,creator_content,Creator content,543,29,7,5,2,0,0,976.75,0,0
+2026-06-22,CMP021,paid_social,Paid social,580,26,7,5,2,0,0,1002.53,3,3
+2026-06-22,CMP021,search_content,Search and explainer content,680,48,11,8,4,1,0,985.14,5,0
+2026-06-22,CMP022,campus_ambassador,Campus ambassadors,1155,101,13,11,6,2,1,1229.08,7,4
+2026-06-22,CMP022,partner_webinar,Partner webinars,883,111,20,16,9,3,1,2785.5,0,0
+2026-06-22,CMP022,referral,Student referral loops,483,48,7,5,3,1,0,607.64,1,0
+2026-06-22,CMP022,creator_content,Creator content,715,43,8,6,3,1,0,1020.49,2,0
+2026-06-22,CMP022,paid_social,Paid social,995,51,9,7,4,1,0,1680.73,0,0
+2026-06-22,CMP022,search_content,Search and explainer content,1339,106,15,10,6,2,1,1646.15,1,0
+2026-06-22,CMP023,campus_ambassador,Campus ambassadors,897,86,26,20,11,6,3,1934.76,0,0
+2026-06-22,CMP023,partner_webinar,Partner webinars,718,100,28,21,10,5,3,2663.22,1,5
+2026-06-22,CMP023,referral,Student referral loops,839,93,21,16,7,3,2,1231.15,0,2
+2026-06-22,CMP023,creator_content,Creator content,376,25,7,6,3,1,0,573.53,0,3
+2026-06-22,CMP023,paid_social,Paid social,375,21,6,4,2,1,0,913.48,0,4
+2026-06-22,CMP023,search_content,Search and explainer content,900,79,20,15,8,4,2,2145.19,7,0
+2026-06-22,CMP024,campus_ambassador,Campus ambassadors,1611,146,39,28,15,7,4,3329.69,0,2
+2026-06-22,CMP024,partner_webinar,Partner webinars,1114,145,39,29,14,4,2,4832.18,0,0
+2026-06-22,CMP024,referral,Student referral loops,1421,148,33,24,13,4,3,2632.35,1,0
+2026-06-22,CMP024,creator_content,Creator content,995,62,17,12,6,2,0,1820.21,0,1
+2026-06-22,CMP024,paid_social,Paid social,882,47,12,9,4,1,0,2397.41,5,0
+2026-06-22,CMP024,search_content,Search and explainer content,1674,137,39,29,17,7,3,3691.93,3,0
+2026-06-22,CMP025,campus_ambassador,Campus ambassadors,1065,102,34,29,15,7,4,2602.55,4,0
+2026-06-22,CMP025,partner_webinar,Partner webinars,555,76,21,18,9,5,3,2753.14,3,2
+2026-06-22,CMP025,referral,Student referral loops,787,86,27,23,12,6,3,1367.54,0,5
+2026-06-22,CMP025,creator_content,Creator content,916,60,18,14,8,3,1,1580.8,8,5
+2026-06-22,CMP025,paid_social,Paid social,919,51,15,12,5,2,0,2080.91,0,0
+2026-06-22,CMP025,search_content,Search and explainer content,1030,89,23,19,10,5,2,2393.97,2,0
+2026-06-22,CMP026,campus_ambassador,Campus ambassadors,1527,126,23,18,8,3,1,2809.83,0,0
+2026-06-22,CMP026,partner_webinar,Partner webinars,1218,144,25,20,8,4,2,4240.21,0,0
+2026-06-22,CMP026,referral,Student referral loops,1030,97,25,19,9,4,2,1807.6,3,0
+2026-06-22,CMP026,creator_content,Creator content,1930,110,22,18,8,3,1,2650.16,0,1
+2026-06-22,CMP026,paid_social,Paid social,1955,94,24,20,8,4,1,4584.25,0,7
+2026-06-22,CMP026,search_content,Search and explainer content,1923,144,37,26,14,5,2,3821.4,0,2
+2026-06-22,CMP027,campus_ambassador,Campus ambassadors,504,42,10,8,3,1,0,876.76,4,0
+2026-06-22,CMP027,partner_webinar,Partner webinars,1032,124,35,26,12,5,3,3240.49,3,0
+2026-06-22,CMP027,referral,Student referral loops,1245,119,33,28,13,6,3,1723.01,0,3
+2026-06-22,CMP027,creator_content,Creator content,663,38,8,6,3,1,0,720.41,0,2
+2026-06-22,CMP027,paid_social,Paid social,645,31,10,7,3,1,0,1097.89,0,1
+2026-06-22,CMP027,search_content,Search and explainer content,906,68,22,16,7,2,1,1188.35,2,1
+2026-06-22,CMP028,campus_ambassador,Campus ambassadors,224,17,4,3,1,0,0,402.23,0,1
+2026-06-22,CMP028,partner_webinar,Partner webinars,461,53,12,10,6,2,1,1843.33,1,0
+2026-06-22,CMP028,referral,Student referral loops,515,47,15,11,6,3,2,914.83,0,1
+2026-06-22,CMP028,creator_content,Creator content,398,22,7,5,2,0,0,678.36,2,4
+2026-06-22,CMP028,paid_social,Paid social,593,27,7,5,2,0,0,1097.7,5,0
+2026-06-22,CMP028,search_content,Search and explainer content,396,28,10,8,4,1,0,611.02,0,4
+2026-06-22,CMP029,campus_ambassador,Campus ambassadors,2543,231,92,67,36,13,8,5048.41,7,1
+2026-06-22,CMP029,partner_webinar,Partner webinars,1708,224,76,57,27,13,9,8042.64,11,0
+2026-06-22,CMP029,referral,Student referral loops,2075,216,71,52,32,16,10,3318.68,0,0
+2026-06-22,CMP029,creator_content,Creator content,1135,71,18,13,6,3,1,2358.22,9,0
+2026-06-22,CMP029,paid_social,Paid social,2244,120,33,27,16,6,2,4322.83,1,2
+2026-06-22,CMP029,search_content,Search and explainer content,1844,152,60,44,21,7,3,3844.08,9,0
+2026-06-22,CMP030,campus_ambassador,Campus ambassadors,585,51,12,9,5,3,1,1494.76,0,0
+2026-06-22,CMP030,partner_webinar,Partner webinars,328,41,8,6,3,1,0,1835.65,6,0
+2026-06-22,CMP030,referral,Student referral loops,552,56,14,10,4,2,1,1312.75,3,2
+2026-06-22,CMP030,creator_content,Creator content,582,35,7,5,2,1,0,1131.6,2,0
+2026-06-22,CMP030,paid_social,Paid social,491,25,4,3,1,0,0,1735.91,1,0
+2026-06-22,CMP030,search_content,Search and explainer content,511,41,8,6,3,1,0,1165.02,0,0
+2026-06-22,CMP031,campus_ambassador,Campus ambassadors,1448,134,45,34,21,13,7,3150.04,0,0
+2026-06-22,CMP031,partner_webinar,Partner webinars,675,90,20,16,9,5,3,2883.55,3,0
+2026-06-22,CMP031,referral,Student referral loops,795,84,19,15,8,5,3,1547.65,2,0
+2026-06-22,CMP031,creator_content,Creator content,845,54,18,13,7,3,1,1342.25,0,0
+2026-06-22,CMP031,paid_social,Paid social,529,28,7,5,2,1,0,1427.07,1,0
+2026-06-22,CMP031,search_content,Search and explainer content,773,65,14,11,7,3,1,1689.04,2,0
+2026-06-22,CMP032,campus_ambassador,Campus ambassadors,1504,146,34,29,18,10,5,2681.67,6,7
+2026-06-22,CMP032,partner_webinar,Partner webinars,1478,207,71,51,28,16,9,5430.34,0,3
+2026-06-22,CMP032,referral,Student referral loops,993,111,32,28,14,8,5,1767.45,0,5
+2026-06-22,CMP032,creator_content,Creator content,1790,121,27,19,10,5,2,3450.18,0,0
+2026-06-22,CMP032,paid_social,Paid social,1759,100,32,26,15,9,4,3540.43,0,0
+2026-06-22,CMP032,search_content,Search and explainer content,1362,120,39,33,17,11,5,2397.9,0,1
+2026-06-29,CMP001,campus_ambassador,Campus ambassadors,1436,131,26,20,10,4,2,2157.83,4,0
+2026-06-29,CMP001,partner_webinar,Partner webinars,725,95,19,14,7,2,1,2958.6,0,0
+2026-06-29,CMP001,referral,Student referral loops,800,84,16,12,7,3,2,1321.21,0,0
+2026-06-29,CMP001,creator_content,Creator content,766,48,8,6,3,1,0,1413.13,0,0
+2026-06-29,CMP001,paid_social,Paid social,667,35,5,3,1,0,0,1241.76,3,0
+2026-06-29,CMP001,search_content,Search and explainer content,724,60,16,11,6,2,1,1692.47,0,1
+2026-06-29,CMP002,campus_ambassador,Campus ambassadors,2375,217,49,39,21,9,4,3623.61,3,3
+2026-06-29,CMP002,partner_webinar,Partner webinars,788,103,26,22,13,5,3,3477.91,0,0
+2026-06-29,CMP002,referral,Student referral loops,1528,160,26,20,12,5,3,2585.05,0,2
+2026-06-29,CMP002,creator_content,Creator content,810,51,12,9,4,1,0,1478.3,0,0
+2026-06-29,CMP002,paid_social,Paid social,1022,54,12,10,6,2,0,1730.96,0,0
+2026-06-29,CMP002,search_content,Search and explainer content,835,69,12,9,5,2,1,1627.33,0,0
+2026-06-29,CMP003,campus_ambassador,Campus ambassadors,346,29,3,2,0,0,0,504.26,0,2
+2026-06-29,CMP003,partner_webinar,Partner webinars,349,43,6,4,1,0,0,1586.22,1,0
+2026-06-29,CMP003,referral,Student referral loops,356,35,4,3,1,0,0,665.39,0,4
+2026-06-29,CMP003,creator_content,Creator content,231,13,1,0,0,0,0,407.51,0,0
+2026-06-29,CMP003,paid_social,Paid social,150,7,0,0,0,0,0,310.6,1,0
+2026-06-29,CMP003,search_content,Search and explainer content,299,23,2,1,0,0,0,647.74,0,0
+2026-06-29,CMP004,campus_ambassador,Campus ambassadors,547,44,9,7,3,1,0,961.02,0,0
+2026-06-29,CMP004,partner_webinar,Partner webinars,407,47,7,6,2,0,0,1492.27,0,0
+2026-06-29,CMP004,referral,Student referral loops,388,35,7,5,2,0,0,466.34,0,0
+2026-06-29,CMP004,creator_content,Creator content,346,19,2,1,0,0,0,442.36,0,0
+2026-06-29,CMP004,paid_social,Paid social,362,17,3,2,0,0,0,584.53,2,2
+2026-06-29,CMP004,search_content,Search and explainer content,612,44,9,7,3,1,0,1020.36,1,0
+2026-06-29,CMP005,campus_ambassador,Campus ambassadors,863,72,13,11,4,1,0,2071.08,1,3
+2026-06-29,CMP005,partner_webinar,Partner webinars,911,109,24,17,8,3,1,3288.63,4,1
+2026-06-29,CMP005,referral,Student referral loops,1080,103,28,22,11,4,2,1922.51,5,0
+2026-06-29,CMP005,creator_content,Creator content,563,32,6,4,1,0,0,840.38,4,0
+2026-06-29,CMP005,paid_social,Paid social,409,20,5,4,2,0,0,814.61,5,0
+2026-06-29,CMP005,search_content,Search and explainer content,732,55,12,9,4,1,0,1570.57,12,1
+2026-06-29,CMP006,campus_ambassador,Campus ambassadors,444,37,5,4,2,1,0,946.65,0,0
+2026-06-29,CMP006,partner_webinar,Partner webinars,324,39,7,5,2,1,0,1456.09,2,0
+2026-06-29,CMP006,referral,Student referral loops,665,64,14,11,5,2,1,1305.53,0,0
+2026-06-29,CMP006,creator_content,Creator content,590,34,7,5,2,1,0,1258.56,0,0
+2026-06-29,CMP006,paid_social,Paid social,579,28,5,4,2,0,0,1135.88,0,0
+2026-06-29,CMP006,search_content,Search and explainer content,761,58,12,10,5,2,1,1794.7,7,0
+2026-06-29,CMP007,campus_ambassador,Campus ambassadors,1075,101,15,12,4,1,0,1926.81,1,0
+2026-06-29,CMP007,partner_webinar,Partner webinars,979,132,21,16,6,2,1,3291.4,0,4
+2026-06-29,CMP007,referral,Student referral loops,1032,111,20,16,7,3,1,1862.21,0,2
+2026-06-29,CMP007,creator_content,Creator content,1697,110,19,15,6,2,0,3128.76,0,4
+2026-06-29,CMP007,paid_social,Paid social,715,39,9,7,3,1,0,1119.48,0,0
+2026-06-29,CMP007,search_content,Search and explainer content,1878,159,28,23,11,4,2,3675.2,0,0
+2026-06-29,CMP008,campus_ambassador,Campus ambassadors,1658,146,49,39,18,10,5,2978.87,0,4
+2026-06-29,CMP008,partner_webinar,Partner webinars,1749,222,66,54,33,21,14,8656.37,3,5
+2026-06-29,CMP008,referral,Student referral loops,2215,224,51,39,21,10,7,4784.4,6,0
+2026-06-29,CMP008,creator_content,Creator content,1373,84,28,24,11,5,2,2743.03,6,0
+2026-06-29,CMP008,paid_social,Paid social,1660,85,26,22,10,6,2,3144.79,0,3
+2026-06-29,CMP008,search_content,Search and explainer content,1120,89,19,15,7,3,1,2484.81,8,5
+2026-06-29,CMP009,campus_ambassador,Campus ambassadors,783,66,9,6,3,0,0,1235.14,0,4
+2026-06-29,CMP009,partner_webinar,Partner webinars,616,75,13,9,4,1,0,2819.22,0,0
+2026-06-29,CMP009,referral,Student referral loops,422,41,6,5,2,0,0,519.21,1,3
+2026-06-29,CMP009,creator_content,Creator content,757,44,8,6,3,1,0,1367.3,3,0
+2026-06-29,CMP009,paid_social,Paid social,373,18,2,1,0,0,0,943.15,0,0
+2026-06-29,CMP009,search_content,Search and explainer content,568,43,7,5,2,0,0,959.68,4,0
+2026-06-29,CMP010,campus_ambassador,Campus ambassadors,476,41,9,6,2,1,0,1004.86,5,2
+2026-06-29,CMP010,partner_webinar,Partner webinars,866,108,30,23,9,5,2,4642.17,0,2
+2026-06-29,CMP010,referral,Student referral loops,570,56,17,12,6,3,2,971.6,0,1
+2026-06-29,CMP010,creator_content,Creator content,475,28,5,4,1,0,0,999.16,1,2
+2026-06-29,CMP010,paid_social,Paid social,365,18,4,3,1,0,0,956.7,0,0
+2026-06-29,CMP010,search_content,Search and explainer content,311,24,7,5,2,1,0,705.03,0,1
+2026-06-29,CMP011,campus_ambassador,Campus ambassadors,829,73,20,17,11,5,2,1668.36,3,2
+2026-06-29,CMP011,partner_webinar,Partner webinars,1861,237,60,43,25,13,7,6255.32,0,0
+2026-06-29,CMP011,referral,Student referral loops,1158,117,28,21,10,5,3,1727.14,0,3
+2026-06-29,CMP011,creator_content,Creator content,647,39,9,7,4,1,0,1312.38,6,5
+2026-06-29,CMP011,paid_social,Paid social,833,43,14,10,5,2,0,1545.48,0,5
+2026-06-29,CMP011,search_content,Search and explainer content,1324,106,30,23,13,7,4,2852.84,3,1
+2026-06-29,CMP012,campus_ambassador,Campus ambassadors,687,56,17,14,7,3,1,1073.91,5,0
+2026-06-29,CMP012,partner_webinar,Partner webinars,942,111,25,19,12,4,2,3156.65,0,2
+2026-06-29,CMP012,referral,Student referral loops,546,51,14,11,7,2,1,962.18,1,0
+2026-06-29,CMP012,creator_content,Creator content,818,46,11,9,5,2,1,1116.34,0,0
+2026-06-29,CMP012,paid_social,Paid social,306,14,4,3,1,0,0,494.49,2,0
+2026-06-29,CMP012,search_content,Search and explainer content,1026,76,22,17,10,5,2,2296.27,8,0
+2026-06-29,CMP013,campus_ambassador,Campus ambassadors,303,30,11,8,4,1,0,550.13,0,4
+2026-06-29,CMP013,partner_webinar,Partner webinars,372,53,16,11,6,3,1,2379.89,6,0
+2026-06-29,CMP013,referral,Student referral loops,609,69,17,14,7,3,2,1210.03,0,0
+2026-06-29,CMP013,creator_content,Creator content,582,40,13,10,4,2,0,1051.06,5,0
+2026-06-29,CMP013,paid_social,Paid social,432,25,7,5,3,1,0,1136.74,0,0
+2026-06-29,CMP013,search_content,Search and explainer content,635,57,16,12,6,3,1,1497.86,0,0
+2026-06-29,CMP014,campus_ambassador,Campus ambassadors,2110,195,50,43,24,15,7,4791.15,1,6
+2026-06-29,CMP014,partner_webinar,Partner webinars,2073,276,75,63,42,27,19,10328.42,5,5
+2026-06-29,CMP014,referral,Student referral loops,1304,138,40,34,22,13,9,2673.6,0,0
+2026-06-29,CMP014,creator_content,Creator content,2382,152,40,31,18,9,4,4853.24,0,0
+2026-06-29,CMP014,paid_social,Paid social,1235,66,17,12,8,3,1,2912.82,2,2
+2026-06-29,CMP014,search_content,Search and explainer content,896,75,14,11,7,3,1,2457.64,3,0
+2026-06-29,CMP015,campus_ambassador,Campus ambassadors,727,60,11,9,4,1,0,852.49,8,0
+2026-06-29,CMP015,partner_webinar,Partner webinars,746,88,16,13,6,2,1,2332.3,0,0
+2026-06-29,CMP015,referral,Student referral loops,629,59,13,9,5,2,1,983.88,0,3
+2026-06-29,CMP015,creator_content,Creator content,390,22,5,4,2,0,0,496.38,0,2
+2026-06-29,CMP015,paid_social,Paid social,426,20,3,2,1,0,0,600.83,2,0
+2026-06-29,CMP015,search_content,Search and explainer content,378,28,6,4,1,0,0,702.51,1,1
+2026-06-29,CMP016,campus_ambassador,Campus ambassadors,619,55,11,8,3,1,0,1315.73,1,3
+2026-06-29,CMP016,partner_webinar,Partner webinars,461,59,16,12,5,2,1,2087.36,0,1
+2026-06-29,CMP016,referral,Student referral loops,785,80,16,13,5,1,0,1433.81,0,4
+2026-06-29,CMP016,creator_content,Creator content,653,40,7,5,2,0,0,1327.98,0,0
+2026-06-29,CMP016,paid_social,Paid social,535,28,7,5,2,0,0,1397.47,7,7
+2026-06-29,CMP016,search_content,Search and explainer content,749,60,16,12,6,2,1,1488.05,0,3
+2026-06-29,CMP017,campus_ambassador,Campus ambassadors,1387,127,40,30,19,9,5,2174.32,0,1
+2026-06-29,CMP017,partner_webinar,Partner webinars,605,80,21,15,8,3,1,2038.2,1,1
+2026-06-29,CMP017,referral,Student referral loops,1708,179,50,39,26,12,7,2918.97,0,5
+2026-06-29,CMP017,creator_content,Creator content,2495,158,34,29,15,5,2,4680.63,0,3
+2026-06-29,CMP017,paid_social,Paid social,1639,88,19,15,9,4,1,3991.85,0,0
+2026-06-29,CMP017,search_content,Search and explainer content,937,78,26,21,14,7,4,2154.92,6,2
+2026-06-29,CMP018,campus_ambassador,Campus ambassadors,391,35,7,6,3,1,0,729.63,0,1
+2026-06-29,CMP018,partner_webinar,Partner webinars,373,48,11,9,5,2,1,1087.24,7,1
+2026-06-29,CMP018,referral,Student referral loops,321,33,7,5,2,0,0,592.97,0,3
+2026-06-29,CMP018,creator_content,Creator content,501,31,6,5,3,1,0,955.57,6,2
+2026-06-29,CMP018,paid_social,Paid social,228,12,2,1,0,0,0,442.33,0,3
+2026-06-29,CMP018,search_content,Search and explainer content,269,22,3,2,1,0,0,384.3,1,0
+2026-06-29,CMP019,campus_ambassador,Campus ambassadors,2231,204,44,31,17,6,3,3910.21,0,0
+2026-06-29,CMP019,partner_webinar,Partner webinars,1614,213,42,30,18,7,5,4116.96,0,1
+2026-06-29,CMP019,referral,Student referral loops,1171,123,22,17,9,3,1,1413.04,3,2
+2026-06-29,CMP019,creator_content,Creator content,840,53,13,10,4,1,0,1395.81,0,5
+2026-06-29,CMP019,paid_social,Paid social,1772,95,24,19,10,4,1,2769.63,1,2
+2026-06-29,CMP019,search_content,Search and explainer content,1169,97,24,18,11,4,2,1538.51,6,5
+2026-06-29,CMP020,campus_ambassador,Campus ambassadors,847,80,16,12,6,3,2,1698.08,5,1
+2026-06-29,CMP020,partner_webinar,Partner webinars,1711,233,49,41,21,11,7,6428.84,10,0
+2026-06-29,CMP020,referral,Student referral loops,551,59,11,8,4,1,0,865.43,4,2
+2026-06-29,CMP020,creator_content,Creator content,557,36,10,7,4,2,1,911.59,0,2
+2026-06-29,CMP020,paid_social,Paid social,945,52,14,12,6,2,0,2041.72,0,1
+2026-06-29,CMP020,search_content,Search and explainer content,641,55,10,7,3,1,0,1122.58,2,3
+2026-06-29,CMP021,campus_ambassador,Campus ambassadors,1024,80,25,18,8,3,2,1442.72,3,0
+2026-06-29,CMP021,partner_webinar,Partner webinars,756,86,26,20,9,3,2,2811.61,6,2
+2026-06-29,CMP021,referral,Student referral loops,933,84,23,19,9,4,2,1295.3,1,0
+2026-06-29,CMP021,creator_content,Creator content,638,34,8,6,3,1,0,999.83,0,0
+2026-06-29,CMP021,paid_social,Paid social,579,26,5,3,1,0,0,1322.87,4,0
+2026-06-29,CMP021,search_content,Search and explainer content,1249,89,20,15,6,2,1,2012.49,0,0
+2026-06-29,CMP022,campus_ambassador,Campus ambassadors,751,65,7,5,3,1,0,875.64,0,2
+2026-06-29,CMP022,partner_webinar,Partner webinars,690,87,9,6,3,1,0,1694.73,1,1
+2026-06-29,CMP022,referral,Student referral loops,1154,116,17,13,7,2,1,1501.54,0,6
+2026-06-29,CMP022,creator_content,Creator content,599,36,6,4,2,0,0,888.32,0,0
+2026-06-29,CMP022,paid_social,Paid social,802,41,4,3,1,0,0,1306.97,0,0
+2026-06-29,CMP022,search_content,Search and explainer content,953,75,9,6,3,1,0,1562.0,5,1
+2026-06-29,CMP023,campus_ambassador,Campus ambassadors,398,38,11,8,4,1,0,776.35,0,0
+2026-06-29,CMP023,partner_webinar,Partner webinars,826,115,25,19,10,4,2,3859.44,1,0
+2026-06-29,CMP023,referral,Student referral loops,815,90,21,17,10,5,3,1655.24,3,0
+2026-06-29,CMP023,creator_content,Creator content,1234,82,23,18,11,5,2,2003.39,8,0
+2026-06-29,CMP023,paid_social,Paid social,924,52,11,9,5,2,0,2695.79,0,0
+2026-06-29,CMP023,search_content,Search and explainer content,651,57,17,12,5,2,1,1465.71,0,0
+2026-06-29,CMP024,campus_ambassador,Campus ambassadors,1475,134,32,23,14,5,3,2715.42,0,6
+2026-06-29,CMP024,partner_webinar,Partner webinars,1947,254,51,43,22,8,5,8801.9,1,0
+2026-06-29,CMP024,referral,Student referral loops,1589,165,43,35,19,9,6,2538.42,0,5
+2026-06-29,CMP024,creator_content,Creator content,1874,118,33,24,12,4,2,2789.52,0,0
+2026-06-29,CMP024,paid_social,Paid social,1826,97,17,13,6,2,0,3911.23,3,0
+2026-06-29,CMP024,search_content,Search and explainer content,1244,102,18,15,7,2,1,2918.35,7,7
+2026-06-29,CMP025,campus_ambassador,Campus ambassadors,600,57,12,9,4,2,1,1209.07,0,0
+2026-06-29,CMP025,partner_webinar,Partner webinars,857,118,34,28,15,8,4,4882.97,0,8
+2026-06-29,CMP025,referral,Student referral loops,1018,111,31,24,11,5,3,1824.89,0,2
+2026-06-29,CMP025,creator_content,Creator content,797,52,12,9,4,2,0,1981.68,0,0
+2026-06-29,CMP025,paid_social,Paid social,602,33,12,9,4,2,1,1493.86,0,0
+2026-06-29,CMP025,search_content,Search and explainer content,1263,109,26,22,13,7,3,2329.08,0,2
+2026-06-29,CMP026,campus_ambassador,Campus ambassadors,1221,100,17,14,6,2,1,2510.17,0,0
+2026-06-29,CMP026,partner_webinar,Partner webinars,1859,221,33,26,11,5,3,7544.2,0,1
+2026-06-29,CMP026,referral,Student referral loops,1939,183,28,20,9,4,3,2977.6,2,0
+2026-06-29,CMP026,creator_content,Creator content,2061,118,26,19,8,3,1,3687.58,0,2
+2026-06-29,CMP026,paid_social,Paid social,804,38,7,6,3,1,0,1668.43,3,1
+2026-06-29,CMP026,search_content,Search and explainer content,999,74,12,10,4,1,0,1488.47,0,0
+2026-06-29,CMP027,campus_ambassador,Campus ambassadors,1292,108,29,23,11,4,2,2008.66,0,4
+2026-06-29,CMP027,partner_webinar,Partner webinars,928,112,35,27,11,4,2,2817.49,0,0
+2026-06-29,CMP027,referral,Student referral loops,651,62,16,12,6,2,1,845.44,0,0
+2026-06-29,CMP027,creator_content,Creator content,704,40,9,7,3,1,0,1149.85,0,0
+2026-06-29,CMP027,paid_social,Paid social,915,45,14,11,5,2,1,1469.2,1,2
+2026-06-29,CMP027,search_content,Search and explainer content,596,45,9,7,3,1,0,1018.43,2,0
+2026-06-29,CMP028,campus_ambassador,Campus ambassadors,381,30,7,5,3,1,0,773.16,0,0
+2026-06-29,CMP028,partner_webinar,Partner webinars,492,56,16,12,7,3,2,2045.78,3,0
+2026-06-29,CMP028,referral,Student referral loops,337,30,9,7,4,1,0,460.3,0,0
+2026-06-29,CMP028,creator_content,Creator content,292,16,5,3,1,0,0,526.63,0,2
+2026-06-29,CMP028,paid_social,Paid social,456,21,5,3,1,0,0,1011.36,0,3
+2026-06-29,CMP028,search_content,Search and explainer content,602,43,10,7,4,1,0,1081.47,0,0
+2026-06-29,CMP029,campus_ambassador,Campus ambassadors,2198,200,54,41,25,11,7,3609.53,0,0
+2026-06-29,CMP029,partner_webinar,Partner webinars,1892,248,86,70,39,17,10,7227.21,5,2
+2026-06-29,CMP029,referral,Student referral loops,1019,106,35,25,15,6,4,1660.44,5,0
+2026-06-29,CMP029,creator_content,Creator content,2053,129,38,31,18,8,3,4038.73,4,4
+2026-06-29,CMP029,paid_social,Paid social,1004,53,20,17,8,3,1,2477.46,4,0
+2026-06-29,CMP029,search_content,Search and explainer content,2033,168,59,45,23,10,5,4050.71,2,1
+2026-06-29,CMP030,campus_ambassador,Campus ambassadors,254,22,5,3,1,0,0,580.78,1,0
+2026-06-29,CMP030,partner_webinar,Partner webinars,539,68,14,10,4,2,1,3048.72,6,0
+2026-06-29,CMP030,referral,Student referral loops,543,55,13,11,5,2,1,1298.06,0,0
+2026-06-29,CMP030,creator_content,Creator content,647,39,9,6,2,1,0,1494.97,0,0
+2026-06-29,CMP030,paid_social,Paid social,263,13,2,1,0,0,0,611.57,0,0
+2026-06-29,CMP030,search_content,Search and explainer content,700,56,10,8,4,2,1,1526.95,7,0
+2026-06-29,CMP031,campus_ambassador,Campus ambassadors,1221,113,32,26,17,10,6,2183.71,4,0
+2026-06-29,CMP031,partner_webinar,Partner webinars,1483,198,65,50,26,15,9,5871.12,0,0
+2026-06-29,CMP031,referral,Student referral loops,1090,115,34,24,16,8,5,2320.44,1,2
+2026-06-29,CMP031,creator_content,Creator content,969,62,18,15,9,5,2,1633.76,4,0
+2026-06-29,CMP031,paid_social,Paid social,779,42,9,6,3,1,0,1631.17,0,0
+2026-06-29,CMP031,search_content,Search and explainer content,1029,86,24,17,11,6,3,2111.95,2,4
+2026-06-29,CMP032,campus_ambassador,Campus ambassadors,1390,135,48,36,18,12,7,2330.81,0,9
+2026-06-29,CMP032,partner_webinar,Partner webinars,1122,157,43,36,22,11,7,4555.71,2,0
+2026-06-29,CMP032,referral,Student referral loops,1500,167,54,40,21,12,7,2282.0,0,3
+2026-06-29,CMP032,creator_content,Creator content,798,53,11,9,4,2,1,1443.33,5,0
+2026-06-29,CMP032,paid_social,Paid social,1430,81,24,19,11,5,2,2528.9,3,0
+2026-06-29,CMP032,search_content,Search and explainer content,1498,132,45,36,20,10,5,3305.47,0,0
+2026-07-06,CMP001,campus_ambassador,Campus ambassadors,1132,103,19,13,7,2,1,2144.54,0,4
+2026-07-06,CMP001,partner_webinar,Partner webinars,723,95,19,14,8,3,1,3293.28,2,2
+2026-07-06,CMP001,referral,Student referral loops,815,85,14,10,5,2,1,1616.41,0,3
+2026-07-06,CMP001,creator_content,Creator content,1440,91,24,20,11,5,2,2312.42,0,4
+2026-07-06,CMP001,paid_social,Paid social,737,39,6,4,1,0,0,1915.34,1,0
+2026-07-06,CMP001,search_content,Search and explainer content,1232,102,23,18,11,5,2,2127.58,0,0
+2026-07-06,CMP002,campus_ambassador,Campus ambassadors,1689,154,41,29,18,7,3,3131.8,5,0
+2026-07-06,CMP002,partner_webinar,Partner webinars,2006,264,72,58,37,18,13,7975.16,3,1
+2026-07-06,CMP002,referral,Student referral loops,2050,215,35,27,15,7,4,3098.49,3,1
+2026-07-06,CMP002,creator_content,Creator content,1728,109,29,23,12,4,1,3338.24,2,2
+2026-07-06,CMP002,paid_social,Paid social,1052,56,14,11,5,2,0,2504.97,1,3
+2026-07-06,CMP002,search_content,Search and explainer content,1793,148,36,31,18,6,3,2696.21,3,0
+2026-07-06,CMP003,campus_ambassador,Campus ambassadors,265,22,4,3,1,0,0,335.86,0,3
+2026-07-06,CMP003,partner_webinar,Partner webinars,229,28,4,3,1,0,0,823.91,0,2
+2026-07-06,CMP003,referral,Student referral loops,197,19,2,1,0,0,0,344.29,0,0
+2026-07-06,CMP003,creator_content,Creator content,174,10,1,0,0,0,0,319.15,0,4
+2026-07-06,CMP003,paid_social,Paid social,299,15,2,1,0,0,0,747.92,0,0
+2026-07-06,CMP003,search_content,Search and explainer content,407,31,4,3,1,0,0,726.71,0,0
+2026-07-06,CMP004,campus_ambassador,Campus ambassadors,327,26,5,3,1,0,0,590.83,3,0
+2026-07-06,CMP004,partner_webinar,Partner webinars,376,43,6,4,1,0,0,1431.41,0,0
+2026-07-06,CMP004,referral,Student referral loops,231,21,3,2,0,0,0,240.7,0,1
+2026-07-06,CMP004,creator_content,Creator content,250,13,2,1,0,0,0,339.37,3,2
+2026-07-06,CMP004,paid_social,Paid social,466,22,5,4,2,0,0,996.94,0,0
+2026-07-06,CMP004,search_content,Search and explainer content,171,12,2,1,0,0,0,310.55,1,0
+2026-07-06,CMP005,campus_ambassador,Campus ambassadors,456,38,7,5,2,0,0,844.83,0,1
+2026-07-06,CMP005,partner_webinar,Partner webinars,578,69,17,13,5,1,0,3128.21,0,3
+2026-07-06,CMP005,referral,Student referral loops,707,67,19,14,6,2,1,1507.74,0,3
+2026-07-06,CMP005,creator_content,Creator content,758,44,11,9,4,1,0,1657.34,0,3
+2026-07-06,CMP005,paid_social,Paid social,631,31,8,6,3,1,0,1401.54,4,0
+2026-07-06,CMP005,search_content,Search and explainer content,284,21,4,3,1,0,0,473.4,1,0
+2026-07-06,CMP006,campus_ambassador,Campus ambassadors,430,36,9,6,2,0,0,1049.36,0,1
+2026-07-06,CMP006,partner_webinar,Partner webinars,784,95,22,17,8,4,2,2916.77,0,1
+2026-07-06,CMP006,referral,Student referral loops,882,85,19,16,7,3,1,1771.25,1,0
+2026-07-06,CMP006,creator_content,Creator content,770,44,7,5,2,0,0,1436.72,0,0
+2026-07-06,CMP006,paid_social,Paid social,341,16,4,3,1,0,0,623.0,0,0
+2026-07-06,CMP006,search_content,Search and explainer content,340,25,3,2,0,0,0,768.74,0,0
+2026-07-06,CMP007,campus_ambassador,Campus ambassadors,1019,95,20,17,7,2,1,1387.18,0,0
+2026-07-06,CMP007,partner_webinar,Partner webinars,1176,159,33,25,10,4,2,5033.02,3,1
+2026-07-06,CMP007,referral,Student referral loops,2132,229,46,34,17,7,5,3383.98,0,2
+2026-07-06,CMP007,creator_content,Creator content,661,43,8,6,2,0,0,1047.69,0,4
+2026-07-06,CMP007,paid_social,Paid social,1595,87,20,17,8,3,1,2871.97,4,3
+2026-07-06,CMP007,search_content,Search and explainer content,1734,147,27,21,10,4,2,2305.03,5,5
+2026-07-06,CMP008,campus_ambassador,Campus ambassadors,800,70,22,18,10,5,2,1601.39,1,3
+2026-07-06,CMP008,partner_webinar,Partner webinars,1772,225,72,59,29,17,11,7272.36,4,4
+2026-07-06,CMP008,referral,Student referral loops,796,80,17,13,6,3,1,1688.53,0,0
+2026-07-06,CMP008,creator_content,Creator content,1820,111,36,28,16,9,4,3654.66,2,1
+2026-07-06,CMP008,paid_social,Paid social,1121,58,13,9,4,2,0,2345.67,0,0
+2026-07-06,CMP008,search_content,Search and explainer content,1422,113,38,32,18,9,5,2962.78,0,0
+2026-07-06,CMP009,campus_ambassador,Campus ambassadors,808,68,13,9,4,1,0,1345.15,0,0
+2026-07-06,CMP009,partner_webinar,Partner webinars,414,50,6,4,2,0,0,1337.09,6,0
+2026-07-06,CMP009,referral,Student referral loops,803,78,9,7,3,1,0,1564.28,0,0
+2026-07-06,CMP009,creator_content,Creator content,571,33,4,3,1,0,0,1075.56,4,5
+2026-07-06,CMP009,paid_social,Paid social,1115,55,8,6,2,0,0,2387.23,2,0
+2026-07-06,CMP009,search_content,Search and explainer content,407,31,4,3,1,0,0,631.93,0,0
+2026-07-06,CMP010,campus_ambassador,Campus ambassadors,533,46,11,9,4,2,1,1157.42,2,0
+2026-07-06,CMP010,partner_webinar,Partner webinars,362,45,13,9,4,2,1,1410.36,0,2
+2026-07-06,CMP010,referral,Student referral loops,901,90,25,20,10,5,3,1902.65,10,1
+2026-07-06,CMP010,creator_content,Creator content,716,43,9,7,3,1,0,1128.87,0,0
+2026-07-06,CMP010,paid_social,Paid social,856,43,8,6,3,1,0,1871.53,5,0
+2026-07-06,CMP010,search_content,Search and explainer content,690,54,11,8,3,1,0,1265.27,0,3
+2026-07-06,CMP011,campus_ambassador,Campus ambassadors,1450,128,30,25,13,6,3,2588.92,0,5
+2026-07-06,CMP011,partner_webinar,Partner webinars,768,97,30,21,12,5,3,2800.57,4,0
+2026-07-06,CMP011,referral,Student referral loops,1439,146,40,33,17,7,5,2733.64,0,0
+2026-07-06,CMP011,creator_content,Creator content,620,38,10,8,4,1,0,1340.44,0,0
+2026-07-06,CMP011,paid_social,Paid social,1538,79,18,14,8,3,1,3158.71,0,1
+2026-07-06,CMP011,search_content,Search and explainer content,608,48,14,11,6,3,1,993.27,0,1
+2026-07-06,CMP012,campus_ambassador,Campus ambassadors,876,72,18,13,8,3,2,1459.32,0,0
+2026-07-06,CMP012,partner_webinar,Partner webinars,1079,127,37,32,20,7,4,3804.49,0,1
+2026-07-06,CMP012,referral,Student referral loops,842,79,15,11,5,2,1,1249.54,0,4
+2026-07-06,CMP012,creator_content,Creator content,678,38,10,7,4,1,0,1233.46,0,0
+2026-07-06,CMP012,paid_social,Paid social,371,17,3,2,1,0,0,622.54,2,2
+2026-07-06,CMP012,search_content,Search and explainer content,642,47,11,8,5,2,1,1091.58,12,1
+2026-07-06,CMP013,campus_ambassador,Campus ambassadors,500,50,15,12,6,3,2,1385.7,0,0
+2026-07-06,CMP013,partner_webinar,Partner webinars,862,124,32,25,13,8,4,4316.13,5,0
+2026-07-06,CMP013,referral,Student referral loops,454,52,19,14,7,4,2,1083.03,0,5
+2026-07-06,CMP013,creator_content,Creator content,404,28,9,7,3,1,0,831.58,3,0
+2026-07-06,CMP013,paid_social,Paid social,869,51,15,12,7,3,1,3066.1,3,0
+2026-07-06,CMP013,search_content,Search and explainer content,323,29,9,6,3,1,0,907.49,1,3
+2026-07-06,CMP014,campus_ambassador,Campus ambassadors,1139,105,20,14,9,4,2,1844.72,3,0
+2026-07-06,CMP014,partner_webinar,Partner webinars,1119,148,38,32,19,11,7,5892.64,6,2
+2026-07-06,CMP014,referral,Student referral loops,1148,121,25,20,10,6,4,1991.39,7,1
+2026-07-06,CMP014,creator_content,Creator content,1448,92,18,14,9,4,2,3406.91,0,0
+2026-07-06,CMP014,paid_social,Paid social,2419,131,24,17,9,5,2,6333.64,1,0
+2026-07-06,CMP014,search_content,Search and explainer content,1532,128,24,18,10,5,2,4088.46,0,0
+2026-07-06,CMP015,campus_ambassador,Campus ambassadors,997,82,20,15,7,3,1,1277.99,0,5
+2026-07-06,CMP015,partner_webinar,Partner webinars,398,47,8,6,3,1,0,1444.93,1,3
+2026-07-06,CMP015,referral,Student referral loops,579,54,10,7,4,2,1,805.61,4,1
+2026-07-06,CMP015,creator_content,Creator content,884,50,11,9,5,2,1,1270.3,0,2
+2026-07-06,CMP015,paid_social,Paid social,556,26,4,3,1,0,0,933.4,0,0
+2026-07-06,CMP015,search_content,Search and explainer content,1151,86,13,10,6,3,1,1551.78,4,2
+2026-07-06,CMP016,campus_ambassador,Campus ambassadors,776,69,19,14,6,2,1,1825.85,0,0
+2026-07-06,CMP016,partner_webinar,Partner webinars,428,55,12,10,4,1,0,1822.77,0,3
+2026-07-06,CMP016,referral,Student referral loops,787,81,20,16,7,2,1,1559.32,2,0
+2026-07-06,CMP016,creator_content,Creator content,703,43,8,6,2,0,0,1088.31,1,0
+2026-07-06,CMP016,paid_social,Paid social,280,14,3,2,0,0,0,751.89,4,0
+2026-07-06,CMP016,search_content,Search and explainer content,686,55,10,7,2,0,0,1702.5,2,0
+2026-07-06,CMP017,campus_ambassador,Campus ambassadors,944,86,24,19,12,5,3,1982.12,0,0
+2026-07-06,CMP017,partner_webinar,Partner webinars,2215,292,77,63,35,16,9,9313.14,1,1
+2026-07-06,CMP017,referral,Student referral loops,1565,164,44,34,18,7,4,2452.52,0,0
+2026-07-06,CMP017,creator_content,Creator content,1634,104,31,26,15,6,3,3330.09,0,1
+2026-07-06,CMP017,paid_social,Paid social,1535,82,19,15,9,4,2,4558.19,1,1
+2026-07-06,CMP017,search_content,Search and explainer content,1283,106,27,21,13,5,3,2739.23,0,0
+2026-07-06,CMP018,campus_ambassador,Campus ambassadors,495,45,8,6,3,1,0,812.86,1,2
+2026-07-06,CMP018,partner_webinar,Partner webinars,219,28,6,5,3,1,0,619.92,0,4
+2026-07-06,CMP018,referral,Student referral loops,319,33,5,4,2,0,0,594.62,0,0
+2026-07-06,CMP018,creator_content,Creator content,350,22,4,3,1,0,0,475.43,0,0
+2026-07-06,CMP018,paid_social,Paid social,599,31,7,6,3,1,0,939.67,1,0
+2026-07-06,CMP018,search_content,Search and explainer content,541,44,6,4,2,0,0,743.92,2,0
+2026-07-06,CMP019,campus_ambassador,Campus ambassadors,1201,110,23,19,10,3,1,2166.49,3,0
+2026-07-06,CMP019,partner_webinar,Partner webinars,2144,282,78,66,31,13,8,7926.28,3,10
+2026-07-06,CMP019,referral,Student referral loops,867,91,22,18,10,3,2,1385.02,0,0
+2026-07-06,CMP019,creator_content,Creator content,2083,132,23,16,10,4,2,3380.02,0,2
+2026-07-06,CMP019,paid_social,Paid social,1182,63,16,11,6,2,0,1973.52,0,0
+2026-07-06,CMP019,search_content,Search and explainer content,1001,83,15,12,5,2,1,1258.78,0,0
+2026-07-06,CMP020,campus_ambassador,Campus ambassadors,1344,127,29,23,11,5,2,2052.77,1,3
+2026-07-06,CMP020,partner_webinar,Partner webinars,722,98,26,20,11,7,4,2648.32,2,0
+2026-07-06,CMP020,referral,Student referral loops,1430,155,28,23,11,5,3,2339.07,3,0
+2026-07-06,CMP020,creator_content,Creator content,915,60,10,8,3,1,0,1340.44,7,0
+2026-07-06,CMP020,paid_social,Paid social,1321,73,19,16,9,5,2,3005.3,0,1
+2026-07-06,CMP020,search_content,Search and explainer content,622,53,15,10,4,2,1,1223.5,4,0
+2026-07-06,CMP021,campus_ambassador,Campus ambassadors,1131,89,27,20,10,4,2,1473.47,0,3
+2026-07-06,CMP021,partner_webinar,Partner webinars,1072,121,25,19,10,4,2,3173.49,0,8
+2026-07-06,CMP021,referral,Student referral loops,838,75,21,17,9,3,2,1463.71,0,2
+2026-07-06,CMP021,creator_content,Creator content,960,52,12,9,4,1,0,1432.85,3,0
+2026-07-06,CMP021,paid_social,Paid social,619,28,8,5,2,0,0,1388.3,0,1
+2026-07-06,CMP021,search_content,Search and explainer content,763,54,17,14,6,2,1,1084.12,0,0
+2026-07-06,CMP022,campus_ambassador,Campus ambassadors,750,65,9,7,4,1,0,909.26,3,0
+2026-07-06,CMP022,partner_webinar,Partner webinars,856,108,17,13,7,2,1,2597.85,0,0
+2026-07-06,CMP022,referral,Student referral loops,1407,141,25,19,12,4,2,2115.81,0,0
+2026-07-06,CMP022,creator_content,Creator content,1109,67,10,7,3,1,0,1150.35,0,0
+2026-07-06,CMP022,paid_social,Paid social,1042,53,8,6,3,1,0,1980.0,13,2
+2026-07-06,CMP022,search_content,Search and explainer content,564,44,6,4,2,0,0,679.63,1,0
+2026-07-06,CMP023,campus_ambassador,Campus ambassadors,730,70,20,15,7,3,1,1149.77,0,1
+2026-07-06,CMP023,partner_webinar,Partner webinars,440,61,15,11,6,2,1,1673.65,0,0
+2026-07-06,CMP023,referral,Student referral loops,706,78,20,15,9,4,2,1303.09,0,0
+2026-07-06,CMP023,creator_content,Creator content,676,45,14,11,5,2,0,1336.35,0,2
+2026-07-06,CMP023,paid_social,Paid social,788,44,10,7,4,2,0,1847.07,1,3
+2026-07-06,CMP023,search_content,Search and explainer content,564,49,13,11,6,3,1,1147.98,0,3
+2026-07-06,CMP024,campus_ambassador,Campus ambassadors,1491,135,29,23,10,3,1,3151.86,0,2
+2026-07-06,CMP024,partner_webinar,Partner webinars,1596,208,59,47,26,10,7,7188.74,7,4
+2026-07-06,CMP024,referral,Student referral loops,2239,233,39,29,15,5,3,5142.6,0,2
+2026-07-06,CMP024,creator_content,Creator content,2001,126,24,18,10,3,1,4110.26,0,0
+2026-07-06,CMP024,paid_social,Paid social,778,41,8,6,3,1,0,1795.43,8,6
+2026-07-06,CMP024,search_content,Search and explainer content,1976,162,40,29,16,6,3,3643.59,0,0
+2026-07-06,CMP025,campus_ambassador,Campus ambassadors,1128,108,26,19,9,5,2,1971.2,5,3
+2026-07-06,CMP025,partner_webinar,Partner webinars,944,130,41,31,15,8,5,3958.62,0,8
+2026-07-06,CMP025,referral,Student referral loops,857,94,25,19,9,4,2,1626.25,2,8
+2026-07-06,CMP025,creator_content,Creator content,616,40,13,10,5,3,1,1378.9,0,0
+2026-07-06,CMP025,paid_social,Paid social,898,50,13,11,5,2,0,2459.58,0,6
+2026-07-06,CMP025,search_content,Search and explainer content,792,68,16,11,5,2,1,1463.16,0,1
+2026-07-06,CMP026,campus_ambassador,Campus ambassadors,1017,84,13,10,4,1,0,1989.37,0,0
+2026-07-06,CMP026,partner_webinar,Partner webinars,1865,221,40,32,17,6,4,8453.65,0,5
+2026-07-06,CMP026,referral,Student referral loops,1322,125,31,25,10,4,2,2668.33,0,7
+2026-07-06,CMP026,creator_content,Creator content,1683,96,21,17,9,5,2,3466.74,5,0
+2026-07-06,CMP026,paid_social,Paid social,1440,69,10,8,4,2,1,3669.67,3,1
+2026-07-06,CMP026,search_content,Search and explainer content,1706,127,30,26,11,5,2,3150.39,2,0
+2026-07-06,CMP027,campus_ambassador,Campus ambassadors,478,40,9,7,3,1,0,792.79,0,0
+2026-07-06,CMP027,partner_webinar,Partner webinars,815,98,23,17,7,3,1,2963.02,0,2
+2026-07-06,CMP027,referral,Student referral loops,645,62,20,15,8,3,1,878.3,2,0
+2026-07-06,CMP027,creator_content,Creator content,402,23,5,4,2,0,0,513.05,0,3
+2026-07-06,CMP027,paid_social,Paid social,654,32,9,7,3,1,0,976.75,0,0
+2026-07-06,CMP027,search_content,Search and explainer content,968,73,19,14,6,2,1,1527.0,0,5
+2026-07-06,CMP028,campus_ambassador,Campus ambassadors,517,41,13,11,6,3,1,771.27,1,0
+2026-07-06,CMP028,partner_webinar,Partner webinars,586,67,24,19,12,6,4,2279.22,5,0
+2026-07-06,CMP028,referral,Student referral loops,401,36,10,7,4,1,0,695.06,1,0
+2026-07-06,CMP028,creator_content,Creator content,661,36,12,10,7,3,1,1144.06,0,0
+2026-07-06,CMP028,paid_social,Paid social,320,14,4,3,1,0,0,768.48,0,0
+2026-07-06,CMP028,search_content,Search and explainer content,273,19,5,4,2,1,0,471.53,0,0
+2026-07-06,CMP029,campus_ambassador,Campus ambassadors,2379,216,75,57,32,13,8,4263.5,5,1
+2026-07-06,CMP029,partner_webinar,Partner webinars,1959,257,80,69,37,14,10,9064.96,6,3
+2026-07-06,CMP029,referral,Student referral loops,2395,250,91,66,35,16,10,5135.32,1,3
+2026-07-06,CMP029,creator_content,Creator content,2363,149,54,41,21,9,4,3472.34,2,4
+2026-07-06,CMP029,paid_social,Paid social,2358,126,38,29,14,6,2,5772.33,0,0
+2026-07-06,CMP029,search_content,Search and explainer content,2429,200,76,65,40,18,9,4994.98,0,3
+2026-07-06,CMP030,campus_ambassador,Campus ambassadors,428,37,6,4,2,1,0,1190.73,0,0
+2026-07-06,CMP030,partner_webinar,Partner webinars,559,71,11,8,3,1,0,3642.06,2,1
+2026-07-06,CMP030,referral,Student referral loops,521,52,12,9,4,2,1,1067.06,0,6
+2026-07-06,CMP030,creator_content,Creator content,377,23,5,3,1,0,0,721.59,9,4
+2026-07-06,CMP030,paid_social,Paid social,816,42,11,8,3,1,0,2943.76,0,0
+2026-07-06,CMP030,search_content,Search and explainer content,512,41,9,6,3,1,0,1565.15,0,2
+2026-07-06,CMP031,campus_ambassador,Campus ambassadors,1727,160,40,30,17,8,5,2992.17,10,0
+2026-07-06,CMP031,partner_webinar,Partner webinars,701,93,28,20,10,6,4,2364.93,0,5
+2026-07-06,CMP031,referral,Student referral loops,1380,146,39,33,19,10,6,2233.19,2,1
+2026-07-06,CMP031,creator_content,Creator content,1300,83,23,18,9,5,2,2416.85,1,0
+2026-07-06,CMP031,paid_social,Paid social,752,40,12,9,4,2,1,2029.64,1,0
+2026-07-06,CMP031,search_content,Search and explainer content,470,39,9,7,3,1,0,1023.01,0,0
+2026-07-06,CMP032,campus_ambassador,Campus ambassadors,2175,212,72,54,30,18,10,3346.38,2,3
+2026-07-06,CMP032,partner_webinar,Partner webinars,1530,215,62,50,24,12,8,4865.67,6,2
+2026-07-06,CMP032,referral,Student referral loops,1247,139,44,38,20,9,6,2214.66,11,0
+2026-07-06,CMP032,creator_content,Creator content,675,45,16,11,6,3,1,1004.74,0,0
+2026-07-06,CMP032,paid_social,Paid social,2274,130,35,26,15,7,3,5705.91,1,0
+2026-07-06,CMP032,search_content,Search and explainer content,2200,194,62,50,24,13,6,4597.86,0,1
+2026-07-13,CMP001,campus_ambassador,Campus ambassadors,727,66,12,8,4,2,1,1068.07,0,0
+2026-07-13,CMP001,partner_webinar,Partner webinars,1302,172,27,21,13,6,4,5392.73,0,0
+2026-07-13,CMP001,referral,Student referral loops,1582,166,30,25,13,7,4,2810.6,2,2
+2026-07-13,CMP001,creator_content,Creator content,556,35,8,6,3,1,0,833.23,0,0
+2026-07-13,CMP001,paid_social,Paid social,1251,67,18,14,8,3,1,2109.9,0,0
+2026-07-13,CMP001,search_content,Search and explainer content,1488,123,31,25,14,7,4,2231.09,0,2
+2026-07-13,CMP002,campus_ambassador,Campus ambassadors,1301,119,32,23,13,6,3,2639.84,6,0
+2026-07-13,CMP002,partner_webinar,Partner webinars,1305,172,27,21,12,5,3,5002.19,0,0
+2026-07-13,CMP002,referral,Student referral loops,1800,188,50,38,20,8,6,2190.22,7,0
+2026-07-13,CMP002,creator_content,Creator content,1266,80,14,10,6,2,0,2120.19,0,0
+2026-07-13,CMP002,paid_social,Paid social,1714,92,21,18,10,4,2,4008.14,1,2
+2026-07-13,CMP002,search_content,Search and explainer content,875,72,19,13,8,3,1,1348.77,9,1
+2026-07-13,CMP003,campus_ambassador,Campus ambassadors,433,37,5,4,1,0,0,818.19,4,0
+2026-07-13,CMP003,partner_webinar,Partner webinars,246,30,5,3,1,0,0,782.15,5,4
+2026-07-13,CMP003,referral,Student referral loops,172,17,2,1,0,0,0,290.05,2,0
+2026-07-13,CMP003,creator_content,Creator content,233,13,1,0,0,0,0,341.71,0,0
+2026-07-13,CMP003,paid_social,Paid social,171,8,1,0,0,0,0,267.05,1,0
+2026-07-13,CMP003,search_content,Search and explainer content,265,20,2,1,0,0,0,502.19,1,0
+2026-07-13,CMP004,campus_ambassador,Campus ambassadors,452,36,5,4,2,0,0,780.49,3,0
+2026-07-13,CMP004,partner_webinar,Partner webinars,339,39,7,5,2,0,0,1054.16,0,1
+2026-07-13,CMP004,referral,Student referral loops,339,31,5,4,1,0,0,449.71,1,0
+2026-07-13,CMP004,creator_content,Creator content,540,30,4,3,1,0,0,802.65,0,3
+2026-07-13,CMP004,paid_social,Paid social,510,24,3,2,1,0,0,817.64,0,3
+2026-07-13,CMP004,search_content,Search and explainer content,526,38,5,3,1,0,0,790.73,7,0
+2026-07-13,CMP005,campus_ambassador,Campus ambassadors,912,76,22,19,8,4,2,1696.96,2,0
+2026-07-13,CMP005,partner_webinar,Partner webinars,472,56,10,7,3,1,0,1760.04,7,0
+2026-07-13,CMP005,referral,Student referral loops,827,79,15,11,4,2,1,1885.79,1,3
+2026-07-13,CMP005,creator_content,Creator content,1150,66,15,12,5,2,0,2586.68,0,0
+2026-07-13,CMP005,paid_social,Paid social,918,45,8,5,2,0,0,1793.22,4,3
+2026-07-13,CMP005,search_content,Search and explainer content,652,49,10,7,3,1,0,1064.85,4,2
+2026-07-13,CMP006,campus_ambassador,Campus ambassadors,631,53,11,7,3,1,0,1207.43,4,1
+2026-07-13,CMP006,partner_webinar,Partner webinars,886,107,22,18,8,3,2,3659.69,0,0
+2026-07-13,CMP006,referral,Student referral loops,250,24,5,3,1,0,0,425.56,0,3
+2026-07-13,CMP006,creator_content,Creator content,575,33,5,3,1,0,0,1136.46,3,0
+2026-07-13,CMP006,paid_social,Paid social,382,18,3,2,0,0,0,908.34,3,0
+2026-07-13,CMP006,search_content,Search and explainer content,748,57,8,6,2,0,0,1676.6,2,0
+2026-07-13,CMP007,campus_ambassador,Campus ambassadors,824,77,18,14,7,3,1,1496.4,0,4
+2026-07-13,CMP007,partner_webinar,Partner webinars,1382,186,35,25,11,4,2,4018.94,0,1
+2026-07-13,CMP007,referral,Student referral loops,1267,136,26,22,10,4,2,2183.85,0,2
+2026-07-13,CMP007,creator_content,Creator content,1929,125,19,14,5,2,1,2512.96,0,0
+2026-07-13,CMP007,paid_social,Paid social,1496,82,19,16,6,2,0,3358.79,0,4
+2026-07-13,CMP007,search_content,Search and explainer content,1487,126,28,22,9,3,1,2578.31,0,0
+2026-07-13,CMP008,campus_ambassador,Campus ambassadors,1658,146,44,32,16,8,5,3281.68,0,4
+2026-07-13,CMP008,partner_webinar,Partner webinars,1820,231,79,58,35,17,10,9965.83,6,3
+2026-07-13,CMP008,referral,Student referral loops,1448,146,32,26,15,8,4,3252.32,4,1
+2026-07-13,CMP008,creator_content,Creator content,912,55,12,10,6,3,1,1498.19,2,1
+2026-07-13,CMP008,paid_social,Paid social,1209,62,18,15,8,4,1,2881.65,2,0
+2026-07-13,CMP008,search_content,Search and explainer content,1649,131,27,21,10,6,3,3325.78,7,5
+2026-07-13,CMP009,campus_ambassador,Campus ambassadors,787,66,9,7,3,1,0,1587.97,8,0
+2026-07-13,CMP009,partner_webinar,Partner webinars,505,61,10,7,3,1,0,1943.09,2,1
+2026-07-13,CMP009,referral,Student referral loops,1079,104,12,10,4,1,0,1731.52,0,0
+2026-07-13,CMP009,creator_content,Creator content,682,40,8,6,3,1,0,1158.35,0,1
+2026-07-13,CMP009,paid_social,Paid social,1028,51,8,5,2,0,0,2099.99,0,0
+2026-07-13,CMP009,search_content,Search and explainer content,928,71,9,7,3,1,0,2017.55,0,0
+2026-07-13,CMP010,campus_ambassador,Campus ambassadors,497,43,12,9,3,1,0,1187.78,0,2
+2026-07-13,CMP010,partner_webinar,Partner webinars,560,70,20,14,6,3,2,2255.43,1,1
+2026-07-13,CMP010,referral,Student referral loops,598,59,10,8,3,1,0,934.7,0,0
+2026-07-13,CMP010,creator_content,Creator content,286,17,4,2,0,0,0,640.15,1,9
+2026-07-13,CMP010,paid_social,Paid social,675,34,7,5,2,0,0,1624.11,0,2
+2026-07-13,CMP010,search_content,Search and explainer content,526,41,8,6,2,0,0,1362.85,6,5
+2026-07-13,CMP011,campus_ambassador,Campus ambassadors,740,65,26,21,11,5,2,1402.45,0,3
+2026-07-13,CMP011,partner_webinar,Partner webinars,1075,137,46,38,19,7,4,4973.62,4,0
+2026-07-13,CMP011,referral,Student referral loops,1626,165,46,33,21,11,8,2465.98,0,0
+2026-07-13,CMP011,creator_content,Creator content,704,43,16,13,7,3,1,1534.36,2,0
+2026-07-13,CMP011,paid_social,Paid social,1313,68,16,12,7,3,1,2357.8,4,3
+2026-07-13,CMP011,search_content,Search and explainer content,1453,116,31,26,16,8,4,2514.89,0,4
+2026-07-13,CMP012,campus_ambassador,Campus ambassadors,395,32,9,7,3,1,0,846.41,2,3
+2026-07-13,CMP012,partner_webinar,Partner webinars,493,58,11,9,6,2,1,1594.23,1,2
+2026-07-13,CMP012,referral,Student referral loops,667,62,17,13,9,4,2,960.27,0,0
+2026-07-13,CMP012,creator_content,Creator content,440,25,7,5,3,1,0,774.06,5,0
+2026-07-13,CMP012,paid_social,Paid social,448,21,5,3,1,0,0,799.35,3,1
+2026-07-13,CMP012,search_content,Search and explainer content,544,40,12,10,6,3,1,794.57,4,0
+2026-07-13,CMP013,campus_ambassador,Campus ambassadors,535,53,16,13,7,4,2,1219.64,4,0
+2026-07-13,CMP013,partner_webinar,Partner webinars,295,42,16,11,5,3,1,1230.05,2,0
+2026-07-13,CMP013,referral,Student referral loops,441,50,19,13,7,3,2,859.34,0,1
+2026-07-13,CMP013,creator_content,Creator content,330,22,5,3,1,0,0,810.89,0,0
+2026-07-13,CMP013,paid_social,Paid social,1020,59,17,14,7,4,1,2897.51,6,0
+2026-07-13,CMP013,search_content,Search and explainer content,548,49,14,11,5,2,1,1481.73,0,0
+2026-07-13,CMP014,campus_ambassador,Campus ambassadors,2224,205,40,33,17,10,6,3992.83,0,2
+2026-07-13,CMP014,partner_webinar,Partner webinars,2176,289,94,80,44,22,14,10640.7,8,6
+2026-07-13,CMP014,referral,Student referral loops,1309,138,40,29,19,10,7,3062.69,1,3
+2026-07-13,CMP014,creator_content,Creator content,2228,142,34,27,16,10,5,4023.21,5,3
+2026-07-13,CMP014,paid_social,Paid social,1373,74,18,13,8,5,2,4181.38,0,0
+2026-07-13,CMP014,search_content,Search and explainer content,1592,133,42,35,22,11,5,4168.69,0,0
+2026-07-13,CMP015,campus_ambassador,Campus ambassadors,398,32,7,5,3,1,0,497.96,0,0
+2026-07-13,CMP015,partner_webinar,Partner webinars,1087,129,24,17,8,3,2,3513.34,4,1
+2026-07-13,CMP015,referral,Student referral loops,572,54,8,5,2,1,0,807.26,0,0
+2026-07-13,CMP015,creator_content,Creator content,819,46,7,5,2,0,0,1207.67,0,0
+2026-07-13,CMP015,paid_social,Paid social,720,34,6,5,2,1,0,1041.76,0,0
+2026-07-13,CMP015,search_content,Search and explainer content,988,74,12,9,4,1,0,1822.15,3,0
+2026-07-13,CMP016,campus_ambassador,Campus ambassadors,495,44,7,5,2,0,0,863.45,1,5
+2026-07-13,CMP016,partner_webinar,Partner webinars,748,96,19,15,5,2,1,3460.78,1,6
+2026-07-13,CMP016,referral,Student referral loops,762,78,14,11,5,2,1,1764.34,0,3
+2026-07-13,CMP016,creator_content,Creator content,828,51,12,8,4,1,0,1469.4,0,0
+2026-07-13,CMP016,paid_social,Paid social,627,33,9,7,2,0,0,1591.13,0,1
+2026-07-13,CMP016,search_content,Search and explainer content,498,40,8,6,2,0,0,1054.59,4,0
+2026-07-13,CMP017,campus_ambassador,Campus ambassadors,1683,154,48,35,20,9,6,2935.32,1,0
+2026-07-13,CMP017,partner_webinar,Partner webinars,1326,175,57,47,30,12,7,6368.11,0,0
+2026-07-13,CMP017,referral,Student referral loops,1485,156,52,39,20,8,5,3188.93,0,0
+2026-07-13,CMP017,creator_content,Creator content,2051,130,41,35,23,11,5,3690.21,15,0
+2026-07-13,CMP017,paid_social,Paid social,1918,103,20,15,8,3,1,5144.31,6,0
+2026-07-13,CMP017,search_content,Search and explainer content,1124,93,20,16,10,4,2,1837.26,2,3
+2026-07-13,CMP018,campus_ambassador,Campus ambassadors,510,46,9,7,3,1,0,963.73,4,6
+2026-07-13,CMP018,partner_webinar,Partner webinars,377,49,8,6,3,1,0,1364.94,1,1
+2026-07-13,CMP018,referral,Student referral loops,403,42,8,6,3,1,0,689.16,3,1
+2026-07-13,CMP018,creator_content,Creator content,433,27,4,3,2,0,0,654.84,7,4
+2026-07-13,CMP018,paid_social,Paid social,291,15,2,1,0,0,0,570.82,7,1
+2026-07-13,CMP018,search_content,Search and explainer content,332,27,6,4,2,0,0,632.36,0,1
+2026-07-13,CMP019,campus_ambassador,Campus ambassadors,1022,93,21,18,9,3,1,1875.63,3,4
+2026-07-13,CMP019,partner_webinar,Partner webinars,2225,293,74,60,37,13,9,6333.24,8,0
+2026-07-13,CMP019,referral,Student referral loops,1834,192,42,32,17,5,3,2845.9,0,0
+2026-07-13,CMP019,creator_content,Creator content,1232,78,19,13,7,2,0,1631.29,2,0
+2026-07-13,CMP019,paid_social,Paid social,1112,59,13,11,6,2,0,2310.33,0,0
+2026-07-13,CMP019,search_content,Search and explainer content,1192,99,20,14,6,2,1,1601.21,7,2
+2026-07-13,CMP020,campus_ambassador,Campus ambassadors,534,50,13,11,6,3,1,926.08,5,1
+2026-07-13,CMP020,partner_webinar,Partner webinars,908,123,30,24,11,6,4,3021.28,2,1
+2026-07-13,CMP020,referral,Student referral loops,1287,139,36,30,14,6,4,1864.54,0,1
+2026-07-13,CMP020,creator_content,Creator content,1342,88,19,15,7,3,1,1993.61,2,0
+2026-07-13,CMP020,paid_social,Paid social,1889,104,23,20,9,4,1,4356.79,0,1
+2026-07-13,CMP020,search_content,Search and explainer content,965,82,15,12,5,2,1,2073.35,1,0
+2026-07-13,CMP021,campus_ambassador,Campus ambassadors,845,66,15,12,5,2,1,1191.62,0,5
+2026-07-13,CMP021,partner_webinar,Partner webinars,701,79,17,13,7,2,1,2165.95,0,2
+2026-07-13,CMP021,referral,Student referral loops,1096,99,25,20,9,4,3,1622.26,0,3
+2026-07-13,CMP021,creator_content,Creator content,1326,72,15,11,4,1,0,2089.33,3,0
+2026-07-13,CMP021,paid_social,Paid social,859,39,8,6,2,0,0,1530.74,0,0
+2026-07-13,CMP021,search_content,Search and explainer content,1235,88,20,16,9,3,1,2054.92,0,0
+2026-07-13,CMP022,campus_ambassador,Campus ambassadors,1599,140,25,21,13,4,2,2360.2,0,4
+2026-07-13,CMP022,partner_webinar,Partner webinars,1832,231,33,27,16,6,3,5997.56,4,1
+2026-07-13,CMP022,referral,Student referral loops,1090,109,14,10,6,2,1,1641.49,0,0
+2026-07-13,CMP022,creator_content,Creator content,1221,74,9,7,3,1,0,1816.91,0,1
+2026-07-13,CMP022,paid_social,Paid social,1026,52,5,3,1,0,0,1747.09,1,4
+2026-07-13,CMP022,search_content,Search and explainer content,1403,111,12,10,5,2,1,2058.04,0,0
+2026-07-13,CMP023,campus_ambassador,Campus ambassadors,1106,107,25,18,10,6,3,1754.15,5,1
+2026-07-13,CMP023,partner_webinar,Partner webinars,932,129,31,22,10,5,3,4323.78,0,3
+2026-07-13,CMP023,referral,Student referral loops,704,78,18,14,7,3,2,1227.44,0,0
+2026-07-13,CMP023,creator_content,Creator content,619,41,11,8,4,2,1,1143.7,0,0
+2026-07-13,CMP023,paid_social,Paid social,773,43,13,10,4,2,0,1514.71,3,0
+2026-07-13,CMP023,search_content,Search and explainer content,901,79,19,14,7,4,2,1787.88,3,5
+2026-07-13,CMP024,campus_ambassador,Campus ambassadors,2115,192,48,39,22,7,3,4556.36,0,1
+2026-07-13,CMP024,partner_webinar,Partner webinars,1191,155,34,28,13,5,3,4011.31,3,0
+2026-07-13,CMP024,referral,Student referral loops,2154,224,59,45,25,10,6,4301.2,0,2
+2026-07-13,CMP024,creator_content,Creator content,2103,132,32,27,15,6,3,3373.96,0,3
+2026-07-13,CMP024,paid_social,Paid social,1499,79,21,16,8,2,0,4296.5,0,0
+2026-07-13,CMP024,search_content,Search and explainer content,1286,105,26,19,10,4,2,3307.7,0,1
+2026-07-13,CMP025,campus_ambassador,Campus ambassadors,1079,103,30,25,12,5,2,2317.44,0,2
+2026-07-13,CMP025,partner_webinar,Partner webinars,1096,151,36,28,15,7,4,6022.36,0,0
+2026-07-13,CMP025,referral,Student referral loops,1283,141,51,40,20,9,5,2673.41,1,0
+2026-07-13,CMP025,creator_content,Creator content,807,53,15,12,6,3,1,1491.0,1,0
+2026-07-13,CMP025,paid_social,Paid social,946,53,12,8,4,2,0,2977.83,0,0
+2026-07-13,CMP025,search_content,Search and explainer content,665,57,16,13,6,3,1,1614.85,6,0
+2026-07-13,CMP026,campus_ambassador,Campus ambassadors,1840,152,37,29,12,6,3,3673.92,0,4
+2026-07-13,CMP026,partner_webinar,Partner webinars,1605,191,32,25,10,4,2,4995.04,1,4
+2026-07-13,CMP026,referral,Student referral loops,2228,211,36,28,14,6,3,3003.68,0,0
+2026-07-13,CMP026,creator_content,Creator content,1769,101,16,13,7,3,1,2558.34,0,2
+2026-07-13,CMP026,paid_social,Paid social,2638,127,29,21,11,5,2,6372.67,0,1
+2026-07-13,CMP026,search_content,Search and explainer content,2201,164,39,30,12,6,3,5131.74,0,0
+2026-07-13,CMP027,campus_ambassador,Campus ambassadors,726,60,16,13,7,3,1,950.09,0,4
+2026-07-13,CMP027,partner_webinar,Partner webinars,961,116,35,28,13,6,4,3210.37,0,0
+2026-07-13,CMP027,referral,Student referral loops,950,91,28,21,9,4,2,1423.46,1,2
+2026-07-13,CMP027,creator_content,Creator content,904,52,11,9,4,1,0,1096.9,0,0
+2026-07-13,CMP027,paid_social,Paid social,799,39,12,9,4,1,0,1241.97,7,0
+2026-07-13,CMP027,search_content,Search and explainer content,742,56,16,11,5,2,1,1184.63,1,2
+2026-07-13,CMP028,campus_ambassador,Campus ambassadors,616,49,14,12,7,3,1,1219.89,2,6
+2026-07-13,CMP028,partner_webinar,Partner webinars,836,96,30,22,15,5,3,2758.15,3,0
+2026-07-13,CMP028,referral,Student referral loops,321,29,8,5,3,1,0,412.04,0,1
+2026-07-13,CMP028,creator_content,Creator content,931,51,12,9,5,1,0,1391.42,1,0
+2026-07-13,CMP028,paid_social,Paid social,233,10,3,2,1,0,0,429.88,0,0
+2026-07-13,CMP028,search_content,Search and explainer content,470,34,10,7,4,1,0,713.63,0,4
+2026-07-13,CMP029,campus_ambassador,Campus ambassadors,1937,176,52,44,27,10,6,3469.48,2,4
+2026-07-13,CMP029,partner_webinar,Partner webinars,1054,138,52,40,24,11,7,5472.79,5,1
+2026-07-13,CMP029,referral,Student referral loops,1179,123,48,39,21,10,6,2297.54,4,0
+2026-07-13,CMP029,creator_content,Creator content,2262,143,37,31,16,7,4,3961.04,3,0
+2026-07-13,CMP029,paid_social,Paid social,1493,79,25,19,11,5,2,3485.19,0,4
+2026-07-13,CMP029,search_content,Search and explainer content,2164,178,65,55,32,14,8,3436.76,7,0
+2026-07-13,CMP030,campus_ambassador,Campus ambassadors,700,62,11,9,5,2,1,1464.16,0,2
+2026-07-13,CMP030,partner_webinar,Partner webinars,679,86,20,16,7,4,2,4094.69,0,0
+2026-07-13,CMP030,referral,Student referral loops,702,71,16,13,5,3,2,1831.21,1,0
+2026-07-13,CMP030,creator_content,Creator content,536,32,8,6,2,1,0,1238.61,7,4
+2026-07-13,CMP030,paid_social,Paid social,779,40,6,4,2,1,0,2837.04,0,0
+2026-07-13,CMP030,search_content,Search and explainer content,792,63,15,12,6,3,1,2404.41,0,0
+2026-07-13,CMP031,campus_ambassador,Campus ambassadors,748,69,22,18,12,7,3,1313.34,0,8
+2026-07-13,CMP031,partner_webinar,Partner webinars,1292,172,47,35,18,11,7,6325.79,5,0
+2026-07-13,CMP031,referral,Student referral loops,1332,141,37,26,15,7,5,2273.32,0,0
+2026-07-13,CMP031,creator_content,Creator content,1379,88,21,16,8,4,2,1902.47,1,0
+2026-07-13,CMP031,paid_social,Paid social,815,44,14,11,5,2,0,2046.33,5,2
+2026-07-13,CMP031,search_content,Search and explainer content,1056,88,23,19,12,7,4,1726.28,0,0
+2026-07-13,CMP032,campus_ambassador,Campus ambassadors,1190,116,28,20,9,5,2,1680.56,4,6
+2026-07-13,CMP032,partner_webinar,Partner webinars,2065,290,71,59,32,20,12,9348.29,1,0
+2026-07-13,CMP032,referral,Student referral loops,2127,238,53,42,21,11,7,3298.28,0,2
+2026-07-13,CMP032,creator_content,Creator content,1988,134,39,32,20,10,5,4114.48,0,3
+2026-07-13,CMP032,paid_social,Paid social,981,56,20,14,8,4,1,1702.67,1,0
+2026-07-13,CMP032,search_content,Search and explainer content,1699,150,41,33,21,13,7,3911.24,0,2
+2026-07-20,CMP001,campus_ambassador,Campus ambassadors,1686,154,27,22,11,5,2,3069.2,0,0
+2026-07-20,CMP001,partner_webinar,Partner webinars,1208,159,36,28,17,8,5,4644.46,0,7
+2026-07-20,CMP001,referral,Student referral loops,694,73,20,17,10,4,2,1223.13,0,2
+2026-07-20,CMP001,creator_content,Creator content,1430,91,21,17,10,5,2,2479.39,5,0
+2026-07-20,CMP001,paid_social,Paid social,1247,67,14,10,5,2,0,3291.73,5,0
+2026-07-20,CMP001,search_content,Search and explainer content,1228,102,16,13,6,2,1,2571.25,0,0
+2026-07-20,CMP002,campus_ambassador,Campus ambassadors,1487,136,29,24,14,4,2,2858.07,2,0
+2026-07-20,CMP002,partner_webinar,Partner webinars,1176,155,39,32,16,6,3,3899.33,0,3
+2026-07-20,CMP002,referral,Student referral loops,2140,224,58,47,27,10,6,3386.84,0,0
+2026-07-20,CMP002,creator_content,Creator content,2064,131,27,21,12,4,2,3011.33,3,0
+2026-07-20,CMP002,paid_social,Paid social,1693,90,23,17,8,3,1,4201.78,0,0
+2026-07-20,CMP002,search_content,Search and explainer content,848,70,16,12,7,3,1,1402.24,0,0
+2026-07-20,CMP003,campus_ambassador,Campus ambassadors,189,16,2,1,0,0,0,291.83,6,2
+2026-07-20,CMP003,partner_webinar,Partner webinars,246,30,4,3,1,0,0,931.27,0,0
+2026-07-20,CMP003,referral,Student referral loops,309,30,3,2,0,0,0,496.46,0,0
+2026-07-20,CMP003,creator_content,Creator content,262,15,1,0,0,0,0,405.72,0,0
+2026-07-20,CMP003,paid_social,Paid social,376,19,3,2,0,0,0,653.49,3,2
+2026-07-20,CMP003,search_content,Search and explainer content,486,38,4,3,1,0,0,730.02,2,0
+2026-07-20,CMP004,campus_ambassador,Campus ambassadors,564,45,9,6,2,0,0,889.32,3,1
+2026-07-20,CMP004,partner_webinar,Partner webinars,357,41,8,5,2,0,0,1028.55,3,3
+2026-07-20,CMP004,referral,Student referral loops,428,39,5,4,2,0,0,534.21,0,3
+2026-07-20,CMP004,creator_content,Creator content,406,22,3,2,1,0,0,579.52,3,0
+2026-07-20,CMP004,paid_social,Paid social,583,27,6,4,1,0,0,1277.97,0,3
+2026-07-20,CMP004,search_content,Search and explainer content,447,32,6,5,2,0,0,735.49,0,0
+2026-07-20,CMP005,campus_ambassador,Campus ambassadors,881,73,18,13,6,2,1,1501.91,0,2
+2026-07-20,CMP005,partner_webinar,Partner webinars,848,102,24,20,8,3,2,3978.9,0,3
+2026-07-20,CMP005,referral,Student referral loops,686,65,18,14,6,2,1,1116.11,4,0
+2026-07-20,CMP005,creator_content,Creator content,482,28,7,5,2,1,0,806.29,0,1
+2026-07-20,CMP005,paid_social,Paid social,780,38,6,4,1,0,0,1780.27,0,3
+2026-07-20,CMP005,search_content,Search and explainer content,448,34,9,7,3,1,0,1061.33,4,0
+2026-07-20,CMP006,campus_ambassador,Campus ambassadors,397,33,7,6,3,1,0,895.35,0,4
+2026-07-20,CMP006,partner_webinar,Partner webinars,867,105,21,18,9,4,2,4371.23,0,2
+2026-07-20,CMP006,referral,Student referral loops,539,52,12,9,4,2,1,783.59,0,0
+2026-07-20,CMP006,creator_content,Creator content,373,21,4,3,1,0,0,657.82,0,0
+2026-07-20,CMP006,paid_social,Paid social,615,30,6,4,1,0,0,1360.46,0,0
+2026-07-20,CMP006,search_content,Search and explainer content,575,43,10,7,2,1,0,945.74,0,0
+2026-07-20,CMP007,campus_ambassador,Campus ambassadors,702,65,12,9,3,1,0,1193.88,0,8
+2026-07-20,CMP007,partner_webinar,Partner webinars,895,121,24,19,7,2,1,3221.62,1,0
+2026-07-20,CMP007,referral,Student referral loops,969,104,23,17,7,3,2,1375.54,0,5
+2026-07-20,CMP007,creator_content,Creator content,675,43,7,5,2,0,0,1130.95,6,0
+2026-07-20,CMP007,paid_social,Paid social,1117,61,11,9,4,1,0,2551.72,0,0
+2026-07-20,CMP007,search_content,Search and explainer content,1754,149,27,23,10,4,2,2641.47,3,0
+2026-07-20,CMP008,campus_ambassador,Campus ambassadors,1258,111,38,32,19,12,8,2050.58,0,0
+2026-07-20,CMP008,partner_webinar,Partner webinars,1165,148,50,43,26,15,11,5116.64,1,0
+2026-07-20,CMP008,referral,Student referral loops,2170,219,52,40,23,12,9,5043.42,0,7
+2026-07-20,CMP008,creator_content,Creator content,1985,121,32,26,12,5,2,3005.79,0,0
+2026-07-20,CMP008,paid_social,Paid social,1454,75,15,12,6,3,1,2874.26,0,0
+2026-07-20,CMP008,search_content,Search and explainer content,1647,131,26,18,10,5,2,2688.6,0,0
+2026-07-20,CMP009,campus_ambassador,Campus ambassadors,530,44,5,3,1,0,0,940.34,0,0
+2026-07-20,CMP009,partner_webinar,Partner webinars,1041,127,21,16,7,2,1,4493.65,0,0
+2026-07-20,CMP009,referral,Student referral loops,891,86,10,7,3,1,0,1691.32,3,2
+2026-07-20,CMP009,creator_content,Creator content,837,49,8,6,3,1,0,1410.62,6,0
+2026-07-20,CMP009,paid_social,Paid social,948,47,5,3,1,0,0,2263.11,3,0
+2026-07-20,CMP009,search_content,Search and explainer content,525,40,7,5,2,0,0,851.74,4,2
+2026-07-20,CMP010,campus_ambassador,Campus ambassadors,627,54,10,8,3,1,0,1294.57,1,0
+2026-07-20,CMP010,partner_webinar,Partner webinars,543,68,12,10,4,2,1,2027.71,3,0
+2026-07-20,CMP010,referral,Student referral loops,555,55,17,12,5,2,1,1153.55,4,0
+2026-07-20,CMP010,creator_content,Creator content,660,39,12,9,3,1,0,1452.98,0,2
+2026-07-20,CMP010,paid_social,Paid social,582,29,7,5,2,1,0,1546.31,0,0
+2026-07-20,CMP010,search_content,Search and explainer content,568,44,10,7,3,1,0,1056.22,0,2
+2026-07-20,CMP011,campus_ambassador,Campus ambassadors,1202,106,41,32,18,8,4,2509.47,3,0
+2026-07-20,CMP011,partner_webinar,Partner webinars,1246,158,57,49,31,14,9,4025.97,2,2
+2026-07-20,CMP011,referral,Student referral loops,855,86,34,28,14,6,3,1758.62,1,6
+2026-07-20,CMP011,creator_content,Creator content,1371,84,21,16,10,5,2,2806.19,2,3
+2026-07-20,CMP011,paid_social,Paid social,1505,78,21,17,9,3,1,3754.29,2,0
+2026-07-20,CMP011,search_content,Search and explainer content,1471,118,43,37,21,8,4,3632.02,2,0
+2026-07-20,CMP012,campus_ambassador,Campus ambassadors,414,34,9,6,3,1,0,861.13,0,4
+2026-07-20,CMP012,partner_webinar,Partner webinars,319,37,10,8,4,1,0,1413.03,0,0
+2026-07-20,CMP012,referral,Student referral loops,851,80,25,20,12,4,3,1462.89,9,0
+2026-07-20,CMP012,creator_content,Creator content,1229,70,13,10,5,2,0,2148.3,1,5
+2026-07-20,CMP012,paid_social,Paid social,1084,52,16,12,7,2,0,1985.29,0,0
+2026-07-20,CMP012,search_content,Search and explainer content,666,49,12,8,5,2,1,1277.48,3,0
+2026-07-20,CMP013,campus_ambassador,Campus ambassadors,823,82,27,22,12,5,2,2341.34,6,0
+2026-07-20,CMP013,partner_webinar,Partner webinars,690,99,30,23,12,7,4,3134.92,9,0
+2026-07-20,CMP013,referral,Student referral loops,623,71,19,14,7,3,2,1394.4,0,0
+2026-07-20,CMP013,creator_content,Creator content,502,34,8,6,2,1,0,911.08,0,5
+2026-07-20,CMP013,paid_social,Paid social,973,57,16,12,6,3,1,2591.86,0,1
+2026-07-20,CMP013,search_content,Search and explainer content,371,33,8,6,3,2,1,949.1,4,2
+2026-07-20,CMP014,campus_ambassador,Campus ambassadors,1313,121,33,27,14,9,5,3215.39,0,0
+2026-07-20,CMP014,partner_webinar,Partner webinars,1329,176,53,44,27,14,9,5259.15,6,1
+2026-07-20,CMP014,referral,Student referral loops,2011,213,49,36,18,11,8,3327.54,0,2
+2026-07-20,CMP014,creator_content,Creator content,1965,125,40,31,19,12,5,3350.41,0,0
+2026-07-20,CMP014,paid_social,Paid social,1257,68,14,10,5,2,1,2506.94,0,0
+2026-07-20,CMP014,search_content,Search and explainer content,1184,99,25,21,11,7,3,3131.9,1,2
+2026-07-20,CMP015,campus_ambassador,Campus ambassadors,590,48,11,9,4,2,1,993.24,0,0
+2026-07-20,CMP015,partner_webinar,Partner webinars,1025,122,22,16,7,3,2,3819.17,0,0
+2026-07-20,CMP015,referral,Student referral loops,1020,96,19,14,6,3,1,1301.36,0,0
+2026-07-20,CMP015,creator_content,Creator content,844,48,10,7,4,1,0,1025.32,3,4
+2026-07-20,CMP015,paid_social,Paid social,720,34,5,4,2,1,0,1091.28,0,2
+2026-07-20,CMP015,search_content,Search and explainer content,978,73,12,9,5,2,1,1713.63,1,0
+2026-07-20,CMP016,campus_ambassador,Campus ambassadors,534,47,10,7,3,1,0,1015.95,0,0
+2026-07-20,CMP016,partner_webinar,Partner webinars,658,85,22,17,7,2,1,2926.86,1,3
+2026-07-20,CMP016,referral,Student referral loops,483,49,10,7,3,1,0,1010.56,0,0
+2026-07-20,CMP016,creator_content,Creator content,444,27,5,4,1,0,0,921.89,0,0
+2026-07-20,CMP016,paid_social,Paid social,517,27,4,3,1,0,0,1071.89,4,2
+2026-07-20,CMP016,search_content,Search and explainer content,430,34,6,4,1,0,0,821.83,0,1
+2026-07-20,CMP017,campus_ambassador,Campus ambassadors,1716,157,35,26,15,6,4,3770.42,5,5
+2026-07-20,CMP017,partner_webinar,Partner webinars,1623,214,65,49,27,12,7,8094.84,1,1
+2026-07-20,CMP017,referral,Student referral loops,2717,286,76,58,35,14,9,4391.53,2,0
+2026-07-20,CMP017,creator_content,Creator content,2571,163,40,29,20,10,5,5654.83,0,0
+2026-07-20,CMP017,paid_social,Paid social,1097,59,15,12,7,2,0,2501.77,0,0
+2026-07-20,CMP017,search_content,Search and explainer content,901,75,16,13,7,3,1,2131.27,3,0
+2026-07-20,CMP018,campus_ambassador,Campus ambassadors,739,67,15,10,5,1,0,1399.53,0,0
+2026-07-20,CMP018,partner_webinar,Partner webinars,391,51,12,9,5,1,0,1805.38,1,0
+2026-07-20,CMP018,referral,Student referral loops,512,53,13,9,4,1,0,795.46,7,3
+2026-07-20,CMP018,creator_content,Creator content,642,40,6,4,2,0,0,863.65,0,0
+2026-07-20,CMP018,paid_social,Paid social,524,27,6,4,2,0,0,1013.23,3,0
+2026-07-20,CMP018,search_content,Search and explainer content,572,47,9,6,3,1,0,1071.02,1,0
+2026-07-20,CMP019,campus_ambassador,Campus ambassadors,1512,138,36,30,17,7,4,2430.15,0,0
+2026-07-20,CMP019,partner_webinar,Partner webinars,1092,144,38,29,16,5,3,3020.83,0,2
+2026-07-20,CMP019,referral,Student referral loops,1131,118,25,19,9,3,1,1560.54,0,6
+2026-07-20,CMP019,creator_content,Creator content,2203,139,38,32,20,9,4,2718.21,6,0
+2026-07-20,CMP019,paid_social,Paid social,1241,66,12,10,4,1,0,2260.85,0,6
+2026-07-20,CMP019,search_content,Search and explainer content,1959,162,38,30,16,6,3,2619.56,5,0
+2026-07-20,CMP020,campus_ambassador,Campus ambassadors,862,81,16,12,5,2,1,1647.97,5,0
+2026-07-20,CMP020,partner_webinar,Partner webinars,720,98,27,20,9,5,3,2189.89,0,3
+2026-07-20,CMP020,referral,Student referral loops,1274,138,27,20,11,5,3,2039.11,0,0
+2026-07-20,CMP020,creator_content,Creator content,1490,97,25,21,11,5,2,2383.54,0,1
+2026-07-20,CMP020,paid_social,Paid social,1312,72,18,13,7,3,1,2834.36,6,0
+2026-07-20,CMP020,search_content,Search and explainer content,596,51,9,7,3,1,0,1093.5,0,1
+2026-07-20,CMP021,campus_ambassador,Campus ambassadors,1269,100,19,16,7,2,1,1942.11,0,1
+2026-07-20,CMP021,partner_webinar,Partner webinars,655,74,24,19,9,4,2,2493.33,1,0
+2026-07-20,CMP021,referral,Student referral loops,1042,94,27,22,11,4,2,1694.48,0,3
+2026-07-20,CMP021,creator_content,Creator content,796,43,13,9,4,1,0,1180.52,0,3
+2026-07-20,CMP021,paid_social,Paid social,695,32,7,5,2,0,0,1437.22,0,0
+2026-07-20,CMP021,search_content,Search and explainer content,646,46,10,8,3,1,0,1319.0,0,0
+2026-07-20,CMP022,campus_ambassador,Campus ambassadors,760,66,7,6,3,1,0,1076.98,7,3
+2026-07-20,CMP022,partner_webinar,Partner webinars,1309,165,22,18,11,3,1,3130.09,0,1
+2026-07-20,CMP022,referral,Student referral loops,1499,150,19,14,7,2,1,1805.76,1,0
+2026-07-20,CMP022,creator_content,Creator content,1690,102,16,12,7,2,1,2503.14,0,0
+2026-07-20,CMP022,paid_social,Paid social,1216,62,6,4,2,0,0,1996.75,0,1
+2026-07-20,CMP022,search_content,Search and explainer content,960,76,9,7,4,1,0,1314.05,2,0
+2026-07-20,CMP023,campus_ambassador,Campus ambassadors,768,74,15,12,6,3,1,1216.76,0,0
+2026-07-20,CMP023,partner_webinar,Partner webinars,684,95,19,13,6,2,1,2726.54,0,0
+2026-07-20,CMP023,referral,Student referral loops,896,99,25,20,10,5,3,1700.06,4,1
+2026-07-20,CMP023,creator_content,Creator content,459,30,9,7,3,1,0,855.43,1,2
+2026-07-20,CMP023,paid_social,Paid social,662,37,10,8,4,2,0,1603.97,0,0
+2026-07-20,CMP023,search_content,Search and explainer content,1368,120,34,28,14,7,3,2493.29,1,5
+2026-07-20,CMP024,campus_ambassador,Campus ambassadors,2719,247,68,56,33,12,7,5451.66,0,0
+2026-07-20,CMP024,partner_webinar,Partner webinars,1969,257,65,51,24,10,6,10203.82,0,2
+2026-07-20,CMP024,referral,Student referral loops,2099,218,43,37,22,8,5,3333.49,6,2
+2026-07-20,CMP024,creator_content,Creator content,1401,88,19,13,7,3,1,2579.29,0,1
+2026-07-20,CMP024,paid_social,Paid social,1314,70,20,16,7,2,0,2470.84,4,1
+2026-07-20,CMP024,search_content,Search and explainer content,1729,142,36,26,15,5,2,3896.57,0,2
+2026-07-20,CMP025,campus_ambassador,Campus ambassadors,904,86,21,17,9,4,2,1939.63,0,2
+2026-07-20,CMP025,partner_webinar,Partner webinars,850,117,31,25,12,6,3,4864.95,5,0
+2026-07-20,CMP025,referral,Student referral loops,568,62,14,10,5,3,1,1257.69,0,2
+2026-07-20,CMP025,creator_content,Creator content,904,60,21,16,9,4,2,1883.14,0,1
+2026-07-20,CMP025,paid_social,Paid social,726,40,13,10,5,2,0,1853.08,5,0
+2026-07-20,CMP025,search_content,Search and explainer content,910,79,27,19,8,3,1,2288.52,1,0
+2026-07-20,CMP026,campus_ambassador,Campus ambassadors,2324,192,48,38,16,7,4,4123.37,8,0
+2026-07-20,CMP026,partner_webinar,Partner webinars,1032,122,25,19,9,4,2,4504.72,0,5
+2026-07-20,CMP026,referral,Student referral loops,1954,185,45,37,17,9,6,4122.53,0,3
+2026-07-20,CMP026,creator_content,Creator content,1218,69,17,13,7,2,1,2474.18,4,0
+2026-07-20,CMP026,paid_social,Paid social,2256,109,26,19,8,4,1,5465.45,0,0
+2026-07-20,CMP026,search_content,Search and explainer content,2244,168,44,31,15,6,3,3413.09,6,4
+2026-07-20,CMP027,campus_ambassador,Campus ambassadors,796,66,18,15,7,3,1,1336.3,2,2
+2026-07-20,CMP027,partner_webinar,Partner webinars,1170,141,32,27,11,5,3,4490.99,0,1
+2026-07-20,CMP027,referral,Student referral loops,593,57,20,16,7,2,1,797.82,0,0
+2026-07-20,CMP027,creator_content,Creator content,539,31,10,8,3,1,0,699.26,1,0
+2026-07-20,CMP027,paid_social,Paid social,861,42,9,6,2,1,0,1372.12,0,0
+2026-07-20,CMP027,search_content,Search and explainer content,1015,77,25,18,8,3,1,1473.3,0,5
+2026-07-20,CMP028,campus_ambassador,Campus ambassadors,842,67,23,17,9,4,2,1136.27,8,0
+2026-07-20,CMP028,partner_webinar,Partner webinars,364,41,13,10,6,2,1,1231.24,3,1
+2026-07-20,CMP028,referral,Student referral loops,680,62,13,9,5,1,0,924.55,3,0
+2026-07-20,CMP028,creator_content,Creator content,262,14,4,3,1,0,0,361.23,0,0
+2026-07-20,CMP028,paid_social,Paid social,517,24,5,4,2,0,0,1140.64,5,0
+2026-07-20,CMP028,search_content,Search and explainer content,523,37,13,9,6,3,1,936.41,3,0
+2026-07-20,CMP029,campus_ambassador,Campus ambassadors,2598,236,85,66,31,15,8,4801.13,0,5
+2026-07-20,CMP029,partner_webinar,Partner webinars,2433,319,93,76,43,22,13,10659.04,3,3
+2026-07-20,CMP029,referral,Student referral loops,2692,281,101,77,45,19,12,4660.77,6,3
+2026-07-20,CMP029,creator_content,Creator content,1402,88,33,25,13,5,2,2170.14,4,0
+2026-07-20,CMP029,paid_social,Paid social,2528,135,46,39,23,9,4,6159.34,0,0
+2026-07-20,CMP029,search_content,Search and explainer content,1859,153,47,38,18,9,4,3476.37,0,4
+2026-07-20,CMP030,campus_ambassador,Campus ambassadors,599,53,10,7,3,1,0,1352.48,4,0
+2026-07-20,CMP030,partner_webinar,Partner webinars,655,83,18,14,7,3,1,2999.47,0,3
+2026-07-20,CMP030,referral,Student referral loops,799,81,15,11,6,3,2,1401.78,0,2
+2026-07-20,CMP030,creator_content,Creator content,716,44,8,6,2,0,0,1648.51,0,0
+2026-07-20,CMP030,paid_social,Paid social,550,28,6,4,2,1,0,1470.14,1,2
+2026-07-20,CMP030,search_content,Search and explainer content,481,38,7,5,2,1,0,1236.36,0,1
+2026-07-20,CMP031,campus_ambassador,Campus ambassadors,1611,149,31,23,12,7,3,3536.4,0,5
+2026-07-20,CMP031,partner_webinar,Partner webinars,665,88,25,19,11,5,3,3373.82,0,0
+2026-07-20,CMP031,referral,Student referral loops,926,98,26,20,10,6,4,1763.49,0,0
+2026-07-20,CMP031,creator_content,Creator content,1530,98,22,15,8,4,2,2938.04,2,0
+2026-07-20,CMP031,paid_social,Paid social,761,41,11,9,5,2,0,1895.76,1,3
+2026-07-20,CMP031,search_content,Search and explainer content,1051,88,31,23,12,6,3,1668.07,0,2
+2026-07-20,CMP032,campus_ambassador,Campus ambassadors,1770,172,62,54,32,17,10,2631.86,11,0
+2026-07-20,CMP032,partner_webinar,Partner webinars,1968,276,65,51,25,15,11,8289.28,0,1
+2026-07-20,CMP032,referral,Student referral loops,884,98,26,22,11,6,4,1321.87,0,0
+2026-07-20,CMP032,creator_content,Creator content,2280,154,43,37,18,9,4,3972.67,5,0
+2026-07-20,CMP032,paid_social,Paid social,2114,121,40,31,17,9,3,5398.97,0,0
+2026-07-20,CMP032,search_content,Search and explainer content,972,86,30,25,13,8,4,1944.25,0,0
+2026-07-27,CMP001,campus_ambassador,Campus ambassadors,1185,108,20,16,9,3,1,2515.65,4,4
+2026-07-27,CMP001,partner_webinar,Partner webinars,1345,177,42,31,15,6,3,4405.84,0,0
+2026-07-27,CMP001,referral,Student referral loops,960,101,25,20,9,4,2,1878.62,3,5
+2026-07-27,CMP001,creator_content,Creator content,969,61,11,8,4,2,1,1466.75,0,2
+2026-07-27,CMP001,paid_social,Paid social,1204,64,11,8,4,2,1,2391.31,0,2
+2026-07-27,CMP001,search_content,Search and explainer content,729,60,10,7,4,2,1,1296.72,0,0
+2026-07-27,CMP002,campus_ambassador,Campus ambassadors,1807,165,35,29,16,6,3,2468.88,0,0
+2026-07-27,CMP002,partner_webinar,Partner webinars,1340,176,38,32,20,7,5,3964.35,3,7
+2026-07-27,CMP002,referral,Student referral loops,2570,269,69,57,33,13,8,3152.46,4,3
+2026-07-27,CMP002,creator_content,Creator content,2203,139,38,32,18,6,3,3930.85,0,0
+2026-07-27,CMP002,paid_social,Paid social,2164,116,28,23,14,5,2,4701.71,0,1
+2026-07-27,CMP002,search_content,Search and explainer content,1415,117,21,16,10,3,1,2585.64,0,0
+2026-07-27,CMP003,campus_ambassador,Campus ambassadors,345,29,4,2,0,0,0,583.51,0,0
+2026-07-27,CMP003,partner_webinar,Partner webinars,160,19,2,1,0,0,0,692.83,2,1
+2026-07-27,CMP003,referral,Student referral loops,340,33,4,3,1,0,0,558.96,0,2
+2026-07-27,CMP003,creator_content,Creator content,380,22,3,2,0,0,0,597.85,2,0
+2026-07-27,CMP003,paid_social,Paid social,274,13,1,0,0,0,0,539.65,4,0
+2026-07-27,CMP003,search_content,Search and explainer content,397,31,3,2,0,0,0,708.23,0,0
+2026-07-27,CMP004,campus_ambassador,Campus ambassadors,399,32,6,5,2,0,0,730.13,0,0
+2026-07-27,CMP004,partner_webinar,Partner webinars,343,39,5,3,1,0,0,1047.09,0,2
+2026-07-27,CMP004,referral,Student referral loops,222,20,3,2,1,0,0,247.22,3,0
+2026-07-27,CMP004,creator_content,Creator content,594,33,4,2,0,0,0,919.4,1,1
+2026-07-27,CMP004,paid_social,Paid social,562,26,4,3,1,0,0,1219.41,0,0
+2026-07-27,CMP004,search_content,Search and explainer content,475,34,6,5,2,0,0,777.18,0,1
+2026-07-27,CMP005,campus_ambassador,Campus ambassadors,605,50,14,11,4,1,0,1430.57,1,3
+2026-07-27,CMP005,partner_webinar,Partner webinars,1025,123,31,26,11,4,2,5128.39,4,1
+2026-07-27,CMP005,referral,Student referral loops,607,58,12,10,4,1,0,932.65,4,0
+2026-07-27,CMP005,creator_content,Creator content,898,52,14,11,5,2,1,1805.7,0,0
+2026-07-27,CMP005,paid_social,Paid social,916,45,12,9,3,1,0,1774.46,10,0
+2026-07-27,CMP005,search_content,Search and explainer content,654,49,13,10,5,2,1,1633.09,0,4
+2026-07-27,CMP006,campus_ambassador,Campus ambassadors,737,62,9,6,2,1,0,1642.0,3,2
+2026-07-27,CMP006,partner_webinar,Partner webinars,269,32,6,5,2,0,0,1230.36,0,0
+2026-07-27,CMP006,referral,Student referral loops,678,65,13,9,4,2,1,1499.15,3,3
+2026-07-27,CMP006,creator_content,Creator content,307,17,2,1,0,0,0,431.51,0,1
+2026-07-27,CMP006,paid_social,Paid social,650,32,5,4,2,1,0,1897.72,0,0
+2026-07-27,CMP006,search_content,Search and explainer content,989,75,19,16,7,4,2,2219.92,5,2
+2026-07-27,CMP007,campus_ambassador,Campus ambassadors,2029,190,41,29,15,7,3,3655.08,0,0
+2026-07-27,CMP007,partner_webinar,Partner webinars,1189,160,27,22,11,4,2,3411.93,10,2
+2026-07-27,CMP007,referral,Student referral loops,1389,149,21,18,8,3,2,1809.41,0,0
+2026-07-27,CMP007,creator_content,Creator content,1458,94,22,18,8,3,1,2627.23,0,0
+2026-07-27,CMP007,paid_social,Paid social,1446,79,13,11,4,2,0,2709.79,0,2
+2026-07-27,CMP007,search_content,Search and explainer content,1327,113,17,14,5,1,0,2458.02,0,0
+2026-07-27,CMP008,campus_ambassador,Campus ambassadors,1486,131,34,28,15,10,6,3062.05,0,1
+2026-07-27,CMP008,partner_webinar,Partner webinars,1616,205,43,31,14,9,5,6473.55,0,0
+2026-07-27,CMP008,referral,Student referral loops,2276,230,77,63,30,17,11,4472.41,4,0
+2026-07-27,CMP008,creator_content,Creator content,981,60,17,13,7,4,1,1634.76,0,0
+2026-07-27,CMP008,paid_social,Paid social,1148,59,11,9,4,2,0,2539.42,1,0
+2026-07-27,CMP008,search_content,Search and explainer content,2144,171,53,38,18,11,6,4824.04,5,0
+2026-07-27,CMP009,campus_ambassador,Campus ambassadors,847,71,12,9,5,2,1,1139.82,0,0
+2026-07-27,CMP009,partner_webinar,Partner webinars,792,96,17,14,6,2,1,3310.28,6,2
+2026-07-27,CMP009,referral,Student referral loops,452,43,8,5,2,0,0,628.39,3,0
+2026-07-27,CMP009,creator_content,Creator content,469,27,4,3,1,0,0,575.73,0,1
+2026-07-27,CMP009,paid_social,Paid social,1350,67,13,9,4,1,0,3124.25,0,0
+2026-07-27,CMP009,search_content,Search and explainer content,1359,104,16,11,5,1,0,2457.43,0,4
+2026-07-27,CMP010,campus_ambassador,Campus ambassadors,608,53,10,8,3,1,0,1452.22,1,3
+2026-07-27,CMP010,partner_webinar,Partner webinars,591,74,21,17,8,4,2,2083.07,0,0
+2026-07-27,CMP010,referral,Student referral loops,526,52,10,7,3,1,0,812.78,3,2
+2026-07-27,CMP010,creator_content,Creator content,393,23,4,3,1,0,0,577.54,0,0
+2026-07-27,CMP010,paid_social,Paid social,539,27,6,5,2,1,0,1126.35,2,0
+2026-07-27,CMP010,search_content,Search and explainer content,465,36,8,5,2,1,0,1029.63,0,0
+2026-07-27,CMP011,campus_ambassador,Campus ambassadors,912,80,27,23,14,6,3,1538.8,0,1
+2026-07-27,CMP011,partner_webinar,Partner webinars,1406,179,48,41,27,11,6,6591.88,1,0
+2026-07-27,CMP011,referral,Student referral loops,1420,144,56,43,27,12,8,2859.82,0,0
+2026-07-27,CMP011,creator_content,Creator content,1498,91,26,22,14,6,3,2803.68,0,1
+2026-07-27,CMP011,paid_social,Paid social,1636,84,26,19,10,5,2,3224.59,5,0
+2026-07-27,CMP011,search_content,Search and explainer content,1493,119,30,22,11,5,2,3076.87,0,0
+2026-07-27,CMP012,campus_ambassador,Campus ambassadors,589,48,12,9,5,2,1,855.33,6,6
+2026-07-27,CMP012,partner_webinar,Partner webinars,433,51,16,13,8,3,1,1634.95,4,0
+2026-07-27,CMP012,referral,Student referral loops,833,78,15,11,6,2,1,1142.93,0,0
+2026-07-27,CMP012,creator_content,Creator content,483,27,8,6,3,1,0,886.36,1,1
+2026-07-27,CMP012,paid_social,Paid social,637,30,8,6,3,1,0,1038.34,0,0
+2026-07-27,CMP012,search_content,Search and explainer content,771,57,16,13,7,3,1,1250.23,0,2
+2026-07-27,CMP013,campus_ambassador,Campus ambassadors,625,62,19,14,8,4,2,1308.97,0,0
+2026-07-27,CMP013,partner_webinar,Partner webinars,796,114,33,24,13,8,5,4250.64,0,2
+2026-07-27,CMP013,referral,Student referral loops,704,80,30,22,12,6,4,1231.67,2,2
+2026-07-27,CMP013,creator_content,Creator content,629,43,14,10,5,3,1,1679.82,4,0
+2026-07-27,CMP013,paid_social,Paid social,978,57,20,14,8,3,1,3143.37,6,4
+2026-07-27,CMP013,search_content,Search and explainer content,582,52,15,11,5,3,1,1152.77,5,3
+2026-07-27,CMP014,campus_ambassador,Campus ambassadors,1173,108,24,20,13,7,4,2910.37,5,0
+2026-07-27,CMP014,partner_webinar,Partner webinars,1115,148,34,26,15,7,4,6261.08,0,0
+2026-07-27,CMP014,referral,Student referral loops,904,95,21,15,9,5,3,1745.03,6,0
+2026-07-27,CMP014,creator_content,Creator content,1960,125,28,22,14,8,3,3127.74,0,0
+2026-07-27,CMP014,paid_social,Paid social,2092,113,26,20,12,6,2,6630.71,0,0
+2026-07-27,CMP014,search_content,Search and explainer content,936,78,18,13,7,3,1,2024.54,1,0
+2026-07-27,CMP015,campus_ambassador,Campus ambassadors,516,42,6,4,2,0,0,702.25,0,1
+2026-07-27,CMP015,partner_webinar,Partner webinars,969,115,20,15,8,3,1,3578.04,0,0
+2026-07-27,CMP015,referral,Student referral loops,483,45,7,5,2,1,0,690.54,0,0
+2026-07-27,CMP015,creator_content,Creator content,672,38,9,7,3,1,0,857.74,4,0
+2026-07-27,CMP015,paid_social,Paid social,416,20,2,1,0,0,0,716.47,4,0
+2026-07-27,CMP015,search_content,Search and explainer content,1019,76,16,12,6,3,1,1494.33,0,2
+2026-07-27,CMP016,campus_ambassador,Campus ambassadors,675,60,10,7,3,1,0,1271.21,0,1
+2026-07-27,CMP016,partner_webinar,Partner webinars,1078,139,25,19,8,3,2,4200.67,2,5
+2026-07-27,CMP016,referral,Student referral loops,742,76,18,14,6,2,1,1195.24,0,3
+2026-07-27,CMP016,creator_content,Creator content,698,43,11,9,4,1,0,1247.53,0,1
+2026-07-27,CMP016,paid_social,Paid social,972,51,11,8,3,1,0,1835.64,0,1
+2026-07-27,CMP016,search_content,Search and explainer content,859,69,18,13,5,1,0,1897.65,0,3
+2026-07-27,CMP017,campus_ambassador,Campus ambassadors,1701,156,51,42,26,11,6,3453.24,1,0
+2026-07-27,CMP017,partner_webinar,Partner webinars,1965,259,64,47,31,14,9,10658.84,3,0
+2026-07-27,CMP017,referral,Student referral loops,1365,143,34,28,17,6,4,2196.86,4,0
+2026-07-27,CMP017,creator_content,Creator content,2015,128,38,32,21,9,4,3595.6,4,4
+2026-07-27,CMP017,paid_social,Paid social,1210,65,15,13,8,3,1,2766.92,2,0
+2026-07-27,CMP017,search_content,Search and explainer content,2727,227,50,40,28,14,8,4915.67,0,0
+2026-07-27,CMP018,campus_ambassador,Campus ambassadors,651,59,12,8,4,1,0,943.72,1,2
+2026-07-27,CMP018,partner_webinar,Partner webinars,432,56,8,6,3,1,0,1978.17,0,2
+2026-07-27,CMP018,referral,Student referral loops,388,40,9,6,3,1,0,604.53,1,0
+2026-07-27,CMP018,creator_content,Creator content,484,30,6,4,2,0,0,867.05,0,1
+2026-07-27,CMP018,paid_social,Paid social,588,31,6,5,3,1,0,1274.63,0,0
+2026-07-27,CMP018,search_content,Search and explainer content,479,39,6,4,2,0,0,650.86,0,3
+2026-07-27,CMP019,campus_ambassador,Campus ambassadors,1813,166,42,30,17,6,3,2162.57,7,0
+2026-07-27,CMP019,partner_webinar,Partner webinars,1124,148,37,28,15,5,3,4371.68,0,0
+2026-07-27,CMP019,referral,Student referral loops,718,75,13,9,4,1,0,1140.88,0,2
+2026-07-27,CMP019,creator_content,Creator content,1195,75,17,14,8,3,1,1518.7,0,1
+2026-07-27,CMP019,paid_social,Paid social,2080,111,25,18,9,3,1,3439.67,0,0
+2026-07-27,CMP019,search_content,Search and explainer content,1658,137,38,31,18,7,4,2860.35,5,1
+2026-07-27,CMP020,campus_ambassador,Campus ambassadors,556,52,12,10,4,2,1,995.56,1,5
+2026-07-27,CMP020,partner_webinar,Partner webinars,803,109,27,19,11,6,3,3023.91,4,10
+2026-07-27,CMP020,referral,Student referral loops,586,63,18,13,6,3,2,953.63,0,0
+2026-07-27,CMP020,creator_content,Creator content,1432,94,20,17,8,5,2,1925.71,0,0
+2026-07-27,CMP020,paid_social,Paid social,978,54,11,8,4,2,0,2450.0,0,4
+2026-07-27,CMP020,search_content,Search and explainer content,924,79,14,10,5,3,1,1996.57,0,1
+2026-07-27,CMP021,campus_ambassador,Campus ambassadors,785,62,14,10,5,1,0,1456.48,0,4
+2026-07-27,CMP021,partner_webinar,Partner webinars,729,82,17,13,6,2,1,2458.65,7,2
+2026-07-27,CMP021,referral,Student referral loops,1269,114,27,22,11,4,2,1613.64,2,5
+2026-07-27,CMP021,creator_content,Creator content,542,29,5,3,1,0,0,881.95,0,0
+2026-07-27,CMP021,paid_social,Paid social,1014,47,12,8,4,1,0,2417.25,4,0
+2026-07-27,CMP021,search_content,Search and explainer content,780,55,14,10,5,2,1,1249.98,1,0
+2026-07-27,CMP022,campus_ambassador,Campus ambassadors,779,68,9,6,3,0,0,1090.57,3,1
+2026-07-27,CMP022,partner_webinar,Partner webinars,1627,205,26,22,11,4,2,5115.58,0,0
+2026-07-27,CMP022,referral,Student referral loops,1062,106,15,11,6,1,0,1127.25,0,0
+2026-07-27,CMP022,creator_content,Creator content,590,35,6,5,2,0,0,894.53,0,7
+2026-07-27,CMP022,paid_social,Paid social,462,23,3,2,1,0,0,589.01,0,0
+2026-07-27,CMP022,search_content,Search and explainer content,1300,103,16,13,7,2,1,1728.43,3,0
+2026-07-27,CMP023,campus_ambassador,Campus ambassadors,877,84,26,22,10,4,2,1309.31,2,0
+2026-07-27,CMP023,partner_webinar,Partner webinars,623,86,22,16,8,4,2,2617.2,1,0
+2026-07-27,CMP023,referral,Student referral loops,474,52,10,8,4,1,0,943.3,3,0
+2026-07-27,CMP023,creator_content,Creator content,562,37,8,6,3,1,0,1018.86,0,0
+2026-07-27,CMP023,paid_social,Paid social,1332,75,17,14,8,4,1,3395.77,4,0
+2026-07-27,CMP023,search_content,Search and explainer content,737,64,14,12,6,3,1,1784.27,2,0
+2026-07-27,CMP024,campus_ambassador,Campus ambassadors,1114,101,20,17,10,3,1,2267.92,0,0
+2026-07-27,CMP024,partner_webinar,Partner webinars,1757,229,59,45,23,10,6,6657.47,0,4
+2026-07-27,CMP024,referral,Student referral loops,1819,189,42,31,16,7,4,3455.86,6,1
+2026-07-27,CMP024,creator_content,Creator content,974,61,13,10,5,2,1,1587.17,1,0
+2026-07-27,CMP024,paid_social,Paid social,2037,108,26,21,10,4,1,4328.85,0,1
+2026-07-27,CMP024,search_content,Search and explainer content,782,64,12,9,4,1,0,1413.16,5,4
+2026-07-27,CMP025,campus_ambassador,Campus ambassadors,1319,126,34,29,16,7,3,2944.45,1,3
+2026-07-27,CMP025,partner_webinar,Partner webinars,1300,179,54,40,22,12,8,6951.47,7,0
+2026-07-27,CMP025,referral,Student referral loops,535,58,22,15,7,4,3,1361.54,5,0
+2026-07-27,CMP025,creator_content,Creator content,644,42,16,12,6,2,0,1381.37,0,5
+2026-07-27,CMP025,paid_social,Paid social,959,53,16,12,6,3,1,2303.5,2,2
+2026-07-27,CMP025,search_content,Search and explainer content,885,76,20,14,6,2,1,2023.44,0,3
+2026-07-27,CMP026,campus_ambassador,Campus ambassadors,2515,207,49,35,16,8,5,4368.18,0,0
+2026-07-27,CMP026,partner_webinar,Partner webinars,2009,239,45,33,16,8,5,9223.7,6,4
+2026-07-27,CMP026,referral,Student referral loops,1863,176,37,31,16,7,5,3748.03,3,0
+2026-07-27,CMP026,creator_content,Creator content,2628,150,26,19,10,4,2,5346.36,0,0
+2026-07-27,CMP026,paid_social,Paid social,1115,54,13,11,5,2,1,2765.72,0,0
+2026-07-27,CMP026,search_content,Search and explainer content,1563,117,25,20,9,4,2,3630.12,0,0
+2026-07-27,CMP027,campus_ambassador,Campus ambassadors,638,53,17,14,7,3,1,887.4,0,0
+2026-07-27,CMP027,partner_webinar,Partner webinars,1512,182,54,39,19,10,6,4735.13,2,3
+2026-07-27,CMP027,referral,Student referral loops,681,65,22,16,8,3,1,995.47,3,0
+2026-07-27,CMP027,creator_content,Creator content,729,42,12,10,5,2,1,990.73,1,0
+2026-07-27,CMP027,paid_social,Paid social,708,34,7,5,2,0,0,1075.05,4,1
+2026-07-27,CMP027,search_content,Search and explainer content,542,41,13,11,5,2,1,1069.54,0,4
+2026-07-27,CMP028,campus_ambassador,Campus ambassadors,552,44,13,11,6,2,1,798.63,0,0
+2026-07-27,CMP028,partner_webinar,Partner webinars,241,27,8,6,3,1,0,896.26,2,2
+2026-07-27,CMP028,referral,Student referral loops,732,67,19,16,9,4,2,1242.06,0,0
+2026-07-27,CMP028,creator_content,Creator content,382,21,6,5,2,0,0,554.86,2,0
+2026-07-27,CMP028,paid_social,Paid social,810,37,13,10,5,2,1,1541.36,0,0
+2026-07-27,CMP028,search_content,Search and explainer content,832,60,17,13,7,3,1,1872.33,0,1
+2026-07-27,CMP029,campus_ambassador,Campus ambassadors,2579,235,59,43,23,11,6,5726.03,0,2
+2026-07-27,CMP029,partner_webinar,Partner webinars,1312,172,63,46,24,9,6,6042.88,8,0
+2026-07-27,CMP029,referral,Student referral loops,2379,248,67,50,24,12,8,4620.09,0,0
+2026-07-27,CMP029,creator_content,Creator content,1988,125,35,27,16,6,2,3860.95,0,6
+2026-07-27,CMP029,paid_social,Paid social,1526,81,21,16,9,4,2,2977.68,0,1
+2026-07-27,CMP029,search_content,Search and explainer content,2041,168,50,43,24,9,5,5097.56,0,0
+2026-07-27,CMP030,campus_ambassador,Campus ambassadors,480,42,7,5,2,1,0,924.5,3,0
+2026-07-27,CMP030,partner_webinar,Partner webinars,452,57,14,12,6,3,2,2980.96,0,3
+2026-07-27,CMP030,referral,Student referral loops,624,63,15,11,5,2,1,1323.39,3,5
+2026-07-27,CMP030,creator_content,Creator content,592,36,6,4,1,0,0,1505.36,0,0
+2026-07-27,CMP030,paid_social,Paid social,539,28,6,4,1,0,0,1972.52,0,0
+2026-07-27,CMP030,search_content,Search and explainer content,413,33,6,5,2,1,0,1202.19,0,1
+2026-07-27,CMP031,campus_ambassador,Campus ambassadors,1100,102,24,19,12,5,2,1911.2,0,0
+2026-07-27,CMP031,partner_webinar,Partner webinars,904,120,41,33,18,9,5,4584.22,6,0
+2026-07-27,CMP031,referral,Student referral loops,529,56,13,10,6,3,2,965.0,0,2
+2026-07-27,CMP031,creator_content,Creator content,962,61,20,15,9,4,1,1969.91,0,2
+2026-07-27,CMP031,paid_social,Paid social,1428,77,24,18,9,4,2,3673.53,0,0
+2026-07-27,CMP031,search_content,Search and explainer content,853,71,20,14,8,5,2,1923.86,0,3
+2026-07-27,CMP032,campus_ambassador,Campus ambassadors,797,77,22,16,9,5,2,1121.98,6,0
+2026-07-27,CMP032,partner_webinar,Partner webinars,1059,148,54,44,24,16,10,4054.38,0,5
+2026-07-27,CMP032,referral,Student referral loops,1003,112,28,20,9,4,2,1995.65,1,0
+2026-07-27,CMP032,creator_content,Creator content,1176,79,21,15,8,5,2,1537.4,0,0
+2026-07-27,CMP032,paid_social,Paid social,998,57,16,12,7,3,1,1862.06,0,0
+2026-07-27,CMP032,search_content,Search and explainer content,1520,134,48,40,23,13,8,3408.1,0,0
+2026-08-03,CMP001,campus_ambassador,Campus ambassadors,812,74,12,9,5,2,1,1357.67,8,0
+2026-08-03,CMP001,partner_webinar,Partner webinars,1123,148,31,25,13,6,3,3500.34,0,1
+2026-08-03,CMP001,referral,Student referral loops,804,84,17,14,7,3,2,1257.77,0,4
+2026-08-03,CMP001,creator_content,Creator content,1253,79,19,16,8,3,1,2272.76,3,0
+2026-08-03,CMP001,paid_social,Paid social,1041,56,10,7,4,2,0,2744.25,4,2
+2026-08-03,CMP001,search_content,Search and explainer content,1179,98,25,18,11,5,2,2028.56,0,0
+2026-08-03,CMP002,campus_ambassador,Campus ambassadors,1814,166,27,20,12,5,3,2949.01,0,3
+2026-08-03,CMP002,partner_webinar,Partner webinars,1585,208,36,26,16,7,4,5476.45,0,0
+2026-08-03,CMP002,referral,Student referral loops,972,102,17,12,6,2,1,1611.31,0,2
+2026-08-03,CMP002,creator_content,Creator content,2550,161,26,21,10,4,2,4725.27,2,3
+2026-08-03,CMP002,paid_social,Paid social,1876,100,25,19,11,5,2,3085.74,2,3
+2026-08-03,CMP002,search_content,Search and explainer content,2887,239,51,44,26,10,6,4375.68,0,0
+2026-08-03,CMP003,campus_ambassador,Campus ambassadors,165,14,2,1,0,0,0,230.6,5,0
+2026-08-03,CMP003,partner_webinar,Partner webinars,346,43,6,4,1,0,0,1261.76,2,2
+2026-08-03,CMP003,referral,Student referral loops,408,40,6,5,2,0,0,488.15,0,0
+2026-08-03,CMP003,creator_content,Creator content,218,13,1,0,0,0,0,327.82,0,0
+2026-08-03,CMP003,paid_social,Paid social,366,18,2,1,0,0,0,571.18,0,0
+2026-08-03,CMP003,search_content,Search and explainer content,191,14,2,1,0,0,0,273.41,2,1
+2026-08-03,CMP004,campus_ambassador,Campus ambassadors,417,33,4,3,1,0,0,727.76,1,0
+2026-08-03,CMP004,partner_webinar,Partner webinars,509,58,9,6,2,0,0,1785.22,3,0
+2026-08-03,CMP004,referral,Student referral loops,272,25,4,3,1,0,0,440.95,2,3
+2026-08-03,CMP004,creator_content,Creator content,456,25,5,3,1,0,0,700.58,2,0
+2026-08-03,CMP004,paid_social,Paid social,535,25,3,2,0,0,0,830.67,0,0
+2026-08-03,CMP004,search_content,Search and explainer content,363,26,3,2,0,0,0,441.62,0,0
+2026-08-03,CMP005,campus_ambassador,Campus ambassadors,604,50,14,11,4,1,0,1154.92,0,3
+2026-08-03,CMP005,partner_webinar,Partner webinars,913,110,26,21,10,4,2,3279.77,2,8
+2026-08-03,CMP005,referral,Student referral loops,815,78,18,13,6,3,2,1857.51,0,1
+2026-08-03,CMP005,creator_content,Creator content,438,25,6,4,2,0,0,914.68,1,0
+2026-08-03,CMP005,paid_social,Paid social,706,34,8,6,3,1,0,1332.84,0,4
+2026-08-03,CMP005,search_content,Search and explainer content,1179,89,21,15,7,3,1,2097.05,3,0
+2026-08-03,CMP006,campus_ambassador,Campus ambassadors,597,50,10,8,3,1,0,1201.99,1,0
+2026-08-03,CMP006,partner_webinar,Partner webinars,668,81,11,8,3,1,0,3424.52,1,3
+2026-08-03,CMP006,referral,Student referral loops,646,62,14,12,5,2,1,1321.84,2,0
+2026-08-03,CMP006,creator_content,Creator content,474,27,5,3,1,0,0,810.95,4,0
+2026-08-03,CMP006,paid_social,Paid social,679,33,7,5,2,1,0,1291.22,0,2
+2026-08-03,CMP006,search_content,Search and explainer content,590,45,9,7,3,1,0,1482.8,0,1
+2026-08-03,CMP007,campus_ambassador,Campus ambassadors,999,93,22,19,8,3,1,1247.35,0,2
+2026-08-03,CMP007,partner_webinar,Partner webinars,834,112,23,16,7,2,1,3528.54,0,1
+2026-08-03,CMP007,referral,Student referral loops,1691,182,41,30,13,5,3,2297.67,6,1
+2026-08-03,CMP007,creator_content,Creator content,785,51,9,7,2,0,0,1180.08,6,3
+2026-08-03,CMP007,paid_social,Paid social,1270,70,11,9,3,1,0,1926.31,0,0
+2026-08-03,CMP007,search_content,Search and explainer content,893,76,18,13,6,2,1,1843.43,4,0
+2026-08-03,CMP008,campus_ambassador,Campus ambassadors,1179,104,30,21,10,5,2,2205.11,1,4
+2026-08-03,CMP008,partner_webinar,Partner webinars,1053,133,27,22,12,8,4,5259.86,0,5
+2026-08-03,CMP008,referral,Student referral loops,1715,173,45,35,17,10,7,3471.46,0,7
+2026-08-03,CMP008,creator_content,Creator content,1702,104,35,29,13,7,3,3116.9,0,4
+2026-08-03,CMP008,paid_social,Paid social,1654,85,18,13,6,3,1,3831.44,0,0
+2026-08-03,CMP008,search_content,Search and explainer content,2007,160,47,39,20,9,5,3960.01,7,0
+2026-08-03,CMP009,campus_ambassador,Campus ambassadors,896,76,11,9,5,1,0,1578.61,0,0
+2026-08-03,CMP009,partner_webinar,Partner webinars,1192,145,19,16,9,2,1,3662.4,0,5
+2026-08-03,CMP009,referral,Student referral loops,556,54,8,6,2,0,0,682.96,0,0
+2026-08-03,CMP009,creator_content,Creator content,1274,74,8,5,2,0,0,1746.0,0,2
+2026-08-03,CMP009,paid_social,Paid social,853,42,6,5,2,0,0,1545.95,0,0
+2026-08-03,CMP009,search_content,Search and explainer content,1348,103,21,15,7,2,1,3032.58,7,2
+2026-08-03,CMP010,campus_ambassador,Campus ambassadors,1049,91,21,17,7,3,1,2490.13,0,0
+2026-08-03,CMP010,partner_webinar,Partner webinars,827,103,30,24,11,5,3,3873.37,0,0
+2026-08-03,CMP010,referral,Student referral loops,724,72,13,10,4,1,0,1110.15,1,0
+2026-08-03,CMP010,creator_content,Creator content,751,45,11,9,3,1,0,1533.64,0,0
+2026-08-03,CMP010,paid_social,Paid social,394,20,5,4,1,0,0,1216.95,5,1
+2026-08-03,CMP010,search_content,Search and explainer content,406,32,7,5,2,1,0,1054.13,5,1
+2026-08-03,CMP011,campus_ambassador,Campus ambassadors,1349,119,28,21,12,5,2,3074.97,0,0
+2026-08-03,CMP011,partner_webinar,Partner webinars,525,66,17,12,6,3,1,1859.21,3,0
+2026-08-03,CMP011,referral,Student referral loops,1255,127,31,26,14,7,4,2676.61,2,3
+2026-08-03,CMP011,creator_content,Creator content,1828,112,30,25,17,9,4,2744.0,0,0
+2026-08-03,CMP011,paid_social,Paid social,592,30,11,8,4,2,0,1450.28,4,0
+2026-08-03,CMP011,search_content,Search and explainer content,1202,96,32,24,14,7,3,2216.64,0,0
+2026-08-03,CMP012,campus_ambassador,Campus ambassadors,517,42,12,9,5,2,1,700.73,4,0
+2026-08-03,CMP012,partner_webinar,Partner webinars,739,87,26,21,12,5,3,3347.64,0,0
+2026-08-03,CMP012,referral,Student referral loops,368,34,7,5,3,1,0,558.78,1,1
+2026-08-03,CMP012,creator_content,Creator content,584,33,8,6,3,1,0,1146.82,3,0
+2026-08-03,CMP012,paid_social,Paid social,658,31,8,6,4,2,1,1459.93,0,0
+2026-08-03,CMP012,search_content,Search and explainer content,464,34,10,7,4,1,0,849.36,1,0
+2026-08-03,CMP013,campus_ambassador,Campus ambassadors,450,45,10,8,4,2,1,1131.33,0,0
+2026-08-03,CMP013,partner_webinar,Partner webinars,447,64,16,12,7,4,2,2768.66,0,5
+2026-08-03,CMP013,referral,Student referral loops,758,86,31,22,12,5,3,1981.4,0,0
+2026-08-03,CMP013,creator_content,Creator content,514,35,12,9,5,2,1,920.06,2,0
+2026-08-03,CMP013,paid_social,Paid social,633,37,14,11,5,2,1,2076.54,4,0
+2026-08-03,CMP013,search_content,Search and explainer content,393,35,13,10,5,3,1,1224.96,0,0
+2026-08-03,CMP014,campus_ambassador,Campus ambassadors,1238,114,26,22,13,7,3,2340.76,10,0
+2026-08-03,CMP014,partner_webinar,Partner webinars,1133,150,36,29,18,9,6,4758.18,3,0
+2026-08-03,CMP014,referral,Student referral loops,1906,202,65,55,28,14,10,3561.95,1,1
+2026-08-03,CMP014,creator_content,Creator content,2320,148,40,34,19,12,6,3945.95,3,0
+2026-08-03,CMP014,paid_social,Paid social,1126,61,18,13,6,3,1,2913.4,0,0
+2026-08-03,CMP014,search_content,Search and explainer content,2248,188,50,37,19,9,5,5688.53,6,0
+2026-08-03,CMP015,campus_ambassador,Campus ambassadors,711,58,12,8,3,1,0,1204.62,1,0
+2026-08-03,CMP015,partner_webinar,Partner webinars,870,103,22,17,8,3,1,2524.05,0,0
+2026-08-03,CMP015,referral,Student referral loops,605,57,13,10,4,1,0,991.53,1,0
+2026-08-03,CMP015,creator_content,Creator content,745,42,6,4,2,1,0,1061.32,5,0
+2026-08-03,CMP015,paid_social,Paid social,781,37,8,6,3,1,0,1114.65,4,2
+2026-08-03,CMP015,search_content,Search and explainer content,673,50,7,5,2,0,0,980.64,0,4
+2026-08-03,CMP016,campus_ambassador,Campus ambassadors,713,63,17,13,6,2,1,1418.05,10,6
+2026-08-03,CMP016,partner_webinar,Partner webinars,540,69,18,14,5,2,1,1899.26,0,3
+2026-08-03,CMP016,referral,Student referral loops,433,44,8,7,3,1,0,825.54,0,1
+2026-08-03,CMP016,creator_content,Creator content,675,42,8,6,2,0,0,1544.01,0,7
+2026-08-03,CMP016,paid_social,Paid social,982,51,14,10,5,1,0,2861.45,0,3
+2026-08-03,CMP016,search_content,Search and explainer content,784,63,12,9,4,1,0,2022.77,0,0
+2026-08-03,CMP017,campus_ambassador,Campus ambassadors,2094,192,64,50,29,12,7,4980.97,4,0
+2026-08-03,CMP017,partner_webinar,Partner webinars,1855,245,50,40,22,10,6,8101.71,5,0
+2026-08-03,CMP017,referral,Student referral loops,1034,108,34,28,16,8,5,2250.28,5,0
+2026-08-03,CMP017,creator_content,Creator content,1368,87,21,16,11,5,2,2298.39,0,0
+2026-08-03,CMP017,paid_social,Paid social,1775,95,26,18,11,5,2,5225.39,4,0
+2026-08-03,CMP017,search_content,Search and explainer content,1036,86,25,18,9,3,1,2296.64,9,0
+2026-08-03,CMP018,campus_ambassador,Campus ambassadors,370,33,5,4,2,0,0,520.66,0,0
+2026-08-03,CMP018,partner_webinar,Partner webinars,466,61,11,8,4,1,0,2061.06,4,0
+2026-08-03,CMP018,referral,Student referral loops,557,58,9,7,3,1,0,841.02,0,2
+2026-08-03,CMP018,creator_content,Creator content,405,25,5,4,2,0,0,543.73,0,0
+2026-08-03,CMP018,paid_social,Paid social,517,27,6,5,2,0,0,1216.29,6,2
+2026-08-03,CMP018,search_content,Search and explainer content,419,34,6,4,2,0,0,861.48,0,1
+2026-08-03,CMP019,campus_ambassador,Campus ambassadors,1772,162,27,20,11,5,2,2996.48,1,0
+2026-08-03,CMP019,partner_webinar,Partner webinars,1487,196,31,26,12,5,3,4772.17,8,4
+2026-08-03,CMP019,referral,Student referral loops,1835,192,47,39,24,10,7,2317.3,4,1
+2026-08-03,CMP019,creator_content,Creator content,1656,105,26,18,9,4,2,2042.59,8,0
+2026-08-03,CMP019,paid_social,Paid social,1720,92,18,12,7,2,0,3090.7,0,0
+2026-08-03,CMP019,search_content,Search and explainer content,1839,152,25,18,9,3,1,3183.19,7,0
+2026-08-03,CMP020,campus_ambassador,Campus ambassadors,969,91,23,17,8,4,2,1739.48,3,0
+2026-08-03,CMP020,partner_webinar,Partner webinars,1063,144,35,29,13,7,4,3401.23,0,3
+2026-08-03,CMP020,referral,Student referral loops,1786,193,48,40,22,11,7,2630.42,0,3
+2026-08-03,CMP020,creator_content,Creator content,1355,88,21,15,7,3,1,2123.7,5,0
+2026-08-03,CMP020,paid_social,Paid social,1081,60,13,11,5,2,0,2485.5,0,2
+2026-08-03,CMP020,search_content,Search and explainer content,821,70,13,9,4,1,0,1267.62,0,0
+2026-08-03,CMP021,campus_ambassador,Campus ambassadors,983,77,23,16,8,3,1,1933.72,0,0
+2026-08-03,CMP021,partner_webinar,Partner webinars,1176,133,43,33,17,7,4,3706.62,0,1
+2026-08-03,CMP021,referral,Student referral loops,700,63,16,13,6,2,1,1232.88,0,2
+2026-08-03,CMP021,creator_content,Creator content,652,35,10,7,3,1,0,1017.83,6,4
+2026-08-03,CMP021,paid_social,Paid social,1167,54,12,9,4,1,0,2357.98,0,0
+2026-08-03,CMP021,search_content,Search and explainer content,784,56,13,10,5,2,1,1536.59,0,0
+2026-08-03,CMP022,campus_ambassador,Campus ambassadors,833,73,13,9,4,1,0,1125.8,0,0
+2026-08-03,CMP022,partner_webinar,Partner webinars,1798,227,27,22,14,4,2,6380.79,7,0
+2026-08-03,CMP022,referral,Student referral loops,1174,118,18,13,8,3,1,1405.7,0,4
+2026-08-03,CMP022,creator_content,Creator content,1473,89,14,11,5,1,0,2126.41,0,2
+2026-08-03,CMP022,paid_social,Paid social,765,39,6,4,2,0,0,1192.3,0,2
+2026-08-03,CMP022,search_content,Search and explainer content,999,79,11,9,5,2,1,1156.69,0,4
+2026-08-03,CMP023,campus_ambassador,Campus ambassadors,539,52,17,14,7,3,1,966.34,0,2
+2026-08-03,CMP023,partner_webinar,Partner webinars,747,104,28,21,11,4,2,3092.04,2,0
+2026-08-03,CMP023,referral,Student referral loops,703,78,26,20,10,5,3,1118.36,1,0
+2026-08-03,CMP023,creator_content,Creator content,1035,69,20,14,6,3,1,2364.7,5,0
+2026-08-03,CMP023,paid_social,Paid social,748,42,12,9,4,1,0,2012.17,1,1
+2026-08-03,CMP023,search_content,Search and explainer content,1284,112,24,18,8,3,1,3232.62,1,0
+2026-08-03,CMP024,campus_ambassador,Campus ambassadors,2144,194,55,44,21,8,5,3330.61,3,0
+2026-08-03,CMP024,partner_webinar,Partner webinars,2072,271,58,45,21,8,4,11126.1,0,12
+2026-08-03,CMP024,referral,Student referral loops,1855,193,39,31,17,6,4,3537.88,5,3
+2026-08-03,CMP024,creator_content,Creator content,1141,71,20,14,6,2,0,1879.89,0,4
+2026-08-03,CMP024,paid_social,Paid social,1363,72,14,11,6,2,0,2518.69,0,0
+2026-08-03,CMP024,search_content,Search and explainer content,1455,119,28,22,12,5,3,2751.31,0,0
+2026-08-03,CMP025,campus_ambassador,Campus ambassadors,745,71,24,19,9,5,3,1721.35,2,6
+2026-08-03,CMP025,partner_webinar,Partner webinars,642,88,26,21,9,4,2,3462.18,0,0
+2026-08-03,CMP025,referral,Student referral loops,590,64,22,16,9,5,3,1459.29,4,5
+2026-08-03,CMP025,creator_content,Creator content,706,46,15,12,6,3,1,1503.12,0,0
+2026-08-03,CMP025,paid_social,Paid social,1111,62,17,13,6,2,0,3450.55,0,1
+2026-08-03,CMP025,search_content,Search and explainer content,1083,94,24,20,10,5,3,2035.39,3,2
+2026-08-03,CMP026,campus_ambassador,Campus ambassadors,2152,177,37,28,12,5,3,4264.56,1,3
+2026-08-03,CMP026,partner_webinar,Partner webinars,1338,159,36,28,12,6,3,6661.55,0,0
+2026-08-03,CMP026,referral,Student referral loops,1697,160,25,19,9,4,2,3016.53,1,0
+2026-08-03,CMP026,creator_content,Creator content,2382,136,30,23,12,6,3,4266.25,3,0
+2026-08-03,CMP026,paid_social,Paid social,1728,83,16,13,6,3,1,3610.1,4,2
+2026-08-03,CMP026,search_content,Search and explainer content,2203,165,42,31,16,7,3,4531.95,0,4
+2026-08-03,CMP027,campus_ambassador,Campus ambassadors,1172,98,32,25,11,5,2,1355.99,2,0
+2026-08-03,CMP027,partner_webinar,Partner webinars,445,53,18,15,7,2,1,1778.26,0,4
+2026-08-03,CMP027,referral,Student referral loops,1117,107,25,20,9,3,2,1865.11,0,0
+2026-08-03,CMP027,creator_content,Creator content,570,33,7,5,2,0,0,809.69,0,5
+2026-08-03,CMP027,paid_social,Paid social,634,31,9,7,3,1,0,1161.29,1,0
+2026-08-03,CMP027,search_content,Search and explainer content,959,73,25,19,9,4,2,1659.7,2,7
+2026-08-03,CMP028,campus_ambassador,Campus ambassadors,542,43,14,10,6,2,1,1102.99,0,0
+2026-08-03,CMP028,partner_webinar,Partner webinars,366,42,15,12,7,3,1,1549.59,5,1
+2026-08-03,CMP028,referral,Student referral loops,558,51,11,8,4,1,0,776.85,2,4
+2026-08-03,CMP028,creator_content,Creator content,390,21,6,5,2,0,0,520.27,7,0
+2026-08-03,CMP028,paid_social,Paid social,365,17,4,3,1,0,0,686.48,6,1
+2026-08-03,CMP028,search_content,Search and explainer content,618,44,12,10,6,2,1,1391.53,0,0
+2026-08-03,CMP029,campus_ambassador,Campus ambassadors,1076,98,26,20,12,5,3,2003.37,0,0
+2026-08-03,CMP029,partner_webinar,Partner webinars,2694,353,141,102,57,27,18,12051.26,10,2
+2026-08-03,CMP029,referral,Student referral loops,2455,256,61,50,28,12,9,3531.97,0,0
+2026-08-03,CMP029,creator_content,Creator content,2790,176,47,33,20,9,4,5467.57,1,0
+2026-08-03,CMP029,paid_social,Paid social,1965,105,35,27,16,6,3,3628.03,1,0
+2026-08-03,CMP029,search_content,Search and explainer content,2091,172,46,39,21,9,5,5121.18,0,0
+2026-08-03,CMP030,campus_ambassador,Campus ambassadors,606,53,10,7,3,1,0,1665.51,0,0
+2026-08-03,CMP030,partner_webinar,Partner webinars,471,60,14,10,5,2,1,1956.91,6,2
+2026-08-03,CMP030,referral,Student referral loops,347,35,8,7,3,1,0,728.95,0,0
+2026-08-03,CMP030,creator_content,Creator content,780,47,12,10,4,2,1,1679.07,0,0
+2026-08-03,CMP030,paid_social,Paid social,1001,52,14,11,5,2,0,2457.3,0,0
+2026-08-03,CMP030,search_content,Search and explainer content,382,30,7,5,2,1,0,1148.97,1,0
+2026-08-03,CMP031,campus_ambassador,Campus ambassadors,1068,99,29,21,12,6,3,1580.62,0,0
+2026-08-03,CMP031,partner_webinar,Partner webinars,879,117,36,26,17,9,6,4205.27,0,3
+2026-08-03,CMP031,referral,Student referral loops,995,105,37,31,16,8,5,1891.78,1,0
+2026-08-03,CMP031,creator_content,Creator content,635,40,9,7,3,1,0,935.27,0,6
+2026-08-03,CMP031,paid_social,Paid social,1152,62,16,12,6,3,1,2658.08,0,0
+2026-08-03,CMP031,search_content,Search and explainer content,1539,129,35,29,15,9,4,3667.07,0,0
+2026-08-03,CMP032,campus_ambassador,Campus ambassadors,1974,192,64,48,27,16,9,3002.09,0,0
+2026-08-03,CMP032,partner_webinar,Partner webinars,1745,245,80,66,31,14,8,8350.11,0,0
+2026-08-03,CMP032,referral,Student referral loops,1511,169,55,46,28,15,10,3117.67,0,0
+2026-08-03,CMP032,creator_content,Creator content,1880,127,38,31,15,8,4,3706.76,0,6
+2026-08-03,CMP032,paid_social,Paid social,1995,114,26,19,10,6,2,3820.65,6,6
+2026-08-03,CMP032,search_content,Search and explainer content,2361,208,45,37,23,15,8,3412.74,0,3
+2026-08-10,CMP001,campus_ambassador,Campus ambassadors,658,60,11,8,5,2,1,1344.73,0,4
+2026-08-10,CMP001,partner_webinar,Partner webinars,919,121,20,15,7,3,1,3798.16,0,0
+2026-08-10,CMP001,referral,Student referral loops,951,100,17,14,7,3,2,1762.63,2,0
+2026-08-10,CMP001,creator_content,Creator content,1564,99,18,14,8,4,1,3011.19,0,0
+2026-08-10,CMP001,paid_social,Paid social,1391,74,19,16,7,3,1,2736.75,5,2
+2026-08-10,CMP001,search_content,Search and explainer content,1267,105,17,13,7,2,1,2122.79,2,2
+2026-08-10,CMP002,campus_ambassador,Campus ambassadors,2499,228,58,42,28,13,8,3181.65,8,0
+2026-08-10,CMP002,partner_webinar,Partner webinars,1191,157,34,28,17,6,3,5315.03,6,0
+2026-08-10,CMP002,referral,Student referral loops,816,85,14,11,7,3,2,1334.74,0,4
+2026-08-10,CMP002,creator_content,Creator content,1855,117,30,25,13,4,2,3607.37,2,1
+2026-08-10,CMP002,paid_social,Paid social,1048,56,13,10,6,2,0,2544.1,1,1
+2026-08-10,CMP002,search_content,Search and explainer content,2526,209,51,41,27,11,5,3497.17,1,1
+2026-08-10,CMP003,campus_ambassador,Campus ambassadors,214,18,2,1,0,0,0,362.29,0,3
+2026-08-10,CMP003,partner_webinar,Partner webinars,163,20,3,2,0,0,0,585.09,4,0
+2026-08-10,CMP003,referral,Student referral loops,424,42,6,4,1,0,0,547.67,1,3
+2026-08-10,CMP003,creator_content,Creator content,225,13,1,0,0,0,0,297.2,0,0
+2026-08-10,CMP003,paid_social,Paid social,353,17,2,1,0,0,0,817.02,2,3
+2026-08-10,CMP003,search_content,Search and explainer content,493,38,4,3,1,0,0,774.36,3,1
+2026-08-10,CMP004,campus_ambassador,Campus ambassadors,547,44,7,5,2,0,0,931.58,0,0
+2026-08-10,CMP004,partner_webinar,Partner webinars,414,47,7,6,3,1,0,1036.71,2,2
+2026-08-10,CMP004,referral,Student referral loops,301,27,6,4,2,0,0,373.94,2,0
+2026-08-10,CMP004,creator_content,Creator content,541,30,4,3,1,0,0,809.68,0,0
+2026-08-10,CMP004,paid_social,Paid social,618,29,5,4,2,0,0,1104.27,8,1
+2026-08-10,CMP004,search_content,Search and explainer content,692,50,6,4,1,0,0,973.78,3,6
+2026-08-10,CMP005,campus_ambassador,Campus ambassadors,497,41,12,8,3,1,0,902.67,1,2
+2026-08-10,CMP005,partner_webinar,Partner webinars,888,107,29,21,9,4,2,2979.92,1,0
+2026-08-10,CMP005,referral,Student referral loops,793,76,14,12,5,2,1,1432.64,2,2
+2026-08-10,CMP005,creator_content,Creator content,929,53,11,9,4,1,0,1555.44,0,0
+2026-08-10,CMP005,paid_social,Paid social,731,35,6,5,2,0,0,1426.82,0,0
+2026-08-10,CMP005,search_content,Search and explainer content,762,57,16,12,4,2,1,1360.99,0,2
+2026-08-10,CMP006,campus_ambassador,Campus ambassadors,727,61,12,9,4,2,1,1201.35,0,0
+2026-08-10,CMP006,partner_webinar,Partner webinars,508,61,13,9,4,2,1,1816.82,0,3
+2026-08-10,CMP006,referral,Student referral loops,724,69,13,9,4,2,1,1535.19,10,4
+2026-08-10,CMP006,creator_content,Creator content,570,33,5,3,1,0,0,1096.47,0,0
+2026-08-10,CMP006,paid_social,Paid social,1045,51,11,8,3,1,0,2661.25,1,5
+2026-08-10,CMP006,search_content,Search and explainer content,440,33,7,5,2,0,0,756.67,3,0
+2026-08-10,CMP007,campus_ambassador,Campus ambassadors,1467,137,26,19,8,2,1,2752.8,7,0
+2026-08-10,CMP007,partner_webinar,Partner webinars,1060,143,33,28,11,5,3,3376.6,0,5
+2026-08-10,CMP007,referral,Student referral loops,936,100,23,19,8,3,1,1201.13,1,0
+2026-08-10,CMP007,creator_content,Creator content,783,51,10,7,2,0,0,1401.61,2,8
+2026-08-10,CMP007,paid_social,Paid social,715,39,6,5,2,0,0,1459.7,6,2
+2026-08-10,CMP007,search_content,Search and explainer content,959,81,16,11,4,1,0,1325.11,1,0
+2026-08-10,CMP008,campus_ambassador,Campus ambassadors,2639,232,70,55,31,16,10,5070.7,2,0
+2026-08-10,CMP008,partner_webinar,Partner webinars,1501,190,61,47,22,12,8,7587.75,3,5
+2026-08-10,CMP008,referral,Student referral loops,1855,187,38,29,17,11,7,4269.24,3,5
+2026-08-10,CMP008,creator_content,Creator content,1678,102,30,23,13,7,3,3077.77,0,0
+2026-08-10,CMP008,paid_social,Paid social,1967,101,29,24,12,5,2,4756.7,6,1
+2026-08-10,CMP008,search_content,Search and explainer content,1654,132,41,30,18,12,6,2989.23,0,0
+2026-08-10,CMP009,campus_ambassador,Campus ambassadors,509,43,7,5,3,1,0,1083.33,0,0
+2026-08-10,CMP009,partner_webinar,Partner webinars,909,111,19,14,6,2,1,4273.87,4,0
+2026-08-10,CMP009,referral,Student referral loops,615,59,8,6,2,0,0,1071.16,0,0
+2026-08-10,CMP009,creator_content,Creator content,554,32,4,3,1,0,0,1077.96,0,0
+2026-08-10,CMP009,paid_social,Paid social,667,33,3,2,1,0,0,1681.24,1,2
+2026-08-10,CMP009,search_content,Search and explainer content,792,60,10,7,3,1,0,1279.21,1,0
+2026-08-10,CMP010,campus_ambassador,Campus ambassadors,917,79,23,17,6,3,1,1646.54,1,2
+2026-08-10,CMP010,partner_webinar,Partner webinars,374,46,13,10,4,2,1,1306.57,7,1
+2026-08-10,CMP010,referral,Student referral loops,457,45,13,9,3,1,0,668.21,3,0
+2026-08-10,CMP010,creator_content,Creator content,311,18,5,4,1,0,0,500.53,1,0
+2026-08-10,CMP010,paid_social,Paid social,374,19,3,2,1,0,0,784.9,0,0
+2026-08-10,CMP010,search_content,Search and explainer content,451,35,10,7,3,1,0,1128.88,0,0
+2026-08-10,CMP011,campus_ambassador,Campus ambassadors,1012,89,23,17,10,4,2,1541.57,1,0
+2026-08-10,CMP011,partner_webinar,Partner webinars,1033,131,48,34,21,9,6,4181.75,5,0
+2026-08-10,CMP011,referral,Student referral loops,1850,187,62,50,28,15,10,3162.4,0,1
+2026-08-10,CMP011,creator_content,Creator content,1349,82,31,26,13,6,2,2966.63,5,1
+2026-08-10,CMP011,paid_social,Paid social,684,35,13,9,5,2,0,1504.46,2,2
+2026-08-10,CMP011,search_content,Search and explainer content,994,79,27,23,15,6,3,2003.35,0,3
+2026-08-10,CMP012,campus_ambassador,Campus ambassadors,533,43,12,9,5,2,1,1119.5,0,0
+2026-08-10,CMP012,partner_webinar,Partner webinars,472,55,16,13,8,4,2,1756.5,0,0
+2026-08-10,CMP012,referral,Student referral loops,614,57,18,15,10,5,3,1227.71,0,0
+2026-08-10,CMP012,creator_content,Creator content,841,47,10,8,4,1,0,1540.5,3,2
+2026-08-10,CMP012,paid_social,Paid social,745,35,8,6,4,1,0,1857.25,0,2
+2026-08-10,CMP012,search_content,Search and explainer content,794,59,17,14,7,3,1,1745.29,0,0
+2026-08-10,CMP013,campus_ambassador,Campus ambassadors,533,53,13,9,5,2,1,1022.76,3,0
+2026-08-10,CMP013,partner_webinar,Partner webinars,446,64,20,15,8,5,3,2409.34,0,0
+2026-08-10,CMP013,referral,Student referral loops,743,85,23,19,9,4,2,2032.88,0,3
+2026-08-10,CMP013,creator_content,Creator content,1005,69,27,20,9,5,2,2462.57,1,0
+2026-08-10,CMP013,paid_social,Paid social,879,51,15,11,6,3,1,2235.6,2,0
+2026-08-10,CMP013,search_content,Search and explainer content,877,79,23,18,10,5,3,1826.11,0,0
+2026-08-10,CMP014,campus_ambassador,Campus ambassadors,1048,96,29,24,14,7,4,2670.34,5,1
+2026-08-10,CMP014,partner_webinar,Partner webinars,2016,268,69,53,29,15,9,8456.98,6,0
+2026-08-10,CMP014,referral,Student referral loops,2787,295,62,46,30,15,10,6474.22,0,0
+2026-08-10,CMP014,creator_content,Creator content,2423,155,39,30,17,10,5,5421.73,7,0
+2026-08-10,CMP014,paid_social,Paid social,1896,102,31,25,14,8,4,3799.86,6,0
+2026-08-10,CMP014,search_content,Search and explainer content,1518,127,32,27,18,9,5,3388.04,0,4
+2026-08-10,CMP015,campus_ambassador,Campus ambassadors,848,70,16,12,7,4,2,1178.01,0,0
+2026-08-10,CMP015,partner_webinar,Partner webinars,612,72,15,11,5,2,1,1563.5,2,0
+2026-08-10,CMP015,referral,Student referral loops,687,65,12,9,4,2,1,875.5,1,0
+2026-08-10,CMP015,creator_content,Creator content,621,35,8,5,2,1,0,761.75,2,0
+2026-08-10,CMP015,paid_social,Paid social,969,47,9,7,3,1,0,1859.45,0,0
+2026-08-10,CMP015,search_content,Search and explainer content,934,70,10,8,3,1,0,1465.53,0,0
+2026-08-10,CMP016,campus_ambassador,Campus ambassadors,913,81,21,15,6,2,1,1481.77,4,0
+2026-08-10,CMP016,partner_webinar,Partner webinars,764,98,19,15,6,2,1,2848.79,3,0
+2026-08-10,CMP016,referral,Student referral loops,716,73,20,16,6,2,1,1419.34,0,0
+2026-08-10,CMP016,creator_content,Creator content,330,20,4,3,1,0,0,505.69,0,0
+2026-08-10,CMP016,paid_social,Paid social,526,27,6,4,1,0,0,1220.74,2,3
+2026-08-10,CMP016,search_content,Search and explainer content,645,52,13,10,4,1,0,1447.26,5,1
+2026-08-10,CMP017,campus_ambassador,Campus ambassadors,1394,128,28,21,11,5,2,3256.89,0,1
+2026-08-10,CMP017,partner_webinar,Partner webinars,2294,303,92,75,47,25,17,11525.16,5,3
+2026-08-10,CMP017,referral,Student referral loops,1223,128,28,20,13,5,3,1893.63,0,1
+2026-08-10,CMP017,creator_content,Creator content,2290,145,45,38,22,9,4,4562.04,1,0
+2026-08-10,CMP017,paid_social,Paid social,1687,90,22,18,11,4,1,5037.03,0,0
+2026-08-10,CMP017,search_content,Search and explainer content,2028,168,41,29,17,8,5,5137.49,0,0
+2026-08-10,CMP018,campus_ambassador,Campus ambassadors,342,31,6,5,3,1,0,672.19,0,0
+2026-08-10,CMP018,partner_webinar,Partner webinars,325,42,7,5,3,1,0,1453.6,0,0
+2026-08-10,CMP018,referral,Student referral loops,511,53,10,7,4,1,0,654.51,0,1
+2026-08-10,CMP018,creator_content,Creator content,490,30,7,5,2,0,0,877.92,0,4
+2026-08-10,CMP018,paid_social,Paid social,679,36,8,6,3,1,0,1387.86,0,0
+2026-08-10,CMP018,search_content,Search and explainer content,390,32,6,5,2,0,0,623.14,2,0
+2026-08-10,CMP019,campus_ambassador,Campus ambassadors,1344,123,22,18,10,3,2,1931.81,0,0
+2026-08-10,CMP019,partner_webinar,Partner webinars,1777,234,64,50,24,11,7,5101.85,8,0
+2026-08-10,CMP019,referral,Student referral loops,1659,174,37,30,14,4,2,2265.92,0,3
+2026-08-10,CMP019,creator_content,Creator content,977,62,13,10,6,2,0,1355.96,0,3
+2026-08-10,CMP019,paid_social,Paid social,2181,117,23,19,9,3,1,4152.03,5,1
+2026-08-10,CMP019,search_content,Search and explainer content,862,71,16,12,6,2,1,1581.98,1,2
+2026-08-10,CMP020,campus_ambassador,Campus ambassadors,996,94,20,15,7,3,1,1882.52,0,0
+2026-08-10,CMP020,partner_webinar,Partner webinars,1171,159,43,33,15,7,5,3489.36,2,1
+2026-08-10,CMP020,referral,Student referral loops,788,85,14,10,5,2,1,1482.76,0,1
+2026-08-10,CMP020,creator_content,Creator content,1660,109,27,22,10,6,3,2581.89,3,0
+2026-08-10,CMP020,paid_social,Paid social,1219,67,16,13,6,3,1,2879.37,5,0
+2026-08-10,CMP020,search_content,Search and explainer content,1385,118,21,15,7,3,1,2311.46,2,1
+2026-08-10,CMP021,campus_ambassador,Campus ambassadors,871,68,13,9,4,1,0,1627.14,0,0
+2026-08-10,CMP021,partner_webinar,Partner webinars,821,93,29,23,12,4,2,3256.08,3,5
+2026-08-10,CMP021,referral,Student referral loops,703,63,18,14,7,3,1,891.64,0,4
+2026-08-10,CMP021,creator_content,Creator content,719,39,7,5,2,0,0,1034.89,0,4
+2026-08-10,CMP021,paid_social,Paid social,745,34,9,7,3,1,0,1720.59,0,0
+2026-08-10,CMP021,search_content,Search and explainer content,467,33,8,6,3,1,0,880.43,1,0
+2026-08-10,CMP022,campus_ambassador,Campus ambassadors,1642,144,26,19,12,4,2,1922.73,0,0
+2026-08-10,CMP022,partner_webinar,Partner webinars,896,113,12,9,4,1,0,2466.72,2,0
+2026-08-10,CMP022,referral,Student referral loops,1208,121,19,15,8,2,1,1781.75,4,0
+2026-08-10,CMP022,creator_content,Creator content,1590,96,15,11,6,2,0,2450.08,6,2
+2026-08-10,CMP022,paid_social,Paid social,1404,72,11,9,5,2,0,2344.17,3,0
+2026-08-10,CMP022,search_content,Search and explainer content,756,60,7,5,2,0,0,1199.94,0,2
+2026-08-10,CMP023,campus_ambassador,Campus ambassadors,446,43,13,9,4,1,0,867.06,0,0
+2026-08-10,CMP023,partner_webinar,Partner webinars,1186,165,34,27,15,8,4,6084.39,0,0
+2026-08-10,CMP023,referral,Student referral loops,636,70,14,11,6,3,1,1197.95,0,2
+2026-08-10,CMP023,creator_content,Creator content,1199,80,16,13,7,3,1,2167.51,0,2
+2026-08-10,CMP023,paid_social,Paid social,679,38,7,5,3,1,0,1360.25,0,0
+2026-08-10,CMP023,search_content,Search and explainer content,704,61,19,15,7,4,2,1397.62,0,2
+2026-08-10,CMP024,campus_ambassador,Campus ambassadors,1322,120,34,26,13,4,2,2166.19,5,1
+2026-08-10,CMP024,partner_webinar,Partner webinars,941,123,29,21,12,5,3,3665.97,7,0
+2026-08-10,CMP024,referral,Student referral loops,1303,135,26,20,10,3,2,1859.26,0,0
+2026-08-10,CMP024,creator_content,Creator content,1501,94,24,17,9,3,1,2876.07,0,1
+2026-08-10,CMP024,paid_social,Paid social,1580,84,23,19,9,3,1,3806.49,4,3
+2026-08-10,CMP024,search_content,Search and explainer content,1072,88,21,16,7,3,1,2212.83,5,2
+2026-08-10,CMP025,campus_ambassador,Campus ambassadors,611,58,16,12,7,4,2,1448.72,0,0
+2026-08-10,CMP025,partner_webinar,Partner webinars,817,112,27,20,10,6,4,3847.68,5,5
+2026-08-10,CMP025,referral,Student referral loops,908,99,38,29,14,8,5,1544.51,0,4
+2026-08-10,CMP025,creator_content,Creator content,613,40,14,12,6,2,1,1321.78,0,0
+2026-08-10,CMP025,paid_social,Paid social,1687,94,30,21,9,5,2,5149.43,2,0
+2026-08-10,CMP025,search_content,Search and explainer content,1128,98,36,27,12,6,3,3001.51,4,4
+2026-08-10,CMP026,campus_ambassador,Campus ambassadors,2167,179,27,22,11,5,2,4161.46,0,2
+2026-08-10,CMP026,partner_webinar,Partner webinars,1461,173,27,19,8,3,1,6845.33,0,3
+2026-08-10,CMP026,referral,Student referral loops,1437,136,34,29,14,6,4,2818.13,0,4
+2026-08-10,CMP026,creator_content,Creator content,2324,133,28,24,11,6,3,3354.27,7,0
+2026-08-10,CMP026,paid_social,Paid social,1519,73,17,14,7,3,1,3740.35,3,0
+2026-08-10,CMP026,search_content,Search and explainer content,1953,146,33,27,12,6,3,3752.7,5,2
+2026-08-10,CMP027,campus_ambassador,Campus ambassadors,1428,119,29,23,10,4,2,2131.77,1,0
+2026-08-10,CMP027,partner_webinar,Partner webinars,788,95,20,14,7,3,1,2432.63,0,0
+2026-08-10,CMP027,referral,Student referral loops,830,79,27,19,10,3,1,1221.95,2,0
+2026-08-10,CMP027,creator_content,Creator content,646,37,8,5,2,1,0,1026.21,3,3
+2026-08-10,CMP027,paid_social,Paid social,658,32,9,7,3,1,0,1356.73,4,0
+2026-08-10,CMP027,search_content,Search and explainer content,1178,89,20,17,8,3,1,1945.27,0,0
+2026-08-10,CMP028,campus_ambassador,Campus ambassadors,435,34,10,8,4,2,1,802.99,2,0
+2026-08-10,CMP028,partner_webinar,Partner webinars,519,59,12,9,5,2,1,1813.17,4,0
+2026-08-10,CMP028,referral,Student referral loops,727,66,18,15,8,4,2,1036.86,0,0
+2026-08-10,CMP028,creator_content,Creator content,487,26,7,5,2,1,0,775.99,1,0
+2026-08-10,CMP028,paid_social,Paid social,387,18,4,2,1,0,0,996.93,2,0
+2026-08-10,CMP028,search_content,Search and explainer content,384,27,9,6,3,1,0,576.44,1,0
+2026-08-10,CMP029,campus_ambassador,Campus ambassadors,1978,180,44,38,18,6,3,4413.26,8,0
+2026-08-10,CMP029,partner_webinar,Partner webinars,1660,217,68,57,27,11,7,7958.5,0,2
+2026-08-10,CMP029,referral,Student referral loops,2469,258,84,72,38,19,14,5328.52,4,0
+2026-08-10,CMP029,creator_content,Creator content,1248,78,20,16,9,3,1,2077.93,2,0
+2026-08-10,CMP029,paid_social,Paid social,2123,113,38,28,13,6,3,5720.45,0,7
+2026-08-10,CMP029,search_content,Search and explainer content,3098,256,63,52,29,13,6,5670.6,1,0
+2026-08-10,CMP030,campus_ambassador,Campus ambassadors,472,41,10,7,3,1,0,913.99,0,0
+2026-08-10,CMP030,partner_webinar,Partner webinars,514,65,14,11,6,3,1,2907.03,2,0
+2026-08-10,CMP030,referral,Student referral loops,798,81,19,16,7,4,2,1561.63,0,0
+2026-08-10,CMP030,creator_content,Creator content,446,27,6,4,2,1,0,811.61,1,3
+2026-08-10,CMP030,paid_social,Paid social,273,14,3,2,0,0,0,707.65,0,0
+2026-08-10,CMP030,search_content,Search and explainer content,335,26,6,4,1,0,0,671.04,2,1
+2026-08-10,CMP031,campus_ambassador,Campus ambassadors,1530,141,32,24,16,8,5,2268.86,3,0
+2026-08-10,CMP031,partner_webinar,Partner webinars,1316,175,57,41,22,13,8,4456.87,0,0
+2026-08-10,CMP031,referral,Student referral loops,756,80,19,15,8,4,2,1569.53,0,0
+2026-08-10,CMP031,creator_content,Creator content,762,49,16,13,7,4,2,1159.36,0,0
+2026-08-10,CMP031,paid_social,Paid social,652,35,12,9,4,2,1,1550.66,2,0
+2026-08-10,CMP031,search_content,Search and explainer content,1235,103,35,28,17,8,4,2291.54,6,2
+2026-08-10,CMP032,campus_ambassador,Campus ambassadors,1968,192,45,35,21,10,6,3825.43,6,1
+2026-08-10,CMP032,partner_webinar,Partner webinars,2426,340,108,84,53,31,18,10355.55,5,0
+2026-08-10,CMP032,referral,Student referral loops,1926,215,60,52,28,14,8,3453.54,5,7
+2026-08-10,CMP032,creator_content,Creator content,2736,185,47,38,19,12,5,5654.42,0,0
+2026-08-10,CMP032,paid_social,Paid social,2034,116,27,19,12,6,2,4035.46,3,0
+2026-08-10,CMP032,search_content,Search and explainer content,2343,207,67,55,27,16,9,5214.44,6,6

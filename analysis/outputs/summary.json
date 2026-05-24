@@ -1,0 +1,13 @@
+{
+  "campus_count": 32,
+  "modeled_weekly_rows": 1728,
+  "experiment_count": 72,
+  "readiness_issue_count": 28,
+  "applications": 35264,
+  "activated_users": 3027,
+  "modeled_spend": 3816128.51,
+  "blended_cac": 1260.7,
+  "avg_activation_rate_pct": 6.7,
+  "launch_experiments": 0,
+  "high_readiness_risks": 5
+}

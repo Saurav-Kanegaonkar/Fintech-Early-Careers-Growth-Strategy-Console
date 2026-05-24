@@ -1,0 +1,33 @@
+campus_id,campus_name,region,student_segment,primary_start_window,addressable_students,leads,applications,approved_accounts,activated_users,spend,cac,lead_to_apply_pct,approval_rate_pct,activation_rate_pct,readiness_score,priority_score,decision,recommended_focus,owner
+CMP001,Atlantic Gateway University,Northeast,STEM masters cohorts,first 30 days,5143,4859,1012,411,81,121754.1,1503.14,20.8,52.7,8.0,74.2,100,Sprint focus,partner webinar and campus ops,Community
+CMP002,Metro Tech Institute,Mid-Atlantic,MBA and professional programs,pre-arrival,7707,7305,1621,741,152,167234.96,1100.23,22.2,57.9,9.4,72.6,100,Sprint focus,partner webinar and campus ops,Product
+CMP007,Great Plains Tech,Mountain West,STEM masters cohorts,credit building,6288,6000,1160,392,61,131619.77,2157.7,19.3,43.2,5.3,64.6,100,Sprint focus,trust proof and peer stories,Growth
+CMP008,Summit Business School,Canada Bridge,MBA and professional programs,first 30 days,7446,6839,1892,773,234,197327.17,843.28,27.7,52.2,12.4,75.9,100,Sprint focus,orientation activation bundle,Community
+CMP011,South Coast University,Southeast,Incoming graduate students,first 30 days,5694,5138,1585,714,166,136201.85,820.49,30.8,57.3,10.5,73.5,100,Sprint focus,orientation activation bundle,Data
+CMP012,Pioneer STEM College,Midwest,Incoming undergraduate students,credit building,3336,2710,695,309,48,73945.18,1540.52,25.6,57.5,6.9,66.5,100,Sprint focus,orientation activation bundle,Operations
+CMP013,Great Lakes Business Institute,Texas Corridor,STEM masters cohorts,orientation,2945,2834,868,336,74,87712.08,1185.3,30.6,51.4,8.5,91.2,100,Sprint focus,partner webinar and campus ops,Compliance
+CMP014,Canyon State University,West Coast,MBA and professional programs,orientation,7702,7487,1892,884,267,226356.56,847.78,25.3,58.5,14.1,83.0,100,Sprint focus,ambassador and referral loop,Growth
+CMP015,Hudson Applied Sciences,Mountain West,Early career visa holders,pre-arrival,3714,3150,590,208,27,72060.7,2668.91,18.7,47.3,4.6,67.7,100,Sprint focus,trust proof and peer stories,Community
+CMP017,Riverbend University,Northeast,Incoming graduate students,first 30 days,7459,7369,1969,934,220,210924.92,958.75,26.7,60.7,11.2,78.3,100,Sprint focus,partner webinar and campus ops,RevOps
+CMP019,Queen City College,Southeast,STEM masters cohorts,orientation,7143,6591,1468,615,111,138220.11,1245.23,22.3,53.8,7.6,65.3,100,Sprint focus,ambassador and referral loop,Operations
+CMP020,Desert Valley University,Midwest,MBA and professional programs,pre-arrival,5632,4981,1114,420,98,115155.42,1175.06,22.4,48.4,8.8,76.8,100,Sprint focus,ambassador and referral loop,Compliance
+CMP021,Union Graduate School,Texas Corridor,Early career visa holders,first 30 days,4422,3414,869,311,45,87954.13,1954.54,25.5,47.0,5.2,61.4,100,Sprint focus,orientation activation bundle,Growth
+CMP022,Harbor Analytics Institute,West Coast,Family and partner movers,orientation,5145,4899,691,287,30,98557.73,3285.26,14.1,54.5,4.3,64.6,100,Sprint focus,trust proof and peer stories,Community
+CMP023,Keystone International College,Mountain West,Incoming graduate students,orientation,3812,3769,957,373,71,98461.26,1386.78,25.4,50.8,7.4,80.6,100,Sprint focus,ambassador and referral loop,Product
+CMP024,Prairie Data University,Canada Bridge,Incoming undergraduate students,credit building,7337,7185,1702,686,128,195195.95,1524.97,23.7,52.1,7.5,64.9,100,Sprint focus,ambassador and referral loop,RevOps
+CMP025,Redwood Professional School,Northeast,STEM masters cohorts,orientation,4699,4280,1248,477,112,129313.17,1154.58,29.2,49.4,9.0,84.9,100,Sprint focus,partner webinar and campus ops,Data
+CMP026,Magnolia Technical University,Mid-Atlantic,MBA and professional programs,credit building,8895,7443,1530,549,121,213930.14,1768.02,20.6,46.0,7.9,64.9,100,Sprint focus,trust proof and peer stories,Operations
+CMP027,Front Range Institute,Southeast,Early career visa holders,pre-arrival,4300,3589,994,350,58,80972.43,1396.08,27.7,45.5,5.8,63.8,100,Sprint focus,orientation activation bundle,Compliance
+CMP028,Gulf Coast Business School,Midwest,Family and partner movers,first 30 days,2555,1983,562,235,32,53853.43,1682.92,28.3,55.2,5.7,71.4,100,Sprint focus,partner webinar and campus ops,Growth
+CMP029,Maple Bridge University,Texas Corridor,Incoming graduate students,first 30 days,9913,9271,2970,1263,313,250461.13,800.2,32.0,54.1,10.5,73.3,100,Sprint focus,ambassador and referral loop,Community
+CMP031,Twin Cities Applied College,Mountain West,STEM masters cohorts,first 30 days,4884,4992,1401,607,171,128554.9,751.78,28.1,56.5,12.2,82.6,100,Sprint focus,ambassador and referral loop,RevOps
+CMP032,Sunrise Engineering University,Canada Bridge,MBA and professional programs,credit building,7291,7819,2259,974,292,190133.45,651.14,28.9,54.2,12.9,86.0,100,Sprint focus,ambassador and referral loop,Data
+CMP030,Liberty Urban University,West Coast,Incoming undergraduate students,pre-arrival,2725,2486,527,172,23,88685.29,3855.88,21.2,43.7,4.4,73.9,87.3,Sprint focus,orientation activation bundle,Product
+CMP010,Central Research University,Mid-Atlantic,Family and partner movers,credit building,2793,2420,586,175,23,70279.32,3055.62,24.2,39.8,3.9,75.4,80.7,Sprint focus,partner webinar and campus ops,RevOps
+CMP005,Northern Engineering School,Texas Corridor,Incoming graduate students,orientation,3281,3017,711,227,27,89739.04,3323.67,23.6,41.8,3.8,64.1,80.5,Sprint focus,orientation activation bundle,Operations
+CMP006,Capital City University,West Coast,Incoming undergraduate students,first 30 days,2734,2471,478,145,17,75634.97,4449.12,19.3,40.4,3.6,67.7,68.1,Test next,trust proof and peer stories,Compliance
+CMP016,Lone Star Polytechnic,Canada Bridge,Family and partner movers,orientation,3187,2915,637,193,17,81957.25,4821.01,21.9,39.8,2.7,65.9,55.8,Hold,partner webinar and campus ops,Product
+CMP009,Bay Area Graduate Institute,Northeast,Early career visa holders,orientation,3754,3272,494,158,7,87822.84,12546.12,15.1,43.5,1.4,63.1,31.1,Hold,trust proof and peer stories,Product
+CMP018,Northwest Innovation School,Mid-Atlantic,Incoming undergraduate students,pre-arrival,2164,1929,366,133,1,46062.6,46062.6,19.0,49.6,0.3,68.0,10.8,Hold,trust proof and peer stories,Data
+CMP003,Lakeview State,Southeast,Early career visa holders,orientation,1405,1201,146,17,0,29361.3,29361.3,12.2,19.3,0.0,62.9,0,Hold,trust proof and peer stories,RevOps
+CMP004,Pacific Design College,Midwest,Family and partner movers,pre-arrival,2044,1652,270,69,0,40685.36,40685.36,16.3,35.9,0.0,57.8,0,Hold,trust proof and peer stories,Data

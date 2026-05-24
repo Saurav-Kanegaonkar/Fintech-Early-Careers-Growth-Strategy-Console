@@ -1,0 +1,33 @@
+campus_id,campus_name,region,student_segment,primary_start_window,estimated_addressable_students,community_density_score,partner_fit_score,trust_gap_score,compliance_complexity_score,product_fit_score,cost_index,owner
+CMP001,Atlantic Gateway University,Northeast,STEM masters cohorts,first 30 days,5143,78.9,78.9,52.9,33.3,77.6,92.0,Community
+CMP002,Metro Tech Institute,Mid-Atlantic,MBA and professional programs,pre-arrival,7707,77.4,80.4,55.5,24.6,70.2,87.1,Product
+CMP003,Lakeview State,Southeast,Early career visa holders,orientation,1405,70.5,60.1,79.7,59.6,79.2,92.4,RevOps
+CMP004,Pacific Design College,Midwest,Family and partner movers,pre-arrival,2044,48.0,73.5,69.4,47.6,60.3,87.9,Data
+CMP005,Northern Engineering School,Texas Corridor,Incoming graduate students,orientation,3281,61.1,64.7,46.8,53.8,74.5,113.2,Operations
+CMP006,Capital City University,West Coast,Incoming undergraduate students,first 30 days,2734,59.8,71.5,61.4,52.6,83.6,113.9,Compliance
+CMP007,Great Plains Tech,Mountain West,STEM masters cohorts,credit building,6288,96,50.7,63.1,57.9,73.2,81.8,Growth
+CMP008,Summit Business School,Canada Bridge,MBA and professional programs,first 30 days,7446,77.5,55.7,33.0,38.1,96,108.9,Community
+CMP009,Bay Area Graduate Institute,Northeast,Early career visa holders,orientation,3754,55.7,86.1,75.6,39.5,61.2,97.1,Product
+CMP010,Central Research University,Mid-Atlantic,Family and partner movers,credit building,2793,61.3,89.3,40.4,57.0,89.4,112.5,RevOps
+CMP011,South Coast University,Southeast,Incoming graduate students,first 30 days,5694,79.9,51.7,12,24.2,80.7,102.5,Data
+CMP012,Pioneer STEM College,Midwest,Incoming undergraduate students,credit building,3336,63.4,47.5,39.5,18,75.9,102.3,Operations
+CMP013,Great Lakes Business Institute,Texas Corridor,STEM masters cohorts,orientation,2945,95.2,98,14.1,34.9,96,115.0,Compliance
+CMP014,Canyon State University,West Coast,MBA and professional programs,orientation,7702,81.9,75.6,38.6,24.3,96,108.8,Growth
+CMP015,Hudson Applied Sciences,Mountain West,Early career visa holders,pre-arrival,3714,57.2,66.8,62.9,36.7,82.1,85.8,Community
+CMP016,Lone Star Polytechnic,Canada Bridge,Family and partner movers,orientation,3187,72.9,78.6,50.5,57.0,66.4,106.8,Product
+CMP017,Riverbend University,Northeast,Incoming graduate students,first 30 days,7459,75.8,86.6,35.8,19.0,76.2,103.7,RevOps
+CMP018,Northwest Innovation School,Mid-Atlantic,Incoming undergraduate students,pre-arrival,2164,79.8,69.7,60.6,25.2,64.7,88.4,Data
+CMP019,Queen City College,Southeast,STEM masters cohorts,orientation,7143,89.3,50.7,53.4,34.2,67.0,78.6,Operations
+CMP020,Desert Valley University,Midwest,MBA and professional programs,pre-arrival,5632,95.4,57.8,49.5,39.8,92.6,85.5,Compliance
+CMP021,Union Graduate School,Texas Corridor,Early career visa holders,first 30 days,4422,47.0,65.3,37.6,45.0,68.3,102.3,Growth
+CMP022,Harbor Analytics Institute,West Coast,Family and partner movers,orientation,5145,70.5,70.0,82,27.9,65.4,75.8,Community
+CMP023,Keystone International College,Mountain West,Incoming graduate students,orientation,3812,96,71.9,34.9,35.1,88.2,97.7,Product
+CMP024,Prairie Data University,Canada Bridge,Incoming undergraduate students,credit building,7337,87.8,48.9,50.8,39.2,69.1,105.2,RevOps
+CMP025,Redwood Professional School,Northeast,STEM masters cohorts,orientation,4699,85.2,92.3,19.4,42.0,91.2,112.8,Data
+CMP026,Magnolia Technical University,Mid-Atlantic,MBA and professional programs,credit building,8895,58.3,63.3,58.0,49.4,80.0,105.5,Operations
+CMP027,Front Range Institute,Southeast,Early career visa holders,pre-arrival,4300,68.1,48.0,29.1,49.8,76.0,85.7,Compliance
+CMP028,Gulf Coast Business School,Midwest,Family and partner movers,first 30 days,2555,44.2,78.9,26.5,18.7,75.8,104.4,Growth
+CMP029,Maple Bridge University,Texas Corridor,Incoming graduate students,first 30 days,9913,82.3,65.2,12,35.3,74.3,102.2,Community
+CMP030,Liberty Urban University,West Coast,Incoming undergraduate students,pre-arrival,2725,77.5,59.0,55.2,45.7,96,131.2,Product
+CMP031,Twin Cities Applied College,Mountain West,STEM masters cohorts,first 30 days,4884,85.3,69.2,25.0,23.1,94.0,97.5,RevOps
+CMP032,Sunrise Engineering University,Canada Bridge,MBA and professional programs,credit building,7291,96,77.6,23.3,33.0,96,87.1,Data

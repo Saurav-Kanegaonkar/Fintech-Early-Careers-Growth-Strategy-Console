@@ -1,0 +1,25 @@
+action_id,workstream,owner,sprint_week,action,expected_lift,effort_hours,dependency,status
+ACT001,Cohort focus,Community,Week 1,Build partner webinar and campus ops for STEM masters cohorts.,7.3,20,weekly campus funnel readout,Planned
+ACT002,Cohort focus,Product,Week 2,Build partner webinar and campus ops for MBA and professional programs.,13.7,42,weekly campus funnel readout,Planned
+ACT003,Cohort focus,Growth,Week 3,Build trust proof and peer stories for STEM masters cohorts.,5.5,27,weekly campus funnel readout,Planned
+ACT004,Cohort focus,Community,Week 4,Build orientation activation bundle for MBA and professional programs.,21.1,38,weekly campus funnel readout,Planned
+ACT005,Cohort focus,Data,Week 5,Build orientation activation bundle for Incoming graduate students.,14.9,30,weekly campus funnel readout,Backlog
+ACT006,Cohort focus,Operations,Week 6,Build orientation activation bundle for Incoming undergraduate students.,4.3,35,weekly campus funnel readout,Backlog
+ACT007,Cohort focus,Compliance,Week 7,Build partner webinar and campus ops for STEM masters cohorts.,6.7,14,weekly campus funnel readout,Backlog
+ACT008,Cohort focus,Growth,Week 8,Build ambassador and referral loop for MBA and professional programs.,24.0,42,weekly campus funnel readout,Backlog
+ACT009,Experiment,Community,Week 5,Do not pursue: Student referral loops at Desert Valley University.,18,11,credit education,Planned
+ACT010,Experiment,RevOps,Week 7,Do not pursue: Student referral loops at Riverbend University.,18,19,peer challenge,Planned
+ACT011,Experiment,RevOps,Week 6,Do not pursue: Campus ambassadors at Great Lakes Business Institute.,18,30,fee waiver,Planned
+ACT012,Experiment,RevOps,Week 5,Do not pursue: Creator content at Atlantic Gateway University.,18,30,credit education,Planned
+ACT013,Experiment,Community,Week 1,Do not pursue: Campus ambassadors at Queen City College.,18,33,arrival checklist,Planned
+ACT014,Experiment,Growth,Week 6,Do not pursue: Student referral loops at Summit Business School.,18,33,cashback boost,Planned
+ACT015,Experiment,Growth,Week 5,Do not pursue: Campus ambassadors at South Coast University.,18,25,office hours,Planned
+ACT016,Experiment,RevOps,Week 6,Do not pursue: Campus ambassadors at Pioneer STEM College.,18,11,cashback boost,Planned
+ACT017,Readiness,Product,Week 4,Add onboarding copy and checklist to the activation step.,287.8,53,approval to funding,Ready to fix
+ACT018,Readiness,Operations,Week 7,Publish document examples before application handoff.,215.1,74,application to KYC,Ready to fix
+ACT019,Readiness,Operations,Week 6,Publish document examples before application handoff.,198.0,17,application to KYC,Ready to fix
+ACT020,Readiness,Product,Week 9,Add onboarding copy and checklist to the activation step.,109.3,30,funding to card activation,Ready to fix
+ACT021,Readiness,Product,Week 8,Add onboarding copy and checklist to the activation step.,97.2,37,funding to card activation,Ready to fix
+ACT022,Readiness,Product,Week 5,Add onboarding copy and checklist to the activation step.,196.7,48,funding to card activation,In review
+ACT023,Readiness,Product,Week 6,Add onboarding copy and checklist to the activation step.,137.7,46,funding to card activation,In review
+ACT024,Readiness,Compliance,Week 9,Publish document examples before application handoff.,132.1,48,KYC to approval,In review
