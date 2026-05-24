@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+GRO036,Growth initiative 36,Watch,97.47,51.1,82.1,840808
+GRO009,Growth initiative 9,Watch,93.69,50.4,81.2,789958
+GRO031,Growth initiative 31,Watch,93.30,49.2,81.3,795649
+GRO005,Growth initiative 5,Core,93.02,49.8,80.3,781879
+GRO032,Growth initiative 32,Core,91.43,49.0,79.6,763841
+GRO016,Growth initiative 16,Watch,90.14,53.1,80.1,711681
+GRO013,Growth initiative 13,Growth,87.52,50.9,80.7,696870
+GRO004,Growth initiative 4,Growth,82.24,51.7,81.0,617061
+GRO008,Growth initiative 8,Strategic,82.10,49.9,79.8,625725
+GRO015,Growth initiative 15,Strategic,81.88,54.5,79.6,581452
+GRO006,Growth initiative 6,Growth,81.81,53.1,80.4,596703
+GRO017,Growth initiative 17,Core,79.98,50.6,79.1,586983
+GRO033,Growth initiative 33,Watch,79.33,52.6,79.7,562960
+GRO023,Growth initiative 23,Strategic,79.24,51.9,80.5,571773
+GRO025,Growth initiative 25,Strategic,78.55,48.9,80.6,588538
+GRO024,Growth initiative 24,Growth,78.48,52.6,79.8,552017
+GRO007,Growth initiative 7,Core,78.45,53.6,80.4,545442
+GRO035,Growth initiative 35,Core,77.23,49.9,81.0,562796
+GRO012,Growth initiative 12,Strategic,76.78,51.7,80.7,539596
+GRO026,Growth initiative 26,Growth,76.20,50.2,81.4,547538
+GRO019,Growth initiative 19,Growth,73.52,50.0,79.2,501868
+GRO014,Growth initiative 14,Growth,73.46,49.1,80.7,516167
+GRO001,Growth initiative 1,Growth,73.04,55.3,81.7,459909
+GRO002,Growth initiative 2,Watch,72.98,49.2,79.2,501697
+GRO022,Growth initiative 22,Growth,72.72,52.6,80.8,475650
